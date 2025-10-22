@@ -58,7 +58,7 @@ export default function SalahAzkarPage() {
       await updateDoc(docRef, {
         [path]: deleteField()
       })
-      fetchData()
+      await fetchData()
       alert('Deleted successfully!')
     } catch (error) {
       alert('Error deleting: ' + error.message)
