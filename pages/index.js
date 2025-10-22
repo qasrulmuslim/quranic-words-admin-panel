@@ -19,7 +19,7 @@ export default function Dashboard({ user }) {
     { name: 'salah_azkar', label: 'Salah Azkar', icon: Moon, path: '/salah' },
     // { name: 'surahs', label: 'Surahs', icon: Book, path: '/surahs' },
     { name: 'wudu', label: 'Wudu', icon: Droplets, path: '/wudu' },
-    { name: 'names_list', label: 'Names List', icon: Users, path: '/names' }
+    // { name: 'names_list', label: 'Names List', icon: Users, path: '/names' }
   ]
 
   useEffect(() => {
