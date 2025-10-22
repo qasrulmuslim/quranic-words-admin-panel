@@ -55,25 +55,11 @@ export default function SalahAzkarPage() {
     
     try {
       const docRef = doc(db, 'salah_azkar', docId)
-      const snapshot = await getDocs(collection(db, 'salah_azkar'))
-      const document = snapshot.docs.find(d => d.id === docId)
-      
-      if (document) {
-        const currentData = document.data()
-        const pathParts = path.split('.')
-        
-        let parent = currentData
-        for (let i = 0; i < pathParts.length - 1; i++) {
-          parent = parent[pathParts[i]]
-        }
-        
-        const lastKey = pathParts[pathParts.length - 1]
-        delete parent[lastKey]
-        
-        await updateDoc(docRef, currentData)
-        fetchData()
-        alert('Deleted successfully!')
-      }
+      await updateDoc(docRef, {
+        [path]: deleteField()
+      })
+      fetchData()
+      alert('Deleted successfully!')
     } catch (error) {
       alert('Error deleting: ' + error.message)
     }
