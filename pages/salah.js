@@ -26,10 +26,14 @@ export default function SalahAzkarPage() {
       
       snapshot.docs.forEach(doc => {
         allData[doc.id] = doc.data()
+        console.log('📄 FETCHED DOC:', doc.id, allData[doc.id]) // DEBUG
       })
       
+      console.log('🎯 FINAL DATA:', allData) // DEBUG
       setData(allData)
+      return allData // RETURN DATA
     } catch (error) {
+      console.error('FETCH ERROR:', error)
       alert('Error fetching data: ' + error.message)
     } finally {
       setLoading(false)
@@ -51,16 +55,29 @@ export default function SalahAzkarPage() {
   }
 
   const handleDelete = async (docId, path) => {
+    console.log('🗑️ DELETING:', { docId, path }) // DEBUG
+    
     if (!confirm('Are you sure you want to delete this item?')) return
     
     try {
       const docRef = doc(db, 'salah_azkar', docId)
+      console.log('📝 BEFORE DELETE - Document Ref:', docRef.path)
+      
       await updateDoc(docRef, {
         [path]: deleteField()
       })
-      await fetchData()
+      console.log('✅ DELETE SUCCESS - Firestore updated!')
+      
+      // Wait 1 second for Firestore to sync
+      await new Promise(resolve => setTimeout(resolve, 1000))
+      
+      console.log('🔄 REFRESHING DATA...')
+      const freshData = await fetchData()
+      console.log('📊 FRESH DATA AFTER DELETE:', freshData)
+      
       alert('Deleted successfully!')
     } catch (error) {
+      console.error('❌ DELETE ERROR:', error)
       alert('Error deleting: ' + error.message)
     }
   }
