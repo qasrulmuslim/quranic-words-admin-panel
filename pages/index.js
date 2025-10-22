@@ -18,7 +18,7 @@ export default function Dashboard({ user }) {
     { name: 'quranic_duas', label: 'Quranic Duas', icon: BookOpen, path: '/quranic-duas' },
     { name: 'salah_azkar', label: 'Salah Azkar', icon: Moon, path: '/salah' },
     // { name: 'surahs', label: 'Surahs', icon: Book, path: '/surahs' },
-    { name: 'wudu', label: 'Wudu', icon: Droplets, path: '/wudu' },
+    // { name: 'wudu', label: 'Wudu', icon: Droplets, path: '/wudu' },
     // { name: 'names_list', label: 'Names List', icon: Users, path: '/names' }
   ]
 
@@ -124,7 +124,7 @@ export default function Dashboard({ user }) {
       {/* Header */}
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gray-800">Quranic Words Admin Panel</h1>
+          <h1 className="text-2xl font-bold text-gray-800">Admin Panel</h1>
           <div className="flex items-center gap-4">
             <span className="text-sm text-gray-600">{user?.email}</span>
             <button
