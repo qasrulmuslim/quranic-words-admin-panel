@@ -26,14 +26,12 @@ export default function SalahAzkarPage() {
       
       snapshot.docs.forEach(doc => {
         allData[doc.id] = doc.data()
-        console.log('📄 FETCHED DOC:', doc.id, allData[doc.id]) // DEBUG
       })
       
-      console.log('🎯 FINAL DATA:', allData) // DEBUG
-      setData(allData)
-      return allData // RETURN DATA
+      // 🔥 THIS LINE FIXES IT - CREATE NEW OBJECT
+      setData({ ...allData })
+      return allData
     } catch (error) {
-      console.error('FETCH ERROR:', error)
       alert('Error fetching data: ' + error.message)
     } finally {
       setLoading(false)
