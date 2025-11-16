@@ -3,7 +3,7 @@ import { collection, getDocs } from 'firebase/firestore'
 import { db, auth } from '@/lib/firebase'
 import { signOut } from 'firebase/auth'
 import { useRouter } from 'next/router'
-import { Book, FileText, Heart, Moon, Sun, Droplets, BookOpen, LogOut, Users } from 'lucide-react'
+import { Book, FileText, Heart, Moon, Sun, Droplets, BookOpen, LogOut, Users, BookMarked } from 'lucide-react'
 
 export default function Dashboard({ user }) {
   const [stats, setStats] = useState({})
@@ -11,6 +11,7 @@ export default function Dashboard({ user }) {
   const router = useRouter()
 
   const collections = [
+    { name: 'quranic_words', label: "Quranic Words", icon: BookMarked, path: '/quranic-words' },
     { name: 'attributes_of_allah', label: "Allah's Names", icon: Heart, path: '/attributes' },
     { name: 'duas', label: 'Duas', icon: Book, path: '/duas' },
     { name: 'hadees_data', label: 'Hadees', icon: FileText, path: '/hadees' },
@@ -29,6 +30,23 @@ export default function Dashboard({ user }) {
   const fetchStats = async () => {
     try {
       const statsData = {}
+      
+      // For quranic_words - count all words across levels
+      const quranicWordsSnapshot = await getDocs(collection(db, 'quranic_words'))
+      let quranicWordsCount = 0
+      quranicWordsSnapshot.docs.forEach(doc => {
+        const data = doc.data()
+        // Each document is a level (level_1, level_2, level_3)
+        // Each field in the document is a category containing words
+        Object.values(data).forEach(categoryData => {
+          if (Array.isArray(categoryData)) {
+            quranicWordsCount += categoryData.length
+          } else if (typeof categoryData === 'object') {
+            quranicWordsCount += Object.keys(categoryData).length
+          }
+        })
+      })
+      statsData['quranic_words'] = quranicWordsCount
       
       // For attributes_of_allah - count items in 'allah' field
       const attributesSnapshot = await getDocs(collection(db, 'attributes_of_allah'))
