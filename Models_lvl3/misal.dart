@@ -1,0 +1,73 @@
+import '../Models/words_data.dart';
+
+import '../constants.dart';
+import '../data.dart';
+
+List<WordsData> misal = [
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (واوی)',
+    color: red,
+    n: '1',
+    name: 'وَھَبَ',
+    urdu: 'عطا کرنا',
+    eng: 'he bestows',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (واوی)',
+    color: yellow,
+    n: '2',
+    name: 'وَلَجَ',
+    urdu: 'داخل ہونا',
+    eng: 'to enter',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (واوی)',
+    color: torquise,
+    n: '3',
+    name: 'وَرِثَ',
+    urdu: 'وارث ہونا',
+    eng: 'to bean heir',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (یائی)',
+    color: orange,
+    n: '4',
+    name: 'یَسَرَ',
+    urdu: 'آسان ہونا',
+    eng: 'to be easy',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (یائی)',
+    color: darkGreen,
+    n: '5',
+    name: 'یَتِمَ',
+    urdu: 'یتیم ہونا',
+    eng: 'being an orphan',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[4].topic,
+    engheading: threeTopics[4].eng.capitalize(),
+    subheading: 'مثال (یائی)',
+    color: red,
+    n: '6',
+    name: 'یَقُظَ',
+    urdu: 'جاگنا',
+    eng: 'to wake up',
+    g: ' ',
+  ),
+];

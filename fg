@@ -1,0 +1,201 @@
+#!/usr/bin/env python3
+"""
+ULTIMATE FIXED - Handles BOTH quoted strings AND variable references
+"""
+
+import re
+import json
+import os
+
+def extract_field_value(field_name, content):
+    """
+    Extract field value - handles BOTH:
+    1. Quoted strings: urdu: 'value',
+    2. Variables: engheading: quranTopics[18].eng.capitalize(),
+    """
+    
+    # Try pattern 1: Quoted string
+    pattern1 = rf"{field_name}:\s*'([^']*)',"
+    match1 = re.search(pattern1, content)
+    if match1:
+        return match1.group(1)
+    
+    # Try pattern 2: Variable reference (skip it, return empty)
+    pattern2 = rf"{field_name}:\s*[a-zA-Z\[\]\.0-9()]+,"
+    match2 = re.search(pattern2, content)
+    if match2:
+        return ''  # Return empty for variables
+    
+    return ''
+
+def parse_words_data_from_content(content):
+    """
+    Parse WordsData objects - handles all formats
+    """
+    words = []
+    
+    # Find all WordsData objects
+    pattern = r'WordsData\s*\((.*?)\s*\),'
+    matches = re.finditer(pattern, content, re.DOTALL)
+    
+    for match in matches:
+        obj_content = match.group(1)
+        word = {}
+        
+        # Extract each field
+        fields = ['urduheading', 'engheading', 'subheading', 'name', 'urdu', 'eng', 'g', 'n']
+        
+        for field in fields:
+            word[field] = extract_field_value(field, obj_content)
+        
+        # Only add if it has a name
+        if word.get('name', '').strip():
+            words.append(word)
+    
+    return words
+
+def convert_all_dart_files(project_root):
+    """
+    Convert ALL Dart files to Firestore JSON
+    """
+    
+    file_mappings = [
+        # LEVEL 1
+        ('lib/Models/pronoun_data.dart', 'level_1', 'pronouns'),
+        ('lib/Models/demospronoun_data.dart', 'level_1', 'demonstrative_pronouns'),
+        ('lib/Models/relativepro_data.dart', 'level_1', 'relative_pronouns'),
+        ('lib/Models/preposition_data.dart', 'level_1', 'prepositions'),
+        ('lib/Models/withpreposition_data.dart', 'level_1', 'prepositions_with_pronouns'),
+        ('lib/Models/prepowithmaa_data.dart', 'level_1', 'preposition_with_maa'),
+        ('lib/Models/conjunc_data.dart', 'level_1', 'conjunctions'),
+        ('lib/Models/makan_data.dart', 'level_1', 'place_words'),
+        ('lib/Models/zaman_data.dart', 'level_1', 'time_words'),
+        ('lib/Models/nafi_data.dart', 'level_1', 'negatives'),
+        ('lib/Models/interonouns_data.dart', 'level_1', 'interrogatives'),
+        ('lib/Models/interonounwith_data.dart', 'level_1', 'interrogatives_with_prep'),
+        ('lib/Models/conditional_data.dart', 'level_1', 'conditionals'),
+        ('lib/Models/sprated_data.dart', 'level_1', 'separated_words'),
+        ('lib/Models/murakabs_data.dart', 'level_1', 'murakabs_izafi'),
+        ('lib/Models/sentences_data.dart', 'level_1', 'sentences'),
+        ('lib/Models/signs_data.dart', 'level_1', 'signs'),
+        
+        # LEVEL 2
+        ('lib/Models_lvl2/colors.dart', 'level_2', 'colors'),
+        ('lib/Models_lvl2/fruits.dart', 'level_2', 'fruits'),
+        ('lib/Models_lvl2/veg.dart', 'level_2', 'vegetables'),
+        ('lib/Models_lvl2/animals.dart', 'level_2', 'animals'),
+        ('lib/Models_lvl2/bodyparts.dart', 'level_2', 'body_parts'),
+        ('lib/Models_lvl2/relatives.dart', 'level_2', 'relatives'),
+        ('lib/Models_lvl2/blessings.dart', 'level_2', 'blessings'),
+        ('lib/Models_lvl2/deeds.dart', 'level_2', 'deeds'),
+        ('lib/Models_lvl2/jannah.dart', 'level_2', 'jannah'),
+        ('lib/Models_lvl2/fire.dart', 'level_2', 'fire'),
+        ('lib/Models_lvl2/adjectives_data.dart', 'level_2', 'adjectives'),
+        
+        # LEVEL 3
+        ('lib/Models_lvl3/patterns.dart', 'level_3', 'patterns'),
+        ('lib/Models_lvl3/past_tense.dart', 'level_3', 'past_tense'),
+        ('lib/Models_lvl3/present_future.dart', 'level_3', 'present_future'),
+        ('lib/Models_lvl3/verb.dart', 'level_3', 'verb_forms'),
+        ('lib/Models_lvl3/misal.dart', 'level_3', 'misal'),
+        ('lib/Models_lvl3/ajwaf.dart', 'level_3', 'ajwaf'),
+        ('lib/Models_lvl3/active_passive.dart', 'level_3', 'active_passive'),
+    ]
+    
+    firestore_data = {'level_1': {}, 'level_2': {}, 'level_3': {}}
+    total_words = 0
+    processed = 0
+    
+    print("=" * 70)
+    print("QURANIC WORDS - ULTIMATE CONVERTER")
+    print("=" * 70)
+    print()
+    
+    for file_path, level, category in file_mappings:
+        full_path = os.path.join(project_root, file_path)
+        
+        if os.path.exists(full_path):
+            print(f"📄 {file_path}")
+            
+            try:
+                with open(full_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    words = parse_words_data_from_content(content)
+                    
+                    if words:
+                        firestore_data[level][category] = words
+                        total_words += len(words)
+                        processed += 1
+                        print(f"   ✅ {len(words)} words")
+                    else:
+                        print(f"   ⚠️  No words")
+                        
+            except Exception as e:
+                print(f"   ❌ {str(e)}")
+        else:
+            print(f"⚠️  NOT FOUND: {file_path}")
+    
+    print()
+    print("=" * 70)
+    print(f"✓ Processed: {processed}/{len(file_mappings)}")
+    print(f"✓ Total words: {total_words}")
+    print(f"✓ Level 1: {len(firestore_data['level_1'])} categories")
+    print(f"✓ Level 2: {len(firestore_data['level_2'])} categories")
+    print(f"✓ Level 3: {len(firestore_data['level_3'])} categories")
+    print("=" * 70)
+    print()
+    
+    # Save
+    output = os.path.join(project_root, 'firestore_data.json')
+    with open(output, 'w', encoding='utf-8') as f:
+        json.dump(firestore_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"💾 Saved: {output}")
+    print()
+    
+    # Samples
+    if firestore_data['level_1'].get('demonstrative_pronouns'):
+        print("✓ Sample (Level 1):")
+        print(json.dumps(firestore_data['level_1']['demonstrative_pronouns'][0], ensure_ascii=False, indent=2))
+        print()
+    
+    if firestore_data['level_2'].get('body_parts'):
+        print("✓ Sample (Level 2):")
+        print(json.dumps(firestore_data['level_2']['body_parts'][0], ensure_ascii=False, indent=2))
+        print()
+    
+    if firestore_data['level_3'].get('patterns'):
+        print("✓ Sample (Level 3):")
+        print(json.dumps(firestore_data['level_3']['patterns'][0], ensure_ascii=False, indent=2))
+        print()
+    
+    print("=" * 70)
+    print("✅ DONE! Now run: node upload_to_firestore_auto.js")
+    print("=" * 70)
+    
+    return firestore_data
+
+def main():
+    import sys
+    
+    print("\n🚀 Ultimate Dart to JSON Converter\n")
+    
+    if len(sys.argv) > 1:
+        project_root = sys.argv[1]
+    else:
+        print("Enter project path:")
+        project_root = input("Path: ").strip().strip('"').strip("'")
+    
+    if not os.path.exists(project_root):
+        print(f"❌ Not found: {project_root}")
+        return
+    
+    if not os.path.exists(os.path.join(project_root, 'lib')):
+        print(f"❌ No 'lib' folder in: {project_root}")
+        return
+    
+    print(f"✓ Project: {project_root}\n")
+    convert_all_dart_files(project_root)
+
+if __name__ == "__main__":
+    main()

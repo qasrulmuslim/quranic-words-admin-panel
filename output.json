@@ -1,0 +1,94 @@
+{
+  "conditionals": [
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "1",
+      "name": "اِنَّ",
+      "urdu": "بے شک",
+      "eng": "For sure",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "2",
+      "name": "اَنَّ",
+      "urdu": "بے شک",
+      "eng": "That",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "3",
+      "name": "کَاَنَّ - کَاَنْ",
+      "urdu": "گویا کہ/  جیسا کہ",
+      "eng": "As thought/ As if",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "4",
+      "name": "لَکِنَّ",
+      "urdu": "لیکن",
+      "eng": "But",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "5",
+      "name": "لَیْتَ",
+      "urdu": "کاش",
+      "eng": "If Only",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "6",
+      "name": "لَعَلَّ",
+      "urdu": "شاید",
+      "eng": "Maybe",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "6",
+      "name": "بِأَنَّ - بِاَنْ",
+      "urdu": "کیونکہ",
+      "eng": "because",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "6",
+      "name": "اَنْ",
+      "urdu": "کہ",
+      "eng": "That",
+      "g": " "
+    },
+    {
+      "urduheading": "حروف مشبہ بالفعل",
+      "engheading": "Conditional Words",
+      "subheading": " ",
+      "n": "6",
+      "name": "اِنْ",
+      "urdu": "اگر",
+      "eng": "if",
+      "g": " "
+    }
+  ]
+}

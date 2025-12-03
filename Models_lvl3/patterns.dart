@@ -1,0 +1,73 @@
+import '../Models/words_data.dart';
+
+import '../constants.dart';
+import '../data.dart';
+
+List<WordsData> patterns = [
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: red,
+    n: '1',
+    name: 'نَصَرَ',
+    urdu: 'اُس نے مدد کی',
+    eng: 'he helped',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: yellow,
+    n: '2',
+    name: 'ضَرَبَ',
+    urdu: 'اُس نے مارا',
+    eng: 'he killed',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: torquise,
+    n: '3',
+    name: 'فَتَحَ',
+    urdu: 'اُس نے کھولا',
+    eng: 'he opened',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: orange,
+    n: '4',
+    name: 'سَمِعَ',
+    urdu: 'اُس نے سنا',
+    eng: 'he heard',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: darkGreen,
+    n: '5',
+    name: 'کَرُمَ',
+    urdu: 'اُس نے تعظیم کی',
+    eng: 'he bowed',
+    g: ' ',
+  ),
+  WordsData(
+    urduheading: threeTopics[0].topic,
+    engheading: threeTopics[0].eng.capitalize(),
+    subheading: ' ',
+    color: red,
+    n: '6',
+    name: 'حَسِبَ',
+    urdu: 'اُس نے گمان کیا',
+    eng: 'he assumed',
+    g: ' ',
+  ),
+];

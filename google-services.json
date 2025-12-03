@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392631295021",
+    "project_id": "quranic-words-d3dee",
+    "storage_bucket": "quranic-words-d3dee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392631295021:android:f14dc66895f22f0e35aca4",
+        "android_client_info": {
+          "package_name": "com.quranic_words.quranic_words"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gZyxYlkqavAxvrQvUrJ6SroKwaiRFKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
