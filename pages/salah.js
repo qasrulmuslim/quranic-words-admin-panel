@@ -73,10 +73,27 @@ export default function SalahAzkarPage() {
         parent = parent[pathParts[i]]
       }
       
-      // Delete the field
-      delete parent[pathParts[pathParts.length - 1]]
+      const keyToDelete = pathParts[pathParts.length - 1]
       
-      // ✅ Simple: Just overwrite the entire document
+      // ✅ REBUILD: Convert to array, filter out the item, rebuild object
+      const entries = Object.entries(parent)
+      const filtered = entries.filter(([key]) => key !== keyToDelete)
+      
+      // Rebuild with sequential numeric keys
+      const rebuilt = {}
+      filtered.forEach(([_, value], index) => {
+        rebuilt[index] = value
+      })
+      
+      // Replace parent content
+      const parentKey = pathParts[pathParts.length - 1]
+      let parentOfParent = data
+      for (let i = 0; i < pathParts.length - 2; i++) {
+        parentOfParent = parentOfParent[pathParts[i]]
+      }
+      parentOfParent[pathParts[pathParts.length - 2]] = rebuilt
+      
+      // Update Firestore
       await setDoc(docRef, data)
       
       await fetchData()
