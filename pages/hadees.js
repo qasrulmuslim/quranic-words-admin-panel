@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { collection, getDocs, addDoc, updateDoc, deleteDoc, doc } from 'firebase/firestore'
+import { collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc } from 'firebase/firestore'
 import { db } from '@/lib/firebase'
 import { useRouter } from 'next/router'
 import { ArrowLeft, Plus, Edit2, Trash2, Save, X } from 'lucide-react'
@@ -61,69 +61,57 @@ export default function HadeesPage() {
   const handleSubmit = async (e) => {
     e.preventDefault()
     try {
+      const surahId = formData.surah_id.toString() // Use surah_id as document ID
+      
       if (editingItem) {
+        // Update existing hadith
         const docRef = doc(db, 'hadees_data', editingItem.docId)
-        const docSnap = await getDocs(collection(db, 'hadees_data'))
-        const document = docSnap.docs.find(d => d.id === editingItem.docId)
+        const docSnap = await getDoc(docRef)
         
-        if (document) {
-          const currentData = document.data()
+        if (docSnap.exists()) {
+          const currentData = docSnap.data()
           const updatedHadiths = { ...currentData.hadiths }
           updatedHadiths[editingItem.index] = {
             book: formData.book,
-            hadith_number: formData.hadith_number,
             text_arabic: formData.text_arabic,
-            text_urdu: formData.text_urdu
+            text_urdu: formData.text_urdu,
+            hadith_number: formData.hadith_number
           }
           
           await updateDoc(docRef, { 
-            surah_id: formData.surah_id,
+            hadiths: updatedHadiths,
+            surah_id: parseInt(formData.surah_id),
             surah_name_arabic: formData.surah_name_arabic,
-            surah_name_english: formData.surah_name_english,
-            hadiths: updatedHadiths 
+            surah_name_english: formData.surah_name_english
           })
         }
       } else {
-        // Check if document with this surah_id already exists
-        const snapshot = await getDocs(collection(db, 'hadees_data'))
-        const existingDoc = snapshot.docs.find(doc => {
-          const data = doc.data()
-          return data.surah_id && data.surah_id === formData.surah_id
-        })
-        
-        if (existingDoc && formData.surah_id) {
-          // Add to existing document
-          const currentData = existingDoc.data()
-          const hadiths = currentData.hadiths || {}
-          const nextIndex = Math.max(...Object.keys(hadiths).map(Number), -1) + 1
-          
-          hadiths[nextIndex] = {
-            book: formData.book,
-            hadith_number: formData.hadith_number,
-            text_arabic: formData.text_arabic,
-            text_urdu: formData.text_urdu
-          }
-          
-          await updateDoc(doc(db, 'hadees_data', existingDoc.id), { hadiths })
-        } else {
-          // Create new document
-          await addDoc(collection(db, 'hadees_data'), {
-            surah_id: formData.surah_id,
-            surah_name_arabic: formData.surah_name_arabic,
-            surah_name_english: formData.surah_name_english,
-            hadiths: {
-              0: {
-                book: formData.book,
-                hadith_number: formData.hadith_number,
-                text_arabic: formData.text_arabic,
-                text_urdu: formData.text_urdu
-              }
+        // ✅ FIX: Use setDoc with surah_id as document ID
+        await setDoc(doc(db, 'hadees_data', surahId), {
+          surah_id: parseInt(formData.surah_id),
+          surah_name_arabic: formData.surah_name_arabic,
+          surah_name_english: formData.surah_name_english,
+          hadiths: {
+            0: {
+              book: formData.book,
+              text_arabic: formData.text_arabic,
+              text_urdu: formData.text_urdu,
+              hadith_number: formData.hadith_number
             }
-          })
-        }
+          }
+        })
       }
+      
       setShowModal(false)
-      setFormData({ book: '', hadith_number: '', text_arabic: '', text_urdu: '', surah_id: '', surah_name_arabic: '', surah_name_english: '' })
+      setFormData({ 
+        surah_id: '', 
+        surah_name_arabic: '', 
+        surah_name_english: '', 
+        book: '', 
+        text_arabic: '', 
+        text_urdu: '', 
+        hadith_number: '' 
+      })
       setEditingItem(null)
       fetchItems()
     } catch (error) {
