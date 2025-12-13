@@ -60,25 +60,34 @@ export default function SalahAzkarPage() {
     try {
       const docRef = doc(db, 'salah_azkar', docId)
       
-      await updateDoc(docRef, {
-        [path]: deleteField()
-      })
+      // ✅ FIX: Fetch current document, manually delete, then update
+      const snapshot = await getDocs(collection(db, 'salah_azkar'))
+      const document = snapshot.docs.find(d => d.id === docId)
       
-      console.log('✅ DELETE SUCCESS')
+      if (!document) {
+        alert('Document not found!')
+        return
+      }
       
-      // ✅ FIX: Immediately update local state
-      setData(prevData => {
-        const newData = JSON.parse(JSON.stringify(prevData)) // Deep clone
-        const pathParts = path.split('.')
-        
-        let current = newData[docId]
-        for (let i = 0; i < pathParts.length - 1; i++) {
-          current = current[pathParts[i]]
-        }
-        delete current[pathParts[pathParts.length - 1]]
-        
-        return newData
-      })
+      const currentData = document.data()
+      const pathParts = path.split('.')
+      
+      // Navigate to parent and delete the field
+      let parent = currentData
+      for (let i = 0; i < pathParts.length - 1; i++) {
+        parent = parent[pathParts[i]]
+      }
+      
+      // Delete the field
+      delete parent[pathParts[pathParts.length - 1]]
+      
+      // Update Firestore with the modified data
+      await updateDoc(docRef, currentData)
+      
+      console.log('✅ DELETE SUCCESS - Firestore updated!')
+      
+      // Refresh data
+      await fetchData()
       
       alert('Deleted successfully!')
     } catch (error) {
