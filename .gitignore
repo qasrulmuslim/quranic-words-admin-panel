@@ -25,10 +25,15 @@ yarn-error.log*
 # Local env files
 .env*.local
 .env
-
+.ser
 # Vercel
 .vercel
 
 # Typescript
 *.tsbuildinfo
 next-env.d.ts
+
+upload_to_firestore.py
+
+serviceAccountKey.json
+google-services.json

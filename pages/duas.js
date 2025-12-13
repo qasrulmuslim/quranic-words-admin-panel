@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { collection, getDocs, addDoc, updateDoc, deleteDoc, doc } from 'firebase/firestore'
+import { collection, getDocs, addDoc, updateDoc, deleteDoc, doc ,setDoc } from 'firebase/firestore'
 import { db } from '@/lib/firebase'
 import { useRouter } from 'next/router'
 import { ArrowLeft, Plus, Edit2, Trash2, Save, X } from 'lucide-react'
@@ -77,8 +77,14 @@ export default function DuasPage() {
           })
         }
       } else {
-        // Create new document with duas.0 structure
-        await addDoc(collection(db, 'duas'), {
+        // ✅ FIX: Use title as document ID instead of auto-generated ID
+        const categoryId = formData.title
+          .trim()
+          .replace(/\s+/g, '_') // Replace spaces with underscores
+          .replace(/[^\w\u0600-\u06FF_-]/g, '') // Keep alphanumeric, Arabic, underscores, hyphens
+        
+        // Use setDoc with custom ID instead of addDoc
+        await setDoc(doc(db, 'duas', categoryId), {
           title: formData.title,
           duas: {
             0: {

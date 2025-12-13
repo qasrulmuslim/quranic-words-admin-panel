@@ -1,0 +1,5697 @@
+{
+  "level_1": {
+    "conditionals": [
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "1",
+        "name": "اِنَّ",
+        "urdu": "بے شک",
+        "eng": "For sure",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَنَّ",
+        "urdu": "بے شک",
+        "eng": "That",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "کَاَنَّ - کَاَنْ",
+        "urdu": "گویا کہ/  جیسا کہ",
+        "eng": "As thought/ As if",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "4",
+        "name": "لَکِنَّ",
+        "urdu": "لیکن",
+        "eng": "But",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "5",
+        "name": "لَیْتَ",
+        "urdu": "کاش",
+        "eng": "If Only",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَعَلَّ",
+        "urdu": "شاید",
+        "eng": "Maybe",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "بِأَنَّ - بِاَنْ",
+        "urdu": "کیونکہ",
+        "eng": "because",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَنْ",
+        "urdu": "کہ",
+        "eng": "That",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف مشبہ بالفعل",
+        "engheading": "Conditional Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "اِنْ",
+        "urdu": "اگر",
+        "eng": "if",
+        "g": " "
+      }
+    ],
+    "conjunctions": [
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "1",
+        "name": "وَ",
+        "urdu": "اور",
+        "eng": "and",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "2",
+        "name": "فَ",
+        "urdu": "پس",
+        "eng": "then/ so",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "3",
+        "name": "ثُمَّ",
+        "urdu": "پھر",
+        "eng": "then",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَوْ",
+        "urdu": "یا",
+        "eng": "or",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "5",
+        "name": "حَتّٰی",
+        "urdu": "یہاں تک کہ",
+        "eng": "till/ even",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَمْ",
+        "urdu": "یا",
+        "eng": "or?",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "13",
+        "name": "لَا",
+        "urdu": "نہیں",
+        "eng": "not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "14",
+        "name": "لٰکِنْ",
+        "urdu": "لیکن",
+        "eng": "but",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "4",
+        "name": "بَلْ",
+        "urdu": "بلکہ",
+        "eng": "rather",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف الْعَطف",
+        "engheading": "Conjunctions",
+        "subheading": " ",
+        "n": "5",
+        "name": "اِمَّا",
+        "urdu": "خواہ/ یا",
+        "eng": "or",
+        "g": " "
+      }
+    ],
+    "demonstrative_pronouns": [
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ھٰذَا",
+        "urdu": "یہ (مذکر)",
+        "eng": "This",
+        "g": "(M)",
+        "n": "1"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ھٰذَانِ",
+        "urdu": "یہ دو (مذکر)",
+        "eng": "These two",
+        "g": "(M)",
+        "n": "2"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ھٰذِہٖ",
+        "urdu": "(موٴنث) یہ",
+        "eng": "This",
+        "g": "(F)",
+        "n": "3"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ھَاتَانِ",
+        "urdu": "یہ دو (موٴنث)",
+        "eng": "These Two",
+        "g": "(F)",
+        "n": "4"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ھٰؤُلَآءِ",
+        "urdu": "(مذکر و مؤنث) یہ سب",
+        "eng": "All of These",
+        "g": "(M+F)",
+        "n": "5"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ذٰلِکَ",
+        "urdu": "وہ (مذکر)",
+        "eng": "That",
+        "g": "(M)",
+        "n": "6"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "ذٰانِکَ",
+        "urdu": "وہ دو (مذکر)",
+        "eng": "Both of those",
+        "g": "(M)",
+        "n": "7"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "تِلْکَ",
+        "urdu": "وہ (موٴنث)",
+        "eng": "That",
+        "g": "(F)",
+        "n": "8"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "تَانِکَ",
+        "urdu": "وہ دو (مؤنث)",
+        "eng": "Both of those",
+        "g": "(F)",
+        "n": "9"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "رفع",
+        "name": "اُولٓئِکَ",
+        "urdu": "وہ سب (مذکر و مؤنث)",
+        "eng": "All of Those",
+        "g": "",
+        "n": "10"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "نصب و جر",
+        "name": "ھٰذَیْنِ",
+        "urdu": "یہ دو (مذکر)",
+        "eng": "These two",
+        "g": "(M)",
+        "n": "11"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "نصب و جر",
+        "name": "ھَاتَیْنِ",
+        "urdu": "(مؤنث) یہ دو",
+        "eng": "These two",
+        "g": "(F)",
+        "n": "12"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "نصب و جر",
+        "name": "ذَیْنِکَ",
+        "urdu": " وہ دو (مذکر)",
+        "eng": "Both of those",
+        "g": "(M)",
+        "n": "13"
+      },
+      {
+        "urduheading": "اسماء اشارہ قریب و بعید",
+        "engheading": "Demonstrative Pronouns",
+        "subheading": "نصب و جر",
+        "name": "تَیْنِکَ",
+        "urdu": "وہ دو (مؤنث)",
+        "eng": "Both of those",
+        "g": "(F)",
+        "n": "14"
+      }
+    ],
+    "Internoun": [
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "1",
+        "name": "مَا",
+        "urdu": "کیا",
+        "eng": "What",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "2",
+        "name": "مَنْ",
+        "urdu": "کون",
+        "eng": "Who",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "3",
+        "name": "کَیْفَ",
+        "urdu": "کیسا",
+        "eng": "How",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَیْنَ",
+        "urdu": "کہاں",
+        "eng": "Where",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "5",
+        "name": "مَتیٰ",
+        "urdu": "کب",
+        "eng": "When",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَیَّانَ",
+        "urdu": "کب",
+        "eng": "When",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَنّٰی",
+        "urdu": "کہاں سے",
+        "eng": "Where from",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَیُّ",
+        "urdu": "کونسا",
+        "eng": "Which",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "4",
+        "name": "کَمْ",
+        "urdu": "کتنا",
+        "eng": "How many",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "5",
+        "name": "لِمَاذَا",
+        "urdu": "کیوں",
+        "eng": "Why",
+        "g": " "
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "internoun",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَوْلَا",
+        "urdu": "کیوں نہیں",
+        "eng": "Why not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف استفہام",
+        "engheading": "Interogative Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَ",
+        "urdu": "کیا",
+        "eng": "What",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف استفہام",
+        "engheading": "Interogative Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "ھَلْ",
+        "urdu": "کیا",
+        "eng": "What",
+        "g": " "
+      }
+    ],
+    "pronouns": [
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "ھُوَ",
+        "urdu": "وہ (مذکر)",
+        "eng": "He",
+        "g": "ضمائر منفصل",
+        "n": "1"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "ھُمَا",
+        "urdu": "وہ دو (مذکر و مؤنث)",
+        "eng": "They two",
+        "g": "ضمائر منفصل",
+        "n": "2"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "ھُمْ",
+        "urdu": "وہ سب (مزکر)",
+        "eng": "They all",
+        "g": "ضمائر منفصل",
+        "n": "3"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "ھِیَ",
+        "urdu": "وہ (مؤنث)",
+        "eng": "She",
+        "g": "ضمائر منفصل",
+        "n": "4"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "ھُنَّ",
+        "urdu": "وہ سب مؤنث",
+        "eng": "They all",
+        "g": "ضمائر منفصل",
+        "n": "5"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنْتَ",
+        "urdu": "تم (ایک مذکر)",
+        "eng": "You",
+        "g": "ضمائر منفصل",
+        "n": "6"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنْتُمَا",
+        "urdu": " تم دو (مذکر و مؤنث)",
+        "eng": "Both of you",
+        "g": "ضمائر منفصل",
+        "n": "7"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنْتُمْ",
+        "urdu": "تم سب (مذکر)",
+        "eng": "All of you",
+        "g": "ضمائر منفصل",
+        "n": "8"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنْتِ",
+        "urdu": "تم ایک (مؤنث)",
+        "eng": "You",
+        "g": "ضمائر منفصل",
+        "n": "9"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنْتُنَّ",
+        "urdu": "تم سب (مؤنث)",
+        "eng": "All of you",
+        "g": "ضمائر منفصل",
+        "n": "10"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "اَنَا",
+        "urdu": "میں",
+        "eng": "I",
+        "g": "ضمائر منفصل",
+        "n": "11"
+      },
+      {
+        "urduheading": "ضمائر منفصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Independent Pronouns - رفع",
+        "name": "نَحْنُ",
+        "urdu": "ہم",
+        "eng": "We",
+        "g": "ضمائر منفصل",
+        "n": "12"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "ہُ-",
+        "urdu": "اس کا (ایک مذکر)",
+        "eng": "His",
+        "g": "ضمائر متصل",
+        "n": "13"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "ھُمَا-",
+        "urdu": "ان دو کا (مذکر و مؤنث)",
+        "eng": "Their (two)",
+        "g": "ضمائر متصل",
+        "n": "14"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "ھُمْ-",
+        "urdu": "ان سب کا (مذکر)",
+        "eng": "All of them",
+        "g": "ضمائر متصل",
+        "n": "15"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "ھَا-",
+        "urdu": "اس کا (ایک مؤنث)",
+        "eng": "Her",
+        "g": "ضمائر متصل",
+        "n": "16"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "ھُنَّ-",
+        "urdu": "ان سب کا (مؤنث)",
+        "eng": "All of them",
+        "g": "ضمائر متصل",
+        "n": "17"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "كَ-",
+        "urdu": "تمہارا (مذکر)",
+        "eng": "Your",
+        "g": "ضمائر متصل",
+        "n": "18"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "کُمَا-",
+        "urdu": " تم دو کا (مذکر مؤنث)",
+        "eng": "Your (two)",
+        "g": "ضمائر متصل",
+        "n": "19"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "کُمْ-",
+        "urdu": "تم سب کا (مذکر)",
+        "eng": "Your (all)",
+        "g": "ضمائر متصل",
+        "n": "20"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "كِ-",
+        "urdu": "تمہارا (مؤنث)",
+        "eng": "Your",
+        "g": "ضمائر متصل",
+        "n": "21"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "کُنَّ-",
+        "urdu": "تم سب کا (مؤنث)",
+        "eng": "Your (all)",
+        "g": "ضمائر متصل",
+        "n": "22"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "یَ",
+        "urdu": "میرا",
+        "eng": "Mine",
+        "g": "ضمائر متصل",
+        "n": "23"
+      },
+      {
+        "urduheading": "ضمائر متصل",
+        "engheading": "Independent Pronouns",
+        "subheading": "Attached Pronouns - نصب و جر",
+        "name": "نَا-",
+        "urdu": "ہمارا",
+        "eng": "Our",
+        "g": "ضمائر متصل",
+        "n": "24"
+      }
+    ],
+    "interrogatives_with_prep": [
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "عَمَّ",
+        "urdu": " کس کے بارے میں",
+        "eng": "About whom",
+        "g": "",
+        "n": "1"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "لِمَ",
+        "urdu": "کس لیے",
+        "eng": "For what",
+        "g": "",
+        "n": "2"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "مِمَّ",
+        "urdu": "کس سے",
+        "eng": "From what",
+        "g": "",
+        "n": "3"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "فِیْمَ",
+        "urdu": "کس میں",
+        "eng": "In what",
+        "g": "",
+        "n": "4"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "لِمَنْ",
+        "urdu": "کس لے لیے",
+        "eng": "For who",
+        "g": "",
+        "n": "5"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "مِمَّنْ",
+        "urdu": "کس شخص سے",
+        "eng": "From which person",
+        "g": "",
+        "n": "6"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "اِلٰی متیٰ",
+        "urdu": "کب تک",
+        "eng": "How long",
+        "g": "",
+        "n": "2"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "بِکَمْ",
+        "urdu": "کتنے میں",
+        "eng": "In how much",
+        "g": "",
+        "n": "3"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "مِنْ اَیْنَ",
+        "urdu": "کہاں تک",
+        "eng": "From where",
+        "g": "",
+        "n": "4"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "اِلٰی اَیْنَ",
+        "urdu": "کہاں تک",
+        "eng": "How far",
+        "g": "",
+        "n": "5"
+      },
+      {
+        "urduheading": "اسماء استفہام",
+        "engheading": "Interogative Nouns with prepositions",
+        "subheading": "حروف جارہ کے ساتھ",
+        "name": "لِمَاذَا",
+        "urdu": "کیوں",
+        "eng": "Why",
+        "g": "",
+        "n": "6"
+      }
+    ],
+    "preposition_with_maa": [
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "بِمَا",
+        "urdu": "کے ساتھ جو",
+        "eng": "With who",
+        "g": "حروف جارہ + مَا",
+        "n": "1"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "عَمَّا",
+        "urdu": "کے بارے میں جو",
+        "eng": "In regards to",
+        "g": "حروف جارہ + مَا",
+        "n": "2"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "فِیْمَا",
+        "urdu": "اس میں جو",
+        "eng": "In that",
+        "g": "حروف جارہ + مَا",
+        "n": "3"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "کَمَا",
+        "urdu": "جیسا کہ",
+        "eng": "Like",
+        "g": "حروف جارہ + مَا",
+        "n": "4"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "لِمَا",
+        "urdu": "اس لئے جو",
+        "eng": "",
+        "g": "حروف جارہ + مَا",
+        "n": "5"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "لَمَّا",
+        "urdu": "جب بھی",
+        "eng": "Whenever",
+        "g": "حروف جارہ + مَا",
+        "n": "6"
+      },
+      {
+        "urduheading": "حروف جارہ + مَا",
+        "engheading": "Preposition + Maa",
+        "subheading": " ",
+        "name": "مِمَّا",
+        "urdu": "اس میں سے جو",
+        "eng": "Of which that",
+        "g": "حروف جارہ + مَا",
+        "n": "13"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "اَمَّا",
+        "urdu": "جس نے/ جو",
+        "eng": "Who",
+        "g": "مَا_",
+        "n": "14"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "فَبِمَا",
+        "urdu": "پس بوجہ اس کے جو",
+        "eng": "",
+        "g": "مَا_",
+        "n": "4"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "اَنَّمَا",
+        "urdu": "بے شک جو",
+        "eng": "Indeed",
+        "g": "مَا_",
+        "n": "5"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "اِنَّمَا",
+        "urdu": "بے شک/ صرف جو",
+        "eng": "Only that",
+        "g": "مَا_",
+        "n": "6"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "کَأَنَّمَا",
+        "urdu": " گویا کہ جو",
+        "eng": "As if",
+        "g": "مَا_",
+        "n": "13"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "کُلَّمَا",
+        "urdu": "جب بھی",
+        "eng": "Whenever",
+        "g": "مَا_",
+        "n": "14"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "فَلَمَّا",
+        "urdu": "پس جب",
+        "eng": "So when",
+        "g": "مَا_",
+        "n": "4"
+      },
+      {
+        "urduheading": "مَا_",
+        "engheading": "_Maa",
+        "subheading": " ",
+        "name": "اَیْنَمَا",
+        "urdu": "کہیں بھی",
+        "eng": "Whenever",
+        "g": "مَا_",
+        "n": "5"
+      }
+    ],
+    "interrogatives": [
+      {
+        "urduheading": "حروف استفہام",
+        "engheading": "Interogative Words",
+        "subheading": " ",
+        "name": "اَ",
+        "urdu": "کیا",
+        "eng": "What",
+        "g": "حروف استفہام",
+        "n": "2"
+      },
+      {
+        "urduheading": "حروف استفہام",
+        "engheading": "Interogative Words",
+        "subheading": " ",
+        "name": "ھَلْ",
+        "urdu": "کیا",
+        "eng": "What",
+        "g": "حروف استفہام",
+        "n": "3"
+      }
+    ],
+    "makan": [
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "1",
+        "name": "فَوقَ",
+        "urdu": "اوپر",
+        "eng": "On top",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "2",
+        "name": "تَحْتَ",
+        "urdu": "نیچے",
+        "eng": "Under",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَمَامَ",
+        "urdu": "آگے/ سامنے",
+        "eng": "In Front",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "4",
+        "name": "خَلَفَ",
+        "urdu": "پیچھے",
+        "eng": "Behind",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "5",
+        "name": "وَرَآءَ",
+        "urdu": "پیچھے/ سوا",
+        "eng": "Behind/ except",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "6",
+        "name": "یَمِیْنَ",
+        "urdu": "دائیں",
+        "eng": "Right side",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "2",
+        "name": "شِمَالَ",
+        "urdu": "بائیں",
+        "eng": "Left side",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَیْنَ",
+        "urdu": "درمیان",
+        "eng": "Between",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "4",
+        "name": "وَسَطَ",
+        "urdu": "درمیان",
+        "eng": "Between",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "5",
+        "name": "بَیْنَ اَیْدِی",
+        "urdu": "سامنے",
+        "eng": "In front",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "6",
+        "name": "حَوْلَ",
+        "urdu": "اطراف",
+        "eng": "Around",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "2",
+        "name": "حَیْثُ",
+        "urdu": "جس جگہ",
+        "eng": "The Place where",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "3",
+        "name": "مَعَ",
+        "urdu": "ساتھ",
+        "eng": "with",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "4",
+        "name": "عِنْدَ",
+        "urdu": "پاس/ کی طرف سے",
+        "eng": " by/ at",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "5",
+        "name": "ھُنَا",
+        "urdu": "یہاں",
+        "eng": "here",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "6",
+        "name": "ھُنَاکَ",
+        "urdu": "وہاں",
+        "eng": "there",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "2",
+        "name": "بَعِیْدٌ",
+        "urdu": "دور",
+        "eng": "far",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "3",
+        "name": "قَرِیْبٌ",
+        "urdu": "نزدیک",
+        "eng": "near",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "4",
+        "name": "أسْفَلَ",
+        "urdu": "نیچے",
+        "eng": "Beneath",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف المکان",
+        "engheading": "makan",
+        "subheading": " ",
+        "n": "5",
+        "name": "أَعْلٰی",
+        "urdu": "اوپر",
+        "eng": "Above",
+        "g": " "
+      }
+    ],
+    "murakabs": [
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "1",
+        "name": "نِعْمَةُ اللّٰہِ",
+        "urdu": "اللّٰہ کی نعمت",
+        "eng": "A blessing of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "2",
+        "name": "رَبُّ الْعَالَمِیْنَ",
+        "urdu": "تمام جہانوں کا رب",
+        "eng": "The Lord of the universe",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "3",
+        "name": "قَلُوْبُ الْمُؤْمِنِیْنَ",
+        "urdu": "مؤمنوں کے دل",
+        "eng": "The hearts of believers",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَصْحٰبُ الْجَنَّةِ",
+        "urdu": "جنت والے",
+        "eng": "Paradise people",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "5",
+        "name": "نَصْرُ اللّٰہِ",
+        "urdu": "اللّٰہ کی مدد",
+        "eng": "The help of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "14",
+        "name": "قَوْمُ لُوْطٍ",
+        "urdu": "لوط کی قوم",
+        "eng": "The people of Loot",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "13",
+        "name": "عَالِمُ الْغَیْبِ",
+        "urdu": "غیب کا جاننے والا",
+        "eng": "The Knower of the unseen",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "14",
+        "name": "رَسُوْلُ اللّٰہِ",
+        "urdu": "اللّٰہ کا رسول",
+        "eng": "The messenger of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "مُقِیْمَ الصَّلٰوةِ",
+        "urdu": "نماز کا قائم کرنے والا",
+        "eng": "Establisher of the prayer",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اضافی",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "5",
+        "name": "عَبْدُ اللّٰہِ",
+        "urdu": "اللّٰہ کا بندہ",
+        "eng": "The slave of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ھٰذَا الْبَلَدِ الْأمِیْنِ",
+        "urdu": "یہ امن والا شہر ",
+        "eng": "This secure city",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ھٰذَانِ خَصْمٰنِ",
+        "urdu": "یہ دو فریق",
+        "eng": "These two opponents",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ھٰؤُلٓاءِ لَضَآلُّوْنَ",
+        "urdu": "یہ لوگ یقیناً گمراہ ہیں",
+        "eng": "These surely have gone astray",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ھٰذِہِ الْحَیَاةُ الدُّنْیَا",
+        "urdu": "یہ دنیاوی زندگی",
+        "eng": "This life of the world",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ذٰلِکَ الْکِتَابُ",
+        "urdu": "(یہ) وہ کتاب",
+        "eng": "That book",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "ذَانِکَ بُرْھٰنَانِ",
+        "urdu": "(وہ) یہ دونوں نشانیاں",
+        "eng": "These twi evidences",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "اُولٓئِکَ الَّذِیْنَ",
+        "urdu": "وہی لوگ ہیں جنہوں نے",
+        "eng": "Those the ones who",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب اشاری",
+        "engheading": "Murakabs Ishari",
+        "subheading": " ",
+        "n": "1",
+        "name": "تِلْکَ الْجَنَّةِ",
+        "urdu": "وہ جنت",
+        "eng": "That paradise",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "بِسْمِ اللّٰہِ",
+        "urdu": "اللّٰہ کے نام کے ساتھ ",
+        "eng": "In the name of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "لِلّٰہِ",
+        "urdu": "اللّٰہ کے لیے",
+        "eng": "To Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "وَالْقَلَمِ",
+        "urdu": "قلم کی قسم",
+        "eng": "By the pen",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "کَالْمُجْرِمِیْنَ",
+        "urdu": "گناہگاروں کی طرح",
+        "eng": "Like the criminals",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "فِیْ سَبِیْلِ اللّٰہِ",
+        "urdu": "اللّٰہ کے راستے میں ",
+        "eng": "In the way of Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "مِنْ عِنْدِ اللّٰہِ",
+        "urdu": "اللّٰہ کے پاس سے",
+        "eng": "From Allah",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "إِلَی الْاَرْضِ",
+        "urdu": "زمین کی طرف",
+        "eng": "Towards the earth",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "عَلٰی قُلُوْبِھِمْ",
+        "urdu": "انکے دلوں پر",
+        "eng": "On their hearts",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "حَتّٰی حِیْن",
+        "urdu": "ایک وقت تک",
+        "eng": "Until a time",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکبات جری",
+        "engheading": "Murakabs Jarri",
+        "subheading": " ",
+        "n": "1",
+        "name": "لِلْمُتَّقِیْنَ",
+        "urdu": "پرہیزگاروں کے لیے",
+        "eng": "For the righteous",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "اٰیٰتٌ بَیِّنٰتٌ",
+        "urdu": "کھلی نشانیاں",
+        "eng": "Clear signs",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَلصِّرَاطُ الْمُسْتَقِیْمُ",
+        "urdu": "سیدھا راستہ",
+        "eng": "The straight path",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "عَرْشٌ عَظِیْمٌ",
+        "urdu": "بہت بڑا عرش",
+        "eng": "Great throne",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "شَیْئٌ عَجِیْبٌ",
+        "urdu": "عجیب چیز",
+        "eng": "An amazing thing",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "عَذَابًا عَلِیْمًا",
+        "urdu": "دردناک عذاب",
+        "eng": "Painful punishment",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَلْقُرَآنِ الْحَکِیْمِ",
+        "urdu": "حکمت والا قرآن",
+        "eng": "The wise Quran",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "بَقَرَةٌ صَفْرَآءُ",
+        "urdu": "زرد گائے",
+        "eng": "A Yellow Cow",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "عَمَلٌ صَالِحٌ",
+        "urdu": "نیک کام",
+        "eng": "A righteous deed",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "عَدُوٌّ مُبِیْنٌ",
+        "urdu": "کھلا دشمن",
+        "eng": "A clear enemy",
+        "g": " "
+      },
+      {
+        "urduheading": "مرکب توصیفی",
+        "engheading": "Murakabs Tausefi",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَیَّامٌ مَّعْدُوْدَةٌ",
+        "urdu": "چند دن",
+        "eng": "A few days",
+        "g": " "
+      }
+    ],
+    "nafi": [
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "1",
+        "name": "مَا",
+        "urdu": "نہیں (ماضی)",
+        "eng": "Did not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "2",
+        "name": "لَا",
+        "urdu": "نہیں (مضارع)",
+        "eng": "Do not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "3",
+        "name": "لَمْ",
+        "urdu": "نہیں",
+        "eng": "Have not/ Did not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "4",
+        "name": "لَمَّا",
+        "urdu": "ابھی تک نہیں",
+        "eng": "Still not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "5",
+        "name": "لَنْ",
+        "urdu": "ہر گز نہیں",
+        "eng": "Will not/ Not at all",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "6",
+        "name": "کَلَّا",
+        "urdu": "ہر گز نہیں",
+        "eng": "No",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "2",
+        "name": "فَلَا",
+        "urdu": "پس نہیں/ خبردار",
+        "eng": "so do not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "3",
+        "name": "لَیْسَ",
+        "urdu": "نہیں ہو گا/ ہے",
+        "eng": "is/ will not",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف نفی",
+        "engheading": "nafi",
+        "subheading": " ",
+        "n": "4",
+        "name": "فَلَوْلَا",
+        "urdu": "پھر اگر نہ ہوتا",
+        "eng": "so if not",
+        "g": " "
+      }
+    ],
+    "Preposition": [
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "1",
+        "name": "بِ",
+        "urdu": "کے ساتھ",
+        "eng": "With",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "2",
+        "name": "تَ ",
+        "urdu": "حرف قسم",
+        "eng": "Promise by",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "3",
+        "name": "وَ",
+        "urdu": "حرف قسم",
+        "eng": "Promise by",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "4",
+        "name": "كَ",
+        "urdu": "کی طرح",
+        "eng": "Like",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "5",
+        "name": "فِىْ",
+        "urdu": "میں",
+        "eng": "In",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "6",
+        "name": "مِنْ",
+        "urdu": "سے",
+        "eng": "From",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "13",
+        "name": "عَنْ",
+        "urdu": "سے",
+        "eng": "About",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "14",
+        "name": "إِلٰی",
+        "urdu": "کی طرف",
+        "eng": "To",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "4",
+        "name": "عَلٰى",
+        "urdu": "پر",
+        "eng": "On",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "5",
+        "name": "حَتّٰى",
+        "urdu": "تک",
+        "eng": "Till",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "6",
+        "name": "مِنْ",
+        "urdu": "سے",
+        "eng": "From",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "13",
+        "name": "لِ",
+        "urdu": "کے لیے",
+        "eng": "For",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "14",
+        "name": "مُذْ",
+        "urdu": "سے",
+        "eng": "For",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "4",
+        "name": "مُنْذُ",
+        "urdu": "سے",
+        "eng": "For",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "5",
+        "name": "خَلَا",
+        "urdu": "سوائے",
+        "eng": "Except",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "6",
+        "name": "حَاشَا",
+        "urdu": "سوائے",
+        "eng": "Except",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "13",
+        "name": "عَدَا",
+        "urdu": "سوائے",
+        "eng": "Except",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ",
+        "engheading": "Prepositions",
+        "subheading": " ",
+        "n": "14",
+        "name": "رُبَّ",
+        "urdu": "چند",
+        "eng": "Some",
+        "g": " "
+      }
+    ],
+    "relative_pro": [
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "1",
+        "name": "اَلَّذِی",
+        "urdu": "جو (مفرد مذکر)",
+        "eng": "Who",
+        "g": "(M)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "2",
+        "name": "اَللَّذَانِ",
+        "urdu": "(تثنیہ مذکر)",
+        "eng": "Who Two",
+        "g": "(M)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "3",
+        "name": "الَّذِیْنَ",
+        "urdu": "(جمع مذکر)",
+        "eng": "Who All",
+        "g": "(M)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "4",
+        "name": "الَّتِی",
+        "urdu": "(مفرد مؤنث)",
+        "eng": "Who",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "5",
+        "name": "اللَّتَانِ",
+        "urdu": "(تثنیہ مؤنث)",
+        "eng": "Who Two",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "رفع",
+        "n": "6",
+        "name": "اللَّاتِی",
+        "urdu": "(جمع مؤنث)",
+        "eng": "Who All",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "نصب و جر",
+        "n": "13",
+        "name": "اَللَّذَیْنِ",
+        "urdu": " جو دو (تثنیہ مذکر)",
+        "eng": "Who two",
+        "g": "(M)"
+      },
+      {
+        "urduheading": "اسماء موصولہ",
+        "engheading": "Relative Pronouns",
+        "subheading": "نصب و جر",
+        "n": "14",
+        "name": "اَللَّتَیْنِ",
+        "urdu": "جو دو (تثنیہ مؤنث)",
+        "eng": "Who Two",
+        "g": "(F)"
+      }
+    ],
+    "sentences": [
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "1",
+        "name": "اِنَّ اللّٰہَ عَلَی کُلِّ شَئٍ قَدِیْرٌ",
+        "urdu": "بے شک اللہ تعالیٰ ہر چیز پر قادر ہے۔",
+        "eng": "Verily, Allah is able to do all things.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "2",
+        "name": "وَاللّٰہُ خَبِیْرٌۢ بِمَا تَعْمَلُوْنَ",
+        "urdu": "اور اللّٰہ تمہارے اعمال سے خبردار ہے۔",
+        "eng": "And Allah is aware of your actions.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "4",
+        "name": "وَلَذِکْرُ اللّٰہِ أَکْبَرْ ",
+        "urdu": "اور اللّٰہ کا ذکر بڑا ہے۔",
+        "eng": "And the mention of Allah is great.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "5",
+        "name": "اِنَّ اللّٰہ ھُوَ الغَفُوْرُ الرَّحِیْمُ",
+        "urdu": "بےشک اللّٰہ بخشنے والا رحم کرنے والا ہے۔",
+        "eng": "Indeed, Allah is oft-forgiving, Most Merciful.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "18",
+        "name": "إِنَّکَ أَنْتَ التَّوَّابُ الرَّحِیْمُ",
+        "urdu": "بےشک تو رحم کرنے والا توبہ قبول کرنے والا ہے۔",
+        "eng": "Indeed, You are the Accepting of repentance, the Merciful",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "13",
+        "name": "اِنَّہٗ ھُوَ السَّمِیْعُ العَلِیْمُ",
+        "urdu": "بےشک وہ سننے والا جاننے والا ہے۔",
+        "eng": "Verily, He is the Hearer the Knower.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "4",
+        "name": "اِنَّھُمْ ھُمُ السُّفَھَاءُ",
+        "urdu": "بے شک وہ بےوقوف ہیں۔",
+        "eng": "Indeed, they are fouls.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "5",
+        "name": "وَاِلٰھُکُمْ إِلٰہٌ وَّاحِدٌ",
+        "urdu": "اور تمہارا معبود ایک ہی معبود ہے۔",
+        "eng": "And your God is one God.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "13",
+        "name": "وَاِنِّیْ عَبْدُ اللّٰہِ",
+        "urdu": "اور بےشک میں اللّٰہ کا بندہ ہوں۔",
+        "eng": "Indeed, I am a servant of Allah.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "14",
+        "name": "إِنَّنِیْ أَنَا اللّٰہُ",
+        "urdu": "بےشک میں ہی اللّٰہ ہوں۔",
+        "eng": "Indeed, I am Allah.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "4",
+        "name": "اُولٰٓئِکَ ھُمُ الْمُفْلِحُوْنَ",
+        "urdu": "وہی لوگ فلاح پانے والے ہیں۔",
+        "eng": "Those are the people who will benefit.",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق جملے",
+        "engheading": "Sentences",
+        "subheading": " ",
+        "n": "5",
+        "name": "اِنَّ بَطْشَ رَبِّکَ لَشَدِیْدٌ",
+        "urdu": "بےشک تمہارے رب کی پکڑ سخت ہے۔",
+        "eng": "Verily, the grip of your Lord is severe.",
+        "g": " "
+      }
+    ],
+    "signs": [
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "1",
+        "name": "آیةٌ",
+        "urdu": "آیت",
+        "eng": "Verses",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "2",
+        "name": "جَبَلٌ",
+        "urdu": "پہاڑ",
+        "eng": "Mountain",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَحْرٌ",
+        "urdu": "سمندر",
+        "eng": "Sea",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "4",
+        "name": "شَمْسٌ",
+        "urdu": "سورج",
+        "eng": "Sun",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "5",
+        "name": "قَمَرٌ",
+        "urdu": "چاند",
+        "eng": "Moon",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَیْلٌ",
+        "urdu": "رات",
+        "eng": "Night",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "2",
+        "name": "نَہَارٌ",
+        "urdu": "دن",
+        "eng": "Day",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَرْضٌ",
+        "urdu": "زمین",
+        "eng": "Earth",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "4",
+        "name": "صُبْحٌ",
+        "urdu": "صبح",
+        "eng": "Morning",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "5",
+        "name": "مَسَاءٌ",
+        "urdu": "شام",
+        "eng": "Evening",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "6",
+        "name": "رِیْحٌ",
+        "urdu": "ہوا",
+        "eng": "Wind",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "2",
+        "name": "صَرْصَرٌ",
+        "urdu": "ہوا",
+        "eng": "Wind",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَادٍ",
+        "urdu": "ہوا",
+        "eng": "Wind",
+        "g": " "
+      },
+      {
+        "urduheading": "نشانیاں",
+        "engheading": "Allah's Attributes",
+        "subheading": " ",
+        "n": "4",
+        "name": "سَمُوْمٌ",
+        "urdu": "ہوا",
+        "eng": "Wind",
+        "g": " "
+      }
+    ],
+    "separated": [
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "1",
+        "name": "عسٰی",
+        "urdu": "امید ہے",
+        "eng": "expected/ Perhaps",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "2",
+        "name": "لَوْ",
+        "urdu": "اگر",
+        "eng": "if",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "3",
+        "name": "اِیَّا",
+        "urdu": "ہی",
+        "eng": "just",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "اِلَّا",
+        "urdu": "مگر/ سوائے",
+        "eng": "except",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَا",
+        "urdu": "اے",
+        "eng": "calling word",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "6",
+        "name": "اِذَا",
+        "urdu": "جب",
+        "eng": "if/ when",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "2",
+        "name": "اِذْ",
+        "urdu": "جب سے/ جبکہ",
+        "eng": "since/ when",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "3",
+        "name": "اِذًا",
+        "urdu": "لہذا/ اس لئے",
+        "eng": "hence, Therefore",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "کَذَالِکَ",
+        "urdu": "اسی طرح",
+        "eng": "thus",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "5",
+        "name": "قَدْ",
+        "urdu": "تاکید کے لئے",
+        "eng": "for emphasis",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَقَدْ",
+        "urdu": "البتّہ/ تحقیق",
+        "eng": "for emphasis",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "2",
+        "name": "سَوْفَ/ سَ",
+        "urdu": "عنقریب",
+        "eng": "soon",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "3",
+        "name": "مِثْلَ",
+        "urdu": "مثال",
+        "eng": "example",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "أَھْلَ",
+        "urdu": "والا/ گھروالے",
+        "eng": "people/ family",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "5",
+        "name": "اُولُو",
+        "urdu": "لوگ/ والے",
+        "eng": "people",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "6",
+        "name": "ذُو-ذِی-ذَا",
+        "urdu": "والے",
+        "eng": "the owner",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "2",
+        "name": "اٰلَ",
+        "urdu": " گھروالے/ قوم",
+        "eng": "nation/ family",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَلٰی",
+        "urdu": "کیوں نہیں",
+        "eng": "why not/ yes",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلَا",
+        "urdu": "خبردار/ سن رکھو",
+        "eng": "unquestionably",
+        "g": " "
+      },
+      {
+        "urduheading": "متفرق حروف",
+        "engheading": "murakabs",
+        "subheading": " ",
+        "n": "4",
+        "name": "بَلْ",
+        "urdu": "بلکہ",
+        "eng": "but/ infact",
+        "g": " "
+      }
+    ],
+    "with_preposition": [
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "1",
+        "name": "بِهٖ",
+        "urdu": "اس (مذکر) کے ساتھ",
+        "eng": "With his",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "1",
+        "name": "بِھَا",
+        "urdu": "اس (موٴنث) کے ساتھ",
+        "eng": "With her",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "5",
+        "name": "فِيْهِ",
+        "urdu": "اس (مذکر) میں",
+        "eng": "In the",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "5",
+        "name": "فِيْھِمَا",
+        "urdu": "ان دونوں (مذکر و موٴنث) میں",
+        "eng": "In the",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "6",
+        "name": "مِنْهُ",
+        "urdu": "اس (مذکر) سے",
+        "eng": "From him",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "6",
+        "name": "مِنْھُمْ",
+        "urdu": "ان سب (مذکر) سے",
+        "eng": "From them",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "13",
+        "name": "عَنْہُ",
+        "urdu": "اس (مذکر) سے",
+        "eng": "With him",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "13",
+        "name": "عَنْھُنَّ",
+        "urdu": "ان سب (موٴنث) سے",
+        "eng": "With them",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "14",
+        "name": "اِلَیهٖ",
+        "urdu": "اس کی طرف",
+        "eng": "To",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "4",
+        "name": "عَلَیْھِمْ",
+        "urdu": "اُن (مذکر) پر",
+        "eng": "On them",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "4",
+        "name": "عَلیَّ",
+        "urdu": "مجھ پر",
+        "eng": "On me",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "5",
+        "name": "حَتّٰى",
+        "urdu": "یہان تک کہ",
+        "eng": "Till",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَهٗ",
+        "urdu": "اس (مذکر) کے لیے",
+        "eng": "For him",
+        "g": " "
+      },
+      {
+        "urduheading": "حروف جارہ + ضمائر",
+        "engheading": "Prepositions with Pronouns",
+        "subheading": " ",
+        "n": "6",
+        "name": "لَھُمْ",
+        "urdu": "اُن (مذکر) کے لیے",
+        "eng": "For them",
+        "g": " "
+      }
+    ],
+    "zaman": [
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "1",
+        "name": "سَاعَةٌ",
+        "urdu": "گھڑی",
+        "eng": "hour",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "یَوْمٌ",
+        "urdu": "دن",
+        "eng": "day",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "اُسْبُوْعٌ",
+        "urdu": "ہفتہ",
+        "eng": "week",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "4",
+        "name": "شَہْرٌ",
+        "urdu": "مہینہ",
+        "eng": "month",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "5",
+        "name": "سَنَةٌ/ عَامٌ",
+        "urdu": "سال",
+        "eng": "year",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "قَرْنٍ",
+        "urdu": "صدی",
+        "eng": "century",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "قَبْلَ",
+        "urdu": "پہلے",
+        "eng": "Before",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَعْدَ",
+        "urdu": "بعد میں",
+        "eng": "After",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَثْنَآءَ",
+        "urdu": "دوران",
+        "eng": "During",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "5",
+        "name": "صَبَاحٌ",
+        "urdu": "صبح",
+        "eng": "Morning",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "مَسَآءٌ/ اَصِیْلًا",
+        "urdu": "شام",
+        "eng": "Evening",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "فَتْرَةٌ/ مُدَّةٌ",
+        "urdu": "مدت",
+        "eng": "Duration",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "غَداً",
+        "urdu": "آنے والا کل",
+        "eng": "Tomorrow",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "4",
+        "name": "بُکْرَةً",
+        "urdu": "صبح سویرے",
+        "eng": "Early Morning",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "5",
+        "name": "حِیْنَ",
+        "urdu": "وقت",
+        "eng": "Period",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلْآَنَ",
+        "urdu": "ابھی",
+        "eng": "Now",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "2",
+        "name": "دَائِمًا",
+        "urdu": "ہمیشہ",
+        "eng": "Always",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَحْیَانًا",
+        "urdu": "کبھی کبھار",
+        "eng": "Sometimes",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَبَدًا",
+        "urdu": "ہمیشہ",
+        "eng": "Forever",
+        "g": " "
+      },
+      {
+        "urduheading": "ظروف الزَّمَان",
+        "engheading": "Time Words",
+        "subheading": " ",
+        "n": "5",
+        "name": "دَھْرِ",
+        "urdu": "زمانہ",
+        "eng": "The time",
+        "g": " "
+      }
+    ]
+  },
+  "level_2": {
+    "adjectives": [
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "1",
+        "name": "مُسْلِمٌ",
+        "urdu": "مسلمان",
+        "eng": "Muslim",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "2",
+        "name": "کَافِرٌ",
+        "urdu": "کافر",
+        "eng": "A disbeliever",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "3",
+        "name": "مُنَافِقٌ",
+        "urdu": "منافق",
+        "eng": "A hypocrite",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "4",
+        "name": "فَاسِقٌ",
+        "urdu": "فاسق",
+        "eng": "The transgressor",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "5",
+        "name": "خَاسِرُوْنَ",
+        "urdu": "خسارہ پانے والے",
+        "eng": "Loss-making",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "6",
+        "name": "مُشْرِکُوْنَ",
+        "urdu": "مُشرک لوگ",
+        "eng": "Polytheist people",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "2",
+        "name": "مُتَوکَّلُوْنَ",
+        "urdu": "بھروسہ کرنے والے",
+        "eng": "Trustees",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَصْحٰبُ النَّارِ",
+        "urdu": "آگ والے",
+        "eng": "The fire ones",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "4",
+        "name": "غَافِلُوْنَ",
+        "urdu": "غافل لوگ",
+        "eng": "Oblivious people",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "5",
+        "name": "مُؤمِنُوْنَ",
+        "urdu": "مؤمن لوگ",
+        "eng": "Belivers",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "6",
+        "name": "صَابِرُوْنَ",
+        "urdu": "صبر کرنے والے",
+        "eng": "The patient ones",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "2",
+        "name": "مُمْتَرِیْنَ",
+        "urdu": "انکار کرنے والے",
+        "eng": "Those who refuse",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "3",
+        "name": "سَابِقُوْنَ",
+        "urdu": "سبقت کرنے والے",
+        "eng": "The leading ones",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "4",
+        "name": "الذَاکِرُوْنَ",
+        "urdu": "ذکر کرنے والے",
+        "eng": "The who mention",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "5",
+        "name": "مُفْلِحُوْنَ",
+        "urdu": "کامیاب",
+        "eng": "Successful",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "6",
+        "name": "مُھْتَدُوْنَ",
+        "urdu": "ہدایت پانے والے",
+        "eng": "Guided",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "2",
+        "name": "خَاشِعُوْنَ",
+        "urdu": "خشوع کرنے والے",
+        "eng": "The humble ones",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "3",
+        "name": "مُخْتَلِفُوْنَ",
+        "urdu": "اختلاف کرنے والے",
+        "eng": "Dissenters",
+        "g": " "
+      },
+      {
+        "urduheading": "صفات",
+        "engheading": "Adjectives",
+        "subheading": " ",
+        "n": "4",
+        "name": "عَابِدُوْنَ",
+        "urdu": "عبادت کرنے والے",
+        "eng": "Worshippers",
+        "g": " "
+      }
+    ],
+    "animals": [
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَنْعَامٌ",
+        "urdu": "جانور",
+        "eng": "animals",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "2",
+        "name": "طَیْرٌ",
+        "urdu": "پرندے",
+        "eng": "birds",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلْفِیْلُ",
+        "urdu": "ہاتھی",
+        "eng": "The elephant",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلنَّاقَةُ",
+        "urdu": "اونٹنی",
+        "eng": "The Camel",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْبَقَرَةُ",
+        "urdu": "گائے",
+        "eng": "The Cow",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلثُّعْبَانُ",
+        "urdu": "اژدھا",
+        "eng": "the serpent",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلْکَلْبُ",
+        "urdu": "کتا",
+        "eng": "The dog",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلْقِرَدُ",
+        "urdu": "بندر",
+        "eng": "The monkey",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "4",
+        "name": "حِمَارٌ",
+        "urdu": "گدھا",
+        "eng": "donkey",
+        "g": ""
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "5",
+        "name": "اِبِلِ",
+        "urdu": "اونٹ",
+        "eng": "Camel",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلْعَنْکَبُوْتُ",
+        "urdu": "مکڑی",
+        "eng": "the spider",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلنَّحْلُ",
+        "urdu": "شہد کی مکھی",
+        "eng": "The bee",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلنَّمْلَةُ",
+        "urdu": "چیونٹی",
+        "eng": "The ant",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَبَابِیْلُ",
+        "urdu": "ابابیل",
+        "eng": "ababeel",
+        "g": ""
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْغُرَابُ",
+        "urdu": "کوّا",
+        "eng": "The crow",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلْھُدْھُدْ",
+        "urdu": "ہدہد",
+        "eng": "the hudhud",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلْحُوْتُ",
+        "urdu": "مچھلی",
+        "eng": "The fish",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلضَّأْنِ",
+        "urdu": "بھیڑ",
+        "eng": "The sheep",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "4",
+        "name": "أَلْمَعْز",
+        "urdu": "بکری",
+        "eng": "The goat",
+        "g": ""
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "5",
+        "name": "خِنْزِیْر",
+        "urdu": "سور",
+        "eng": "Pig",
+        "g": " "
+      },
+      {
+        "urduheading": "جنت",
+        "engheading": "Jannah",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلسَّبُعُ",
+        "urdu": "درندہ",
+        "eng": "the wild animal",
+        "g": " "
+      }
+    ],
+    "blessings": [
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "1",
+        "name": "تُرَابٌ",
+        "urdu": "مٹی",
+        "eng": "soil",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "طِیْنٌ",
+        "urdu": "چکنی مٹی",
+        "eng": "clay soil",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "سَمَاءٌ/ سَمَوٰتٌ",
+        "urdu": "آسمان",
+        "eng": "sky",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "شَمْسٌ",
+        "urdu": "سورج",
+        "eng": "sun",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "قَمَرٌ",
+        "urdu": "چاند",
+        "eng": "moon",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "6",
+        "name": "نَجْمٌ",
+        "urdu": "ستارے",
+        "eng": "stars",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "ھِلَالٌ",
+        "urdu": "چاند",
+        "eng": "moon",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "صَحْرٌ",
+        "urdu": "چٹان",
+        "eng": "rock",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَرْضٌ",
+        "urdu": "زمین",
+        "eng": "earth",
+        "g": ""
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "شَجَرَةٌ",
+        "urdu": "درخت",
+        "eng": "tree",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "6",
+        "name": "مَآءٌ",
+        "urdu": "پانی",
+        "eng": "Water",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "لَبْنٌ",
+        "urdu": "دودھ",
+        "eng": "milk",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "عَسَلٌ",
+        "urdu": "شہد",
+        "eng": "honey",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "جَبَلٌ",
+        "urdu": "پہاڑ",
+        "eng": "mountain",
+        "g": ""
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "حَجَرَةٌ",
+        "urdu": "پتھر",
+        "eng": "stone",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "6",
+        "name": "کَھْفٌ",
+        "urdu": "غار",
+        "eng": "cave",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "لُؤْلُؤٌ",
+        "urdu": "موتی",
+        "eng": "pearl",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "نَھْرٌ",
+        "urdu": "دریا",
+        "eng": "river",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "مَوْجٌ",
+        "urdu": "لہر",
+        "eng": "wave",
+        "g": ""
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "شَاطِئٌی",
+        "urdu": "ساحل/ کنارہ",
+        "eng": "edge",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "6",
+        "name": "صَحْرَآءُ",
+        "urdu": "ریگستان",
+        "eng": "desert",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "وَرَقَةٌ",
+        "urdu": "پتا",
+        "eng": "leaf",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "نَوْمٌ",
+        "urdu": "نیند",
+        "eng": "sleep",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "زَھْرَةٌ",
+        "urdu": "شان و شوکت",
+        "eng": "splendour",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "سَبِیْلٌ",
+        "urdu": "راستہ",
+        "eng": "path",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "6",
+        "name": "بَحْرٌ",
+        "urdu": "دریا/ سمندر",
+        "eng": "sea",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "2",
+        "name": "رِیحٌ",
+        "urdu": "ہوا",
+        "eng": "wind",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "3",
+        "name": "مَطَرٌ/ غَیْثٌ",
+        "urdu": "بارش",
+        "eng": "rain",
+        "g": " "
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "4",
+        "name": "حَرَارَةٌ",
+        "urdu": "تپش",
+        "eng": "heat/ hot",
+        "g": ""
+      },
+      {
+        "urduheading": "اعمال",
+        "engheading": "Deeds",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْحَبُّ",
+        "urdu": "اناج",
+        "eng": "grain",
+        "g": " "
+      }
+    ],
+    "bodyparts": [
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "1",
+        "name": "قَلْبٌ",
+        "urdu": "دل",
+        "eng": "heart",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "2",
+        "name": "وَجْہٌ",
+        "urdu": "چہرہ",
+        "eng": "face",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَصَرٌ",
+        "urdu": "آنکھ/ نظر",
+        "eng": "sight",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "4",
+        "name": "اُذُنٌ",
+        "urdu": "کان",
+        "eng": "ear",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَصَابِعَ",
+        "urdu": "انگلیاں",
+        "eng": "fingers",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "6",
+        "name": "رَقَبَةٌ",
+        "urdu": "گردن",
+        "eng": "neck",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "2",
+        "name": "لِسَانٌ",
+        "urdu": "زبان",
+        "eng": "tongue",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "3",
+        "name": "شَفَتَیْنِ",
+        "urdu": "ہونٹ",
+        "eng": "lips",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "4",
+        "name": "کَعْبَیْنِ",
+        "urdu": "ٹخنے",
+        "eng": "ankles",
+        "g": ""
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "5",
+        "name": "بَطَنٌ",
+        "urdu": "پیٹ",
+        "eng": "belly",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "6",
+        "name": "صَدْرٌ",
+        "urdu": "سینہ",
+        "eng": "chest",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "2",
+        "name": "رَاْسٌ",
+        "urdu": "سر",
+        "eng": "head",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "3",
+        "name": "أنْفٌ",
+        "urdu": "ناک",
+        "eng": "nose",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "4",
+        "name": "یَدٌ",
+        "urdu": "ہاتھ",
+        "eng": "hand",
+        "g": ""
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "5",
+        "name": "فُؤَادُ/ أَفْئِدَةِ",
+        "urdu": "دل",
+        "eng": "heart",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "6",
+        "name": "مَرَافِقٌ",
+        "urdu": "کہنیاں",
+        "eng": "elbow",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "2",
+        "name": "عَیْنٌ",
+        "urdu": "آنکھ",
+        "eng": "eye",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "3",
+        "name": "رِجْلٌ",
+        "urdu": "ٹانگ",
+        "eng": "leg",
+        "g": " "
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "4",
+        "name": "قَدَمٌ",
+        "urdu": "پاؤں",
+        "eng": "feet",
+        "g": ""
+      },
+      {
+        "urduheading": "جسم کے اعضاء",
+        "engheading": "Body Parts",
+        "subheading": " ",
+        "n": "5",
+        "name": "سِنٌّ",
+        "urdu": "دانت",
+        "eng": "teeth",
+        "g": " "
+      }
+    ],
+    "colors": [
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَلْوَانُ",
+        "urdu": "بہت سارے رنگ",
+        "eng": "Colors",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "2",
+        "name": "لَوْنٌ",
+        "urdu": "رنگ",
+        "eng": "Color",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَحْمَرٌ",
+        "urdu": "لال/ سرخ",
+        "eng": "Red",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "4",
+        "name": "صَفْرَآءُ (اَصْفَرٌ)",
+        "urdu": "پیلی/ زرد",
+        "eng": "Yellow",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَخْضَرٌ",
+        "urdu": "سبز/ ہرا",
+        "eng": "Green",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَزْرَقٌ",
+        "urdu": "نیلا",
+        "eng": "Blue",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "2",
+        "name": "فَاقِعٌ",
+        "urdu": "چمکدار/ روشن",
+        "eng": "Bright",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَسْوَدٌ",
+        "urdu": "کالا",
+        "eng": "Black",
+        "g": " "
+      },
+      {
+        "urduheading": "رنگ",
+        "engheading": "Colors",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَبْیَضٌ",
+        "urdu": "سفید",
+        "eng": "White",
+        "g": " "
+      }
+    ],
+    "deeds": [
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "1",
+        "name": "اَلْحَسَنٰتُ",
+        "urdu": "اچھائیاں",
+        "eng": "good things",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلسَّیِّئَآتُ",
+        "urdu": "برائیاں",
+        "eng": "evils",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلْخَیْرَاتُ",
+        "urdu": "بھلائی کے کام",
+        "eng": "the good deeds",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلْمَعْرُوْفُ",
+        "urdu": "نیکی",
+        "eng": "the goodness",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "خَیْرٌ",
+        "urdu": "بہتر",
+        "eng": "a better",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلشَّرُّ",
+        "urdu": "شر/ برائی",
+        "eng": "the evil",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلسُّوْٓءُ",
+        "urdu": "برائی",
+        "eng": "the evil",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلْقَطْعُ",
+        "urdu": "علیحدہ کرنا/ کاٹنا",
+        "eng": "to separate",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "حُوْبًا",
+        "urdu": "گناہ",
+        "eng": "a sin",
+        "g": ""
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "بِئْسَ",
+        "urdu": "کتنا ہی برا",
+        "eng": "how evil",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "6",
+        "name": "نِعَمَ",
+        "urdu": "کتنا ہی اچھا",
+        "eng": "how good",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "جُنَاحٌ",
+        "urdu": "کوئی گناہ",
+        "eng": "any sin",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "أَجْرٌ",
+        "urdu": "ثواب",
+        "eng": "a reward",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلْبِرُّ",
+        "urdu": "اچھائی/ نیکی",
+        "eng": "the goodness",
+        "g": ""
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "لُمَزَةٍ",
+        "urdu": "چغل خور",
+        "eng": "a backbitter",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلصَّلٰوةُ",
+        "urdu": "نماز/ دعا",
+        "eng": "the prayer",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلصَّوْمُ",
+        "urdu": "روزہ",
+        "eng": "the fast",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "شَھَادَةٌ",
+        "urdu": "گواہی",
+        "eng": "the testimony",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلطَّاعَةُ",
+        "urdu": "فرمانبرداری",
+        "eng": "the obedience",
+        "g": ""
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "فُسُوْقٌ",
+        "urdu": "نافرمانی",
+        "eng": "a disobedience",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلضَّلٰلَةُ",
+        "urdu": "گمراہی",
+        "eng": "the astraying",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلْھُدٰی",
+        "urdu": "ہدایت",
+        "eng": "the guidance",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلرِّبَوٰا",
+        "urdu": "سود",
+        "eng": "the usury/ interest",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "اَلْبَیْعُ",
+        "urdu": "تجارت",
+        "eng": "the trade",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْغَیْظُ",
+        "urdu": "سخت غصہ",
+        "eng": "the anger",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلْفَحْشَآءُ",
+        "urdu": "بےحیائی",
+        "eng": "the shameful",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "2",
+        "name": "ذَنْبٌ",
+        "urdu": "گناہ",
+        "eng": "a sin",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "3",
+        "name": "بَاْسٌ",
+        "urdu": "جنگ",
+        "eng": "a battle",
+        "g": " "
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "4",
+        "name": "ذِکْرٌ",
+        "urdu": "یاد",
+        "eng": "a reminder",
+        "g": ""
+      },
+      {
+        "urduheading": "نعمتیں",
+        "engheading": "Blessings",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْکَذِبُ",
+        "urdu": "جھوٹ",
+        "eng": "the lie",
+        "g": " "
+      }
+    ],
+    "fire": [
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "1",
+        "name": "نَارٌ",
+        "urdu": "آگ",
+        "eng": "Fire",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "2",
+        "name": "جَھَنَّمُ",
+        "urdu": "دوزخ",
+        "eng": "Hell",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "3",
+        "name": "جَحِیْمٌ",
+        "urdu": "دوزخ",
+        "eng": "Hell",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "4",
+        "name": "سَعِیْرٌ",
+        "urdu": "بھڑکتی آگ",
+        "eng": "Blazing Fire",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "5",
+        "name": "سَقَرٌ",
+        "urdu": "جہنم کی لپٹ",
+        "eng": "Flame of Hell",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "6",
+        "name": "اَلْحامِیَةُ",
+        "urdu": "دہکتی ہوئی",
+        "eng": "Intensely hot",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلْحُطَمَةُ",
+        "urdu": "چکنا چور کر دینے والی جگہ",
+        "eng": "The shattering place",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَلْھَاوِیَةُ",
+        "urdu": "گہری کھائی",
+        "eng": "The deep Ditch",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "4",
+        "name": "حَارٌ",
+        "urdu": "گرم",
+        "eng": "Hot",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "5",
+        "name": "نَزَّاعَةً",
+        "urdu": "ادھیڑنے والی",
+        "eng": "Stripping off",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "6",
+        "name": "مُوقَدَةٌ",
+        "urdu": "بھڑکائی ہوئی",
+        "eng": "Inflamed",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "2",
+        "name": "وَیْلٌ",
+        "urdu": "تباہی/ جہنم کی وادی",
+        "eng": "Woe/ Rui",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "3",
+        "name": "بِئْسَ المِھَادُ",
+        "urdu": "بہت ہی برا ٹھکانہ",
+        "eng": "Evil resting place",
+        "g": " "
+      },
+      {
+        "urduheading": "جانور",
+        "engheading": "Animals",
+        "subheading": " ",
+        "n": "4",
+        "name": "بِئْسَ الْمَصِیرُ",
+        "urdu": "بد ترین جگہ",
+        "eng": "The worst Place",
+        "g": " "
+      }
+    ],
+    "fruits": [
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "1",
+        "name": "فَاکِھَةٌ/ ثَمَرٌ",
+        "urdu": "پھل",
+        "eng": "Fruit",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "2",
+        "name": "اَلتِّیْنُ",
+        "urdu": "انجیر",
+        "eng": "The fig",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "3",
+        "name": "رُمَّانٌ",
+        "urdu": "انار",
+        "eng": "Pomegranate",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "4",
+        "name": "الزَّیْتُوْنُ",
+        "urdu": "زیتون",
+        "eng": "The Olive",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "5",
+        "name": "اَلْعِنَبُ",
+        "urdu": "انگور",
+        "eng": "The Grapes",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "6",
+        "name": "طَلَحٌ",
+        "urdu": "کیلا",
+        "eng": "Banana",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "2",
+        "name": "رَطْبٌ",
+        "urdu": "تر کھجور",
+        "eng": "Ripe Date",
+        "g": " "
+      },
+      {
+        "urduheading": "پھل",
+        "engheading": "Fruits",
+        "subheading": " ",
+        "n": "3",
+        "name": "نَخْلٌ",
+        "urdu": "کھجور",
+        "eng": "Date",
+        "g": " "
+      }
+    ],
+    "jannah": [
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "1",
+        "name": "جَنَّةٌ",
+        "urdu": "باغ",
+        "eng": "Garden",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "2",
+        "name": "جَنّٰتُ عَدْنٍ",
+        "urdu": "سدا بہار جنتیں",
+        "eng": "Evergreen Heavens",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "3",
+        "name": "جَنَّةُ الْفِرْدَوْسِ",
+        "urdu": "سب سے اعلٰی جنت",
+        "eng": "The highest heaven",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "4",
+        "name": "جَنّٰتِ النَّعِیْمِ",
+        "urdu": "نعمت بھرے باغات",
+        "eng": "Gardens of bliss",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "5",
+        "name": "جَنَّةُ الْمَاْوٰی",
+        "urdu": "بہت عمدہ ٹھکانہ",
+        "eng": "The abode garden",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "6",
+        "name": "مَقَامٍ اَمِیْنٍ",
+        "urdu": "امن و عافیت کی جگہ",
+        "eng": "A secure place",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "2",
+        "name": "دَارُالْمُقَامَةِ",
+        "urdu": "ہمیشہ رہنے کا مقام",
+        "eng": "The permanent abode",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "3",
+        "name": "دَارُالْخُلْدِ",
+        "urdu": "ہمیشہ رہنے کا گھر ",
+        "eng": "The permanent abode",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "4",
+        "name": "دَارُالسَّلَامِ",
+        "urdu": "سلامتی والا گھر",
+        "eng": "the home of peace",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "5",
+        "name": "دَارُالْقَرَارِ",
+        "urdu": "راحت کی جگہ",
+        "eng": "The permanent place",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "6",
+        "name": "دَارُالْاٰخِرَةِ",
+        "urdu": "آخرت کا گھر",
+        "eng": "The Last Home",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "2",
+        "name": "دَارُالْمُتَّقِیْنَ",
+        "urdu": "پرہیزگاروں کا گھر",
+        "eng": "The home of God-Fearing",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "3",
+        "name": "دَارُالْحَیَوانَ",
+        "urdu": "اصلی زندگی کا گھر",
+        "eng": "The abode of hereafter",
+        "g": " "
+      },
+      {
+        "urduheading": "آگ",
+        "engheading": "Fire",
+        "subheading": " ",
+        "n": "4",
+        "name": "مَقْعَدِصِدْقٍ",
+        "urdu": "سچ کی مجلس/ باعزت مجلس",
+        "eng": "Seat of honor",
+        "g": " "
+      }
+    ],
+    "relatives": [
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "1",
+        "name": "اُمَّھَاتٌ",
+        "urdu": "مائیں",
+        "eng": "mothers",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "2",
+        "name": "بَنَاتٌ",
+        "urdu": "بیٹیاں",
+        "eng": "daughters",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "3",
+        "name": "اَخَوَاتٌ",
+        "urdu": "بہنیں",
+        "eng": "sisters",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "4",
+        "name": "عَمَّاتٌ",
+        "urdu": "پھوپھیاں",
+        "eng": "aunts",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "5",
+        "name": "خَالَاتٌ",
+        "urdu": "خالائیں",
+        "eng": "maternal aunts",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "6",
+        "name": "بَنٰتُ الْاَخِ",
+        "urdu": "بھتیجیاں",
+        "eng": "nieces",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "2",
+        "name": "بَنٰتُ الْاُخْتِ",
+        "urdu": "بھانجیاں",
+        "eng": "nieces",
+        "g": "(F)"
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "3",
+        "name": "رِجَالٌ",
+        "urdu": "مرد",
+        "eng": "Men",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "4",
+        "name": "نِسَآءٌ",
+        "urdu": "عورتیں",
+        "eng": "women",
+        "g": ""
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "5",
+        "name": "بِنْتُ",
+        "urdu": "لڑکی",
+        "eng": "A girl",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "6",
+        "name": "وَلَدٌ",
+        "urdu": "لڑکا",
+        "eng": "A boy",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "2",
+        "name": "أِبْنُ",
+        "urdu": "بیٹا",
+        "eng": "son",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "3",
+        "name": "أَزْوَاجٌ",
+        "urdu": "بیویاں - شوہر",
+        "eng": "husbands and wives",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "4",
+        "name": "رَبَائِبٌ",
+        "urdu": "بچیاں",
+        "eng": "girls",
+        "g": ""
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "5",
+        "name": "وَالِدَانِ",
+        "urdu": "والدین",
+        "eng": "parents",
+        "g": " "
+      },
+      {
+        "urduheading": "رشتے دار",
+        "engheading": "Relatives",
+        "subheading": " ",
+        "n": "6",
+        "name": "أَخٌ",
+        "urdu": "بھائی",
+        "eng": "brother",
+        "g": " "
+      }
+    ],
+    "veg": [
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "1",
+        "name": "بَقْلٌ",
+        "urdu": "ترکاری",
+        "eng": "Herb",
+        "g": " "
+      },
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "2",
+        "name": "قِثَّآءٌ",
+        "urdu": "کھیرا/ ککڑی",
+        "eng": "Cucumber",
+        "g": " "
+      },
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "3",
+        "name": "فُوْمٌ",
+        "urdu": "لہسن",
+        "eng": "Garlic",
+        "g": " "
+      },
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "4",
+        "name": "بَصَلٌ",
+        "urdu": "پیاز",
+        "eng": "Onion",
+        "g": " "
+      },
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَقْطِیْنٌ",
+        "urdu": "کدو",
+        "eng": "Pumpkin",
+        "g": " "
+      },
+      {
+        "urduheading": "سبزیاں",
+        "engheading": "Vegetables",
+        "subheading": " ",
+        "n": "6",
+        "name": "زَنْجَبِیْلٌ",
+        "urdu": "ادرک",
+        "eng": "Ginger",
+        "g": " "
+      }
+    ]
+  },
+  "level_3": {
+    "active_passive": [
+      {
+        "list_name": "pastA",
+        "urduheading": "معروف",
+        "engheading": "Active Forms",
+        "items": [
+          {
+            "n": "1",
+            "name": "صَدَقَ اللّٰہ",
+            "urdu": "اللّٰہ نے سچ کہا",
+            "eng": "Allah spoke the truth",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "فَتَحُ اللّٰہ",
+            "urdu": "اللّٰہ نے فتح دی",
+            "eng": "Allah gave victory",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "رَجَعَ موسیٰ",
+            "urdu": "موسیٰ علیہ السلام لوٹ آئے",
+            "eng": "Moses returned",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "مَارَبِحَتْ",
+            "urdu": "کچھ نفع نہ دیا",
+            "eng": "not give any benefit",
+            "g": " "
+          }
+        ]
+      },
+      {
+        "list_name": "pastP",
+        "urduheading": "مجہول",
+        "engheading": "Passive Forms",
+        "items": [
+          {
+            "n": "1",
+            "name": "خُلِقَ الاِنْسَانُ",
+            "urdu": "انسان پیدا کیا گیا",
+            "eng": "Man was created",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "قُرِئ القُرْآنُ",
+            "urdu": "جب قرآن پڑھا جائے",
+            "eng": "when Quran is recited",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "کُتِبَ عَلِیْکُم الصِیامُ",
+            "urdu": "تم پر روزے فرض کیے گئے",
+            "eng": "fasting imposed on you",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "قُتِلَ الکافِرُوْنَ",
+            "urdu": "کافروں کو قتل کیا گیا",
+            "eng": "infidels were killed",
+            "g": " "
+          }
+        ]
+      },
+      {
+        "list_name": "pfA",
+        "urduheading": "فعل ماضی معروف",
+        "engheading": "Past Active",
+        "items": [
+          {
+            "n": "1",
+            "name": "یَغْفِرُ اللّٰہُ الزنوبَ",
+            "urdu": "اللّٰہ گناہوں کو بخش دیتا ہے",
+            "eng": "Allah forgives sins",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "یَرْزُقُنا اللّٰہ",
+            "urdu": "اللّٰہ ہمیں رزق دیتا ہے",
+            "eng": "Allah gives us sustenance",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "یَشْرَحُ اللّٰہٗ صدْرَنَا",
+            "urdu": "اللّٰہ نے ہمارا سینہ کھول دیا",
+            "eng": "Allah opened our chest",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "لِمَ کَفَرْتُمْ باللّٰہِ",
+            "urdu": "تم نے اللّٰہ کے ساتھ کفر کیوں کیا",
+            "eng": "why did you disbelieve in Allah",
+            "g": " "
+          }
+        ]
+      },
+      {
+        "list_name": "pfP",
+        "urduheading": "فعل ماضی مجہول",
+        "engheading": "Past Passive",
+        "items": [
+          {
+            "n": "1",
+            "name": "یُعْرَفُ المُجرمُوْنَ",
+            "urdu": "جرم پہچانے جائیں گے",
+            "eng": "culprits will be identified",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "لَا تُقْبَلُ مِنْھَا شَفَاعةٌ",
+            "urdu": "ان سے سفارش قبول نہ ہو گی",
+            "eng": "recommendation not be accepted",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "تُسَلُنَّ یومَئذٍ",
+            "urdu": "اُس دن تم سے سوال کیا جائی گا",
+            "eng": "on that day you will be questioned",
+            "g": " "
+          }
+        ]
+      }
+    ],
+    "ajwaf": [
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (واوی)",
+        "n": "1",
+        "name": "قَال",
+        "urdu": "کہنا",
+        "eng": "to say",
+        "g": " "
+      },
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (واوی)",
+        "n": "2",
+        "name": "خَافَ",
+        "urdu": "ڈرنا",
+        "eng": "fear",
+        "g": " "
+      },
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (واوی)",
+        "n": "3",
+        "name": "شَاءَ",
+        "urdu": "چاہنا",
+        "eng": "liking",
+        "g": " "
+      },
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (یائی)",
+        "n": "4",
+        "name": "زَادَ",
+        "urdu": "زیادہ کرنا",
+        "eng": "to do more",
+        "g": " "
+      },
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (یائی)",
+        "n": "5",
+        "name": "جَاءَ",
+        "urdu": "آنا",
+        "eng": "he came",
+        "g": " "
+      },
+      {
+        "urduheading": "اجوف",
+        "engheading": "Ajwaf",
+        "subheading": "اجوف (یائی)",
+        "n": "6",
+        "name": "بَاعَ",
+        "urdu": "بیچنا",
+        "eng": "to sell",
+        "g": " "
+      }
+    ],
+    "misal": [
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (واوی)",
+        "n": "1",
+        "name": "وَھَبَ",
+        "urdu": "عطا کرنا",
+        "eng": "he bestows",
+        "g": " "
+      },
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (واوی)",
+        "n": "2",
+        "name": "وَلَجَ",
+        "urdu": "داخل ہونا",
+        "eng": "to enter",
+        "g": " "
+      },
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (واوی)",
+        "n": "3",
+        "name": "وَرِثَ",
+        "urdu": "وارث ہونا",
+        "eng": "to bean heir",
+        "g": " "
+      },
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (یائی)",
+        "n": "4",
+        "name": "یَسَرَ",
+        "urdu": "آسان ہونا",
+        "eng": "to be easy",
+        "g": " "
+      },
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (یائی)",
+        "n": "5",
+        "name": "یَتِمَ",
+        "urdu": "یتیم ہونا",
+        "eng": "being an orphan",
+        "g": " "
+      },
+      {
+        "urduheading": "مثال",
+        "engheading": "Misal",
+        "subheading": "مثال (یائی)",
+        "n": "6",
+        "name": "یَقُظَ",
+        "urdu": "جاگنا",
+        "eng": "to wake up",
+        "g": " "
+      }
+    ],
+    "past_tense": [
+      {
+        "urduheading": "فعل ماضی",
+        "engheading": "Past Tense",
+        "subheading": "1st pattern - (فَعَلَ)",
+        "items": [
+          {
+            "n": "1",
+            "name": "خَلَقَ",
+            "urdu": "اُس نے پیدا کیا",
+            "eng": "he created",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "فَتَحَ",
+            "urdu": "اُس نے کھولا",
+            "eng": "he opened",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "رَفَعَ",
+            "urdu": "اُس نے بلند کیا",
+            "eng": "he raised",
+            "g": " "
+          },
+          {
+            "n": "4",
+            "name": "غَفَرَ",
+            "urdu": "اُس نے بخشا",
+            "eng": "he forgave",
+            "g": " "
+          },
+          {
+            "n": "5",
+            "name": "غَفَلَ",
+            "urdu": "وہ غافل ہوا",
+            "eng": "he was oblivious",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "سَجَدَ",
+            "urdu": "اُس نے سجدہ کیا",
+            "eng": "he prostrated",
+            "g": " "
+          },
+          {
+            "n": "1",
+            "name": "ضَرَبَ",
+            "urdu": "اُس نے مارا",
+            "eng": "he killed",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "خَرَجَ",
+            "urdu": "وہ نکلا",
+            "eng": "he came out",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "رَزَقَ",
+            "urdu": "اُس نے رزق دیا",
+            "eng": "he granted",
+            "g": " "
+          },
+          {
+            "n": "4",
+            "name": "جَعَلَ",
+            "urdu": "اُس نے بنایا",
+            "eng": "he made it",
+            "g": " "
+          },
+          {
+            "n": "5",
+            "name": "صَبَرَ",
+            "urdu": "اُس نے صبر کیا",
+            "eng": "he was patient",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "عَبَدَ",
+            "urdu": "اُس نے عبادت کی",
+            "eng": "he worshiped",
+            "g": " "
+          },
+          {
+            "n": "1",
+            "name": "حَشَرَ",
+            "urdu": "اُس نے اکٹھا کیا",
+            "eng": "he gathered",
+            "g": " "
+          },
+          {
+            "n": "2",
+            "name": "عَقَلَ",
+            "urdu": "اُس نے عقل سے کام لیا",
+            "eng": "he acted wisely",
+            "g": " "
+          },
+          {
+            "n": "3",
+            "name": "جَلَسَ",
+            "urdu": "وہ بیٹھا",
+            "eng": "he sat down",
+            "g": " "
+          },
+          {
+            "n": "4",
+            "name": "دَخَلَ",
+            "urdu": "وہ داخل ہوا",
+            "eng": "he entered",
+            "g": " "
+          },
+          {
+            "n": "5",
+            "name": "ذَھَبَ",
+            "urdu": "وہ گیا",
+            "eng": "he goes",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "ظَلَمَ",
+            "urdu": "اُس نے ظلم کیا",
+            "eng": "he did injustice",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "نَجَحَ",
+            "urdu": "وہ کامیاب ہوا",
+            "eng": "he succeeded",
+            "g": " "
+          }
+        ]
+      },
+      {
+        "urduheading": "فعل ماضی",
+        "engheading": "Past Tense",
+        "subheading": "2nd pattern - (فَعِلَ)",
+        "items": [
+          {
+            "n": "6",
+            "name": "فَرِحَ",
+            "urdu": "وہ خوش ہوا",
+            "eng": "he was happy",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "عَلِمَ",
+            "urdu": "اُس نے جانا",
+            "eng": "he found out",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "قَدِمَ",
+            "urdu": "وہ آیا",
+            "eng": "he came",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "سَمِعَ",
+            "urdu": "اُس نے سنا",
+            "eng": "he heard",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "شَرِبَ",
+            "urdu": "اُس نے پیا",
+            "eng": "he drank",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "رَحِمَ",
+            "urdu": "اُس نے رحم کیا",
+            "eng": "he showed mercy",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "شَھِدَ",
+            "urdu": "اُس نے گواہی دی",
+            "eng": "he testified",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "مَرِضَ",
+            "urdu": "وہ بیمار ہوا",
+            "eng": "he got sick",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "عَمِلَ",
+            "urdu": "اُس نے عمل کیا",
+            "eng": "he acted",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "ضَحِکَ",
+            "urdu": "وہ ہنسا",
+            "eng": "he laughed",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "حَمِدَ",
+            "urdu": "اُس نے حمد کی",
+            "eng": "he praised",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "حَسِبَ",
+            "urdu": "اُس نے گمان کیا",
+            "eng": "he assumed",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "حَفِظَ",
+            "urdu": "اُس نے یاد کیا",
+            "eng": "he recalled",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "رَکِبَ",
+            "urdu": "وہ سوار ہوا",
+            "eng": "he rode",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "قَبِلَ",
+            "urdu": "اُس نے قبول کیا",
+            "eng": "he accepted",
+            "g": " "
+          }
+        ]
+      },
+      {
+        "urduheading": "فعل ماضی",
+        "engheading": "Past Tense",
+        "subheading": "3rd pattern - (فَعُلَ)",
+        "items": [
+          {
+            "n": "6",
+            "name": "فَرِحَ",
+            "urdu": "وہ قریب ہوا",
+            "eng": "he came closer",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "کَرُمَ",
+            "urdu": "وہ باعزت ہوا",
+            "eng": "he was honoured",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "ضَعُفَ",
+            "urdu": "وہ کمزور ہوا",
+            "eng": "he became weak",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "بَعُدَ",
+            "urdu": "وہ دور ہوا",
+            "eng": "he walked away",
+            "g": " "
+          },
+          {
+            "n": "6",
+            "name": "ثَقُلَ",
+            "urdu": "وہ بھاری ہوا",
+            "eng": "he became heavy",
+            "g": " "
+          }
+        ]
+      }
+    ],
+    "patterns": [
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "1",
+        "name": "نَصَرَ",
+        "urdu": "اُس نے مدد کی",
+        "eng": "he helped",
+        "g": " "
+      },
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "2",
+        "name": "ضَرَبَ",
+        "urdu": "اُس نے مارا",
+        "eng": "he killed",
+        "g": " "
+      },
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "3",
+        "name": "فَتَحَ",
+        "urdu": "اُس نے کھولا",
+        "eng": "he opened",
+        "g": " "
+      },
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "4",
+        "name": "سَمِعَ",
+        "urdu": "اُس نے سنا",
+        "eng": "he heard",
+        "g": " "
+      },
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "5",
+        "name": "کَرُمَ",
+        "urdu": "اُس نے تعظیم کی",
+        "eng": "he bowed",
+        "g": " "
+      },
+      {
+        "urduheading": "صیغے",
+        "engheading": "Patterns",
+        "subheading": " ",
+        "n": "6",
+        "name": "حَسِبَ",
+        "urdu": "اُس نے گمان کیا",
+        "eng": "he assumed",
+        "g": " "
+      }
+    ],
+    "present_future": [
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "1",
+        "name": "یَخْلُقُ",
+        "urdu": "وہ پیدا کرتا ہے یا کرے گا",
+        "eng": "he creates",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "2",
+        "name": "یَفْتَحُ",
+        "urdu": "وہ کھولتا ہے یا کھولے گا",
+        "eng": "he opens",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "3",
+        "name": "یَرْفَعُ",
+        "urdu": "وہ اٹھاتا ہے یااٹھائے گا",
+        "eng": "he picks up",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "4",
+        "name": "یَغْفِرُ",
+        "urdu": "وہ بخشتا ہے یا بخشے گا",
+        "eng": "he forgives",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَغْفُلُ",
+        "urdu": "وہ غافل ہوتا ہے یا ہو گا",
+        "eng": "he is oblivious",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَسْجُدُ",
+        "urdu": "وہ سجدہ کرتا ہے یا کرے گا",
+        "eng": "he prostrates",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "6",
+        "name": "یَضْرِبُ",
+        "urdu": "وہ مارتا ہے یا مارے گا",
+        "eng": "he kills",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "1",
+        "name": "یَخْرُجُ",
+        "urdu": "وہ نکلتا ہے یا نکلے گا",
+        "eng": "he leaves",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "2",
+        "name": "یَرْزُقُ",
+        "urdu": "وہ عطا کرتا ہے یا کرے گا",
+        "eng": "he bestows",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "3",
+        "name": "یَفْرَحُ",
+        "urdu": "وہ خوش ہوتا ہے یا ہو گا",
+        "eng": "he is happy",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "4",
+        "name": "یَعْلَمُ",
+        "urdu": "وہ جانتا ہے یا جانے گا",
+        "eng": "he knows",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَسْمَعَ",
+        "urdu": "ْوہ سنتا ہے یا سنے گا",
+        "eng": "he listens",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَشْرَبُ",
+        "urdu": "وہ پیتا ہے یا پیے گا",
+        "eng": "he drinks",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "6",
+        "name": "یَرْحَمُ",
+        "urdu": "وہ رحم کرتا ہے یا رحم کرے گا",
+        "eng": "he shows mercy",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "3",
+        "name": "یَشْھَدُ",
+        "urdu": "وہ گواہی دیتا ہے یا دے گا",
+        "eng": "he testifies",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "4",
+        "name": "یَعْمَلُ",
+        "urdu": "وہ عمل کرتا ہے یا کرے گا",
+        "eng": "he acts",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَضْحَکَ",
+        "urdu": "وہ ہنستا ہے یا ہنسے گا",
+        "eng": "he laughs",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "5",
+        "name": "یَقْرَبُ",
+        "urdu": "وہ قریب ہوتا ہے یا ہو گا",
+        "eng": "he is near",
+        "g": " "
+      },
+      {
+        "urduheading": "فعل مضارع",
+        "engheading": "Present Future",
+        "subheading": " ",
+        "n": "6",
+        "name": "یَکْرُمُ",
+        "urdu": "وہ باعزت ہوتا ہے یا ہو گا",
+        "eng": "he shows mercy",
+        "g": " "
+      }
+    ],
+    "verb": [
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "1st pattern - اِفْعَال (مادہ)",
+        "n": "1",
+        "name": "اَنْزَلَ",
+        "urdu": "اتارنا",
+        "eng": "take off",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "1st pattern - اِفْعَال (مادہ)",
+        "n": "2",
+        "name": "اَخْرَجَ",
+        "urdu": "نکلنا",
+        "eng": "take out",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "1st pattern - اِفْعَال (مادہ)",
+        "n": "3",
+        "name": "اَدْخَلَ",
+        "urdu": "داخل کرنا",
+        "eng": "to insert",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "2nd pattern - تَفْعِیْل (مادہ)",
+        "n": "4",
+        "name": "اَعْلَّمَ",
+        "urdu": "سکھانا",
+        "eng": "teach",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "2nd pattern - تَفْعِیْل (مادہ)",
+        "n": "5",
+        "name": "نَزَّلَ",
+        "urdu": "نازل کرنا",
+        "eng": "to reveal",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "2nd pattern - تَفْعِیْل (مادہ)",
+        "n": "6",
+        "name": "سَبَّحَ",
+        "urdu": "تسبیح کرنا",
+        "eng": "to glorify",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "3rd pattern - مُفَاعَلَہٗ (مادہ)",
+        "n": "4",
+        "name": "نَافَقَ",
+        "urdu": "منافق ہوا",
+        "eng": "you are a hypocrite",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "3rd pattern - مُفَاعَلَہٗ (مادہ)",
+        "n": "5",
+        "name": "جَاھَدَ",
+        "urdu": "جہاد کرنا",
+        "eng": "doing jihad",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "3rd pattern - مُفَاعَلَہٗ (مادہ)",
+        "n": "6",
+        "name": "حَافَظَ",
+        "urdu": "حفاظت کرنا",
+        "eng": "to protect",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "4th pattern - تفَعُّل (مادہ)",
+        "n": "4",
+        "name": "تعَلَّم",
+        "urdu": "سکھنا",
+        "eng": "learning",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "4th pattern - تفَعُّل (مادہ)",
+        "n": "5",
+        "name": "تذکَّرَ",
+        "urdu": "یاد کرنا",
+        "eng": "to remember",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "4th pattern - تفَعُّل (مادہ)",
+        "n": "6",
+        "name": "تفکَّرَ",
+        "urdu": "غور و فکر کرنا",
+        "eng": "to ponder",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "5th pattern - تفاعُل (مادہ)",
+        "n": "4",
+        "name": "تَدَارَسَ",
+        "urdu": "باہم پڑھنا",
+        "eng": "read together",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "5th pattern - تفاعُل (مادہ)",
+        "n": "5",
+        "name": "تَنَاصَرَ",
+        "urdu": "ایک دوسرے کی مدد کرنا",
+        "eng": "helping each other",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "5th pattern - تفاعُل (مادہ)",
+        "n": "6",
+        "name": "تَنَازَعَ",
+        "urdu": "باہم جھگڑھنا",
+        "eng": "to fight each other",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "6th pattern - اِفتعَال (مادہ)",
+        "n": "4",
+        "name": "اِصْطَبَرَ",
+        "urdu": "صبر کرنا",
+        "eng": "to be patient",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "6th pattern - اِفتعَال (مادہ)",
+        "n": "5",
+        "name": "اِخْتَصَمَ",
+        "urdu": "جھگڑا کرنا",
+        "eng": "to argue",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "6th pattern - اِفتعَال (مادہ)",
+        "n": "6",
+        "name": "اِخْتَلَفَ",
+        "urdu": "اختلاف کرنا",
+        "eng": "to disagree",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "7th pattern - انفعال (مادہ)",
+        "n": "4",
+        "name": "اِنکَسَرَ",
+        "urdu": "ٹوٹ جانا",
+        "eng": "break down",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "7th pattern - انفعال (مادہ)",
+        "n": "5",
+        "name": "اِنْصَرَفَ",
+        "urdu": "پھر جانا",
+        "eng": "then go",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "7th pattern - انفعال (مادہ)",
+        "n": "6",
+        "name": "اِنْطَلَقَ",
+        "urdu": "چلنا",
+        "eng": "walk",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "8th pattern - استفْعَال (مادہ)",
+        "n": "4",
+        "name": "اِستَغْفَرَ",
+        "urdu": "بخشش مانگنا",
+        "eng": "ask for forgiveness",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "8th pattern - استفْعَال (مادہ)",
+        "n": "5",
+        "name": "اِسْتَکْبَرَ",
+        "urdu": "تکبر کرنا",
+        "eng": "to be arrogant",
+        "g": " "
+      },
+      {
+        "urduheading": "ابواب",
+        "engheading": "Verb Forms",
+        "subheading": "8th pattern - استفْعَال (مادہ)",
+        "n": "6",
+        "name": "اِستَطْعَمَ",
+        "urdu": "کھانا طلب کرنا",
+        "eng": "ask for food",
+        "g": " "
+      }
+    ]
+  }
+}
