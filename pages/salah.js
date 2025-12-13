@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { collection, getDocs, updateDoc, doc, deleteField } from 'firebase/firestore'
+import { collection, getDocs, updateDoc, doc, deleteField, getDoc, setDoc } from 'firebase/firestore'
 import { db } from '@/lib/firebase'
 import { useRouter } from 'next/router'
 import { ArrowLeft, ChevronDown, ChevronUp, Edit2, Save, X, Plus, Trash2 } from 'lucide-react'
@@ -53,27 +53,22 @@ export default function SalahAzkarPage() {
   }
 
   const handleDelete = async (docId, path) => {
-    console.log('🗑️ DELETING:', { docId, path })
-    
     if (!confirm('Are you sure you want to delete this item?')) return
     
     try {
       const docRef = doc(db, 'salah_azkar', docId)
+      const docSnap = await getDoc(docRef)
       
-      // ✅ FIX: Fetch current document, manually delete, then update
-      const snapshot = await getDocs(collection(db, 'salah_azkar'))
-      const document = snapshot.docs.find(d => d.id === docId)
-      
-      if (!document) {
+      if (!docSnap.exists()) {
         alert('Document not found!')
         return
       }
       
-      const currentData = document.data()
+      const data = docSnap.data()
       const pathParts = path.split('.')
       
-      // Navigate to parent and delete the field
-      let parent = currentData
+      // Navigate to parent
+      let parent = data
       for (let i = 0; i < pathParts.length - 1; i++) {
         parent = parent[pathParts[i]]
       }
@@ -81,18 +76,13 @@ export default function SalahAzkarPage() {
       // Delete the field
       delete parent[pathParts[pathParts.length - 1]]
       
-      // Update Firestore with the modified data
-      await updateDoc(docRef, currentData)
+      // ✅ Simple: Just overwrite the entire document
+      await setDoc(docRef, data)
       
-      console.log('✅ DELETE SUCCESS - Firestore updated!')
-      
-      // Refresh data
       await fetchData()
-      
       alert('Deleted successfully!')
     } catch (error) {
-      console.error('❌ DELETE ERROR:', error)
-      alert('Error deleting: ' + error.message)
+      alert('Error: ' + error.message)
     }
   }
 
