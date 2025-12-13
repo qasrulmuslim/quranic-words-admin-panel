@@ -53,25 +53,32 @@ export default function SalahAzkarPage() {
   }
 
   const handleDelete = async (docId, path) => {
-    console.log('🗑️ DELETING:', { docId, path }) // DEBUG
+    console.log('🗑️ DELETING:', { docId, path })
     
     if (!confirm('Are you sure you want to delete this item?')) return
     
     try {
       const docRef = doc(db, 'salah_azkar', docId)
-      console.log('📝 BEFORE DELETE - Document Ref:', docRef.path)
       
       await updateDoc(docRef, {
         [path]: deleteField()
       })
-      console.log('✅ DELETE SUCCESS - Firestore updated!')
       
-      // Wait 1 second for Firestore to sync
-      await new Promise(resolve => setTimeout(resolve, 1000))
+      console.log('✅ DELETE SUCCESS')
       
-      console.log('🔄 REFRESHING DATA...')
-      const freshData = await fetchData()
-      console.log('📊 FRESH DATA AFTER DELETE:', freshData)
+      // ✅ FIX: Immediately update local state
+      setData(prevData => {
+        const newData = JSON.parse(JSON.stringify(prevData)) // Deep clone
+        const pathParts = path.split('.')
+        
+        let current = newData[docId]
+        for (let i = 0; i < pathParts.length - 1; i++) {
+          current = current[pathParts[i]]
+        }
+        delete current[pathParts[pathParts.length - 1]]
+        
+        return newData
+      })
       
       alert('Deleted successfully!')
     } catch (error) {
