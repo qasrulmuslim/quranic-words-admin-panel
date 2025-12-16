@@ -75,23 +75,20 @@ export default function SalahAzkarPage() {
       
       const keyToDelete = pathParts[pathParts.length - 1]
       
-      // ✅ REBUILD: Convert to array, filter out the item, rebuild object
+      // ✅ FIX: Convert to array, filter, keep as array
       const entries = Object.entries(parent)
       const filtered = entries.filter(([key]) => key !== keyToDelete)
       
-      // Rebuild with sequential numeric keys
-      const rebuilt = {}
-      filtered.forEach(([_, value], index) => {
-        rebuilt[index] = value
-      })
+      // ✅ CRITICAL: Convert back to ARRAY, not object
+      const rebuiltArray = filtered.map(([_, value]) => value)
       
-      // Replace parent content
-      const parentKey = pathParts[pathParts.length - 1]
+      // Replace parent content with ARRAY
+      const parentKey = pathParts[pathParts.length - 2]
       let parentOfParent = data
       for (let i = 0; i < pathParts.length - 2; i++) {
         parentOfParent = parentOfParent[pathParts[i]]
       }
-      parentOfParent[pathParts[pathParts.length - 2]] = rebuilt
+      parentOfParent[parentKey] = rebuiltArray // ✅ Array, not object!
       
       // Update Firestore
       await setDoc(docRef, data)
