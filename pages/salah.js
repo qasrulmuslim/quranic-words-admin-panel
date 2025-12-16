@@ -64,7 +64,7 @@ export default function SalahAzkarPage() {
         return
       }
       
-      const data = docSnap.data()
+      const data = JSON.parse(JSON.stringify(docSnap.data())) // Deep clone
       const pathParts = path.split('.')
       
       // Navigate to parent
@@ -75,27 +75,45 @@ export default function SalahAzkarPage() {
       
       const keyToDelete = pathParts[pathParts.length - 1]
       
-      // ✅ FIX: Convert to array, filter, keep as array
+      // ✅ Convert to array, filter, rebuild as ARRAY
       const entries = Object.entries(parent)
       const filtered = entries.filter(([key]) => key !== keyToDelete)
-      
-      // ✅ CRITICAL: Convert back to ARRAY, not object
       const rebuiltArray = filtered.map(([_, value]) => value)
       
-      // Replace parent content with ARRAY
+      // Replace in parent
       const parentKey = pathParts[pathParts.length - 2]
       let parentOfParent = data
       for (let i = 0; i < pathParts.length - 2; i++) {
         parentOfParent = parentOfParent[pathParts[i]]
       }
-      parentOfParent[parentKey] = rebuiltArray // ✅ Array, not object!
+      parentOfParent[parentKey] = rebuiltArray
+      
+      // ✅ CRITICAL: Remove ALL undefined values recursively
+      const removeUndefined = (obj) => {
+        if (Array.isArray(obj)) {
+          return obj.map(removeUndefined).filter(item => item !== undefined)
+        }
+        if (obj && typeof obj === 'object') {
+          const cleaned = {}
+          for (const [key, value] of Object.entries(obj)) {
+            if (value !== undefined) {
+              cleaned[key] = removeUndefined(value)
+            }
+          }
+          return cleaned
+        }
+        return obj
+      }
+      
+      const cleanedData = removeUndefined(data)
       
       // Update Firestore
-      await setDoc(docRef, data)
+      await setDoc(docRef, cleanedData)
       
       await fetchData()
       alert('Deleted successfully!')
     } catch (error) {
+      console.error('Delete error:', error)
       alert('Error: ' + error.message)
     }
   }
