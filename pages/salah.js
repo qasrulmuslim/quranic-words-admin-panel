@@ -121,55 +121,65 @@ export default function SalahAzkarPage() {
   const handleSave = async () => {
     try {
       const docRef = doc(db, 'salah_azkar', editingItem.docId)
-      const snapshot = await getDocs(collection(db, 'salah_azkar'))
-      const document = snapshot.docs.find(d => d.id === editingItem.docId)
+      const docSnap = await getDoc(docRef)
       
-      if (document) {
-        const currentData = document.data()
-        const pathParts = editingItem.path.split('.')
-        
-        if (isAddMode) {
-          let parent = currentData
-          
-          // Special handling for adhan document - add directly without numeric index
-          if (editingItem.docId === 'adhan' && pathParts.length === 1) {
-            parent[pathParts[0]] = formData
-          } else {
-            // Original logic for numbered collections
-            for (let i = 0; i < pathParts.length; i++) {
-              if (i === pathParts.length - 1) {
-                if (!parent[pathParts[i]]) {
-                  parent[pathParts[i]] = {}
-                }
-                const existingKeys = Object.keys(parent[pathParts[i]]).filter(k => !isNaN(k)).map(Number)
-                const nextIndex = existingKeys.length > 0 ? Math.max(...existingKeys) + 1 : 0
-                parent[pathParts[i]][nextIndex] = formData
-              } else {
-                if (!parent[pathParts[i]]) {
-                  parent[pathParts[i]] = {}
-                }
-                parent = parent[pathParts[i]]
-              }
-            }
+      if (!docSnap.exists()) {
+        alert('Document not found!')
+        return
+      }
+      
+      const currentData = JSON.parse(JSON.stringify(docSnap.data())) // Deep clone
+      const pathParts = editingItem.path.split('.')
+      
+      if (isAddMode) {
+        // Navigate to parent
+        let parent = currentData
+        for (let i = 0; i < pathParts.length - 1; i++) {
+          if (!parent[pathParts[i]]) {
+            parent[pathParts[i]] = pathParts[i] === 'data' ? [] : {} // ✅ Create array for 'data'
           }
-        } else {
-          let parent = currentData
-          for (let i = 0; i < pathParts.length - 1; i++) {
-            parent = parent[pathParts[i]]
-          }
-          parent[pathParts[pathParts.length - 1]] = formData
+          parent = parent[pathParts[i]]
         }
         
-        await updateDoc(docRef, currentData)
+        const lastKey = pathParts[pathParts.length - 1]
         
-        setShowModal(false)
-        setEditingItem(null)
-        setFormData({})
-        setIsAddMode(false)
-        fetchData()
-        alert(isAddMode ? 'Added successfully!' : 'Updated successfully!')
+        // ✅ CRITICAL: Always use ARRAY for 'data' field
+        if (lastKey === 'data') {
+          if (!Array.isArray(parent[lastKey])) {
+            parent[lastKey] = []
+          }
+          parent[lastKey].push(formData) // ✅ Push to array, not object!
+        } else if (editingItem.docId === 'adhan') {
+          // Special case for adhan
+          if (!parent[lastKey]) {
+            parent[lastKey] = {}
+          }
+          const existingKeys = Object.keys(parent[lastKey]).filter(k => !isNaN(k)).map(Number)
+          const nextIndex = existingKeys.length > 0 ? Math.max(...existingKeys) + 1 : 0
+          parent[lastKey][nextIndex] = formData
+        } else {
+          parent[lastKey] = formData
+        }
+      } else {
+        // Edit mode - navigate and update
+        let parent = currentData
+        for (let i = 0; i < pathParts.length - 1; i++) {
+          parent = parent[pathParts[i]]
+        }
+        parent[pathParts[pathParts.length - 1]] = formData
       }
+      
+      // Save to Firestore
+      await setDoc(docRef, currentData)
+      
+      setShowModal(false)
+      setEditingItem(null)
+      setFormData({})
+      setIsAddMode(false)
+      await fetchData()
+      alert(isAddMode ? 'Added successfully!' : 'Updated successfully!')
     } catch (error) {
+      console.error('Save error:', error)
       alert('Error saving: ' + error.message)
     }
   }
