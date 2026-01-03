@@ -40,7 +40,21 @@ export default function SalahAzkarPage() {
   const handleEdit = (docId, path, itemData) => {
     setIsAddMode(false)
     setEditingItem({ docId, path, itemData })
-    setFormData(itemData)
+    
+    // Ensure reference fields are properly set
+    const editData = { ...itemData }
+    
+    // If old 'reference' field exists, copy to reference_urdu
+    if (editData.reference && !editData.reference_urdu) {
+      editData.reference_urdu = editData.reference
+    }
+    
+    // Always ensure reference_english exists
+    if (editData.reference_english === undefined) {
+      editData.reference_english = ''
+    }
+    
+    setFormData(editData)
     setShowModal(true)
   }
 
@@ -734,37 +748,45 @@ export default function SalahAzkarPage() {
                 </div>
               )}
 
-              {/* UPDATED: Separate Reference Fields */}
-              {(formData.reference_urdu !== undefined || formData.reference !== undefined) && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Reference (Urdu)
-                  </label>
-                  <input
-                    type="text"
-                    value={formData.reference_urdu || formData.reference || ''}
-                    onChange={(e) => {
-                      const key = formData.reference_urdu !== undefined ? 'reference_urdu' : 'reference'
-                      setFormData({ ...formData, [key]: e.target.value })
-                    }}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
-                    dir="rtl"
-                  />
-                </div>
-              )}
+              {/* UPDATED: Separate Reference Fields - ALWAYS show both */}
+              {(formData.reference_urdu !== undefined || formData.reference !== undefined || 
+                formData.arabic !== undefined || formData.arabic_text !== undefined) && (
+                <>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">
+                      Reference (Urdu) / حوالہ
+                    </label>
+                    <input
+                      type="text"
+                      value={formData.reference_urdu || formData.reference || ''}
+                      onChange={(e) => {
+                        // Always save as reference_urdu
+                        const newData = { ...formData, reference_urdu: e.target.value }
+                        // Remove old reference field if it exists
+                        if (newData.reference !== undefined) {
+                          delete newData.reference
+                        }
+                        setFormData(newData)
+                      }}
+                      className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-lg"
+                      dir="rtl"
+                      placeholder="صحیح بخاری، کتاب الاذان، حدیث:499"
+                    />
+                  </div>
 
-              {formData.reference_english !== undefined && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Reference (English)
-                  </label>
-                  <input
-                    type="text"
-                    value={formData.reference_english || ''}
-                    onChange={(e) => setFormData({ ...formData, reference_english: e.target.value })}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
-                  />
-                </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">
+                      Reference (English)
+                    </label>
+                    <input
+                      type="text"
+                      value={formData.reference_english || ''}
+                      onChange={(e) => setFormData({ ...formData, reference_english: e.target.value })}
+                      className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+                      placeholder="Sahih Bukhari, Book of Adhan, Hadith:499"
+                    />
+                  </div>
+                </>
               )}
 
               <div className="flex gap-3 pt-4">

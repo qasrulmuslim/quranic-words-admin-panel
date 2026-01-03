@@ -1,0 +1,83 @@
+"""
+Migration Script: Convert reference to reference_urdu and add reference_english
+This script will:
+1. Read all documents in salah_azkar collection
+2. For each 'reference' field, rename it to 'reference_urdu'
+3. Add empty 'reference_english' field
+4. Update the document in Firestore
+"""
+
+import firebase_admin
+from firebase_admin import credentials, firestore
+
+# Initialize Firebase Admin SDK
+cred = credentials.Certificate('D:/flutter_apps/quranic-words-d3dee-firebase-adminsdk-fbsvc-f239175fa1.json')
+firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+
+def migrate_references_recursive(data):
+    """
+    Recursively process data structure and convert reference fields
+    """
+    if isinstance(data, dict):
+        new_data = {}
+        for key, value in data.items():
+            # If this is a 'reference' field, convert it
+            if key == 'reference':
+                new_data['reference_urdu'] = value
+                new_data['reference_english'] = ''  # Empty string for English reference
+            else:
+                # Recursively process nested structures
+                new_data[key] = migrate_references_recursive(value)
+        return new_data
+    elif isinstance(data, list):
+        return [migrate_references_recursive(item) for item in data]
+    else:
+        return data
+
+def migrate_collection():
+    """
+    Migrate all documents in the salah_azkar collection
+    """
+    collection_ref = db.collection('salah_azkar')
+    docs = collection_ref.stream()
+    
+    count = 0
+    for doc in docs:
+        doc_id = doc.id
+        doc_data = doc.to_dict()
+        
+        print(f"\n{'='*60}")
+        print(f"Processing document: {doc_id}")
+        print(f"{'='*60}")
+        
+        # Migrate the data
+        migrated_data = migrate_references_recursive(doc_data)
+        
+        # Update the document
+        collection_ref.document(doc_id).set(migrated_data)
+        count += 1
+        
+        print(f"✓ Updated document: {doc_id}")
+    
+    print(f"\n{'='*60}")
+    print(f"Migration completed! Updated {count} documents")
+    print(f"{'='*60}")
+
+if __name__ == "__main__":
+    print("Starting migration...")
+    print("This will convert all 'reference' fields to 'reference_urdu'")
+    print("and add empty 'reference_english' fields")
+    
+    response = input("\nDo you want to proceed? (yes/no): ")
+    
+    if response.lower() == 'yes':
+        migrate_collection()
+        print("\n✓ Migration successful!")
+        print("\nNext steps:")
+        print("1. Go to your admin panel")
+        print("2. Edit each entry and add English references")
+        print("3. The Flutter app will automatically show the correct reference based on language")
+    else:
+        print("Migration cancelled.")
