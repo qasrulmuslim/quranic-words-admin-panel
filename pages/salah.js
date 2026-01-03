@@ -41,7 +41,7 @@ export default function SalahAzkarPage() {
     setIsAddMode(false)
     setEditingItem({ docId, path, itemData })
     
-    // Ensure reference fields are properly set
+    // Ensure reference and explanation fields are properly set
     const editData = { ...itemData }
     
     // If old 'reference' field exists, copy to reference_urdu
@@ -49,9 +49,17 @@ export default function SalahAzkarPage() {
       editData.reference_urdu = editData.reference
     }
     
-    // Always ensure reference_english exists
+    // If old 'explanation' field exists, copy to explanation_urdu
+    if (editData.explanation && !editData.explanation_urdu) {
+      editData.explanation_urdu = editData.explanation
+    }
+    
+    // Always ensure English fields exist
     if (editData.reference_english === undefined) {
       editData.reference_english = ''
+    }
+    if (editData.explanation_english === undefined) {
+      editData.explanation_english = ''
     }
     
     setFormData(editData)
@@ -716,36 +724,45 @@ export default function SalahAzkarPage() {
                 </div>
               )}
 
-              {(formData.explanation_urdu !== undefined || formData.explanation !== undefined) && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Explanation (Urdu)
-                  </label>
-                  <textarea
-                    value={formData.explanation_urdu || formData.explanation || ''}
-                    onChange={(e) => {
-                      const key = formData.explanation_urdu !== undefined ? 'explanation_urdu' : 'explanation'
-                      setFormData({ ...formData, [key]: e.target.value })
-                    }}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-base leading-relaxed"
-                    rows="3"
-                    dir="rtl"
-                  />
-                </div>
-              )}
+              {/* Explanation Fields - ALWAYS show both */}
+              {(formData.explanation_urdu !== undefined || formData.explanation !== undefined ||
+                formData.arabic !== undefined || formData.arabic_text !== undefined) && (
+                <>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">
+                      Explanation (Urdu) / تشریح
+                    </label>
+                    <textarea
+                      value={formData.explanation_urdu || formData.explanation || ''}
+                      onChange={(e) => {
+                        // Always save as explanation_urdu
+                        const newData = { ...formData, explanation_urdu: e.target.value }
+                        // Remove old explanation field if it exists
+                        if (newData.explanation !== undefined) {
+                          delete newData.explanation
+                        }
+                        setFormData(newData)
+                      }}
+                      className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-base leading-relaxed"
+                      rows="3"
+                      dir="rtl"
+                      placeholder="اردو میں تشریح..."
+                    />
+                  </div>
 
-              {formData.explanation_english !== undefined && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Explanation (English)
-                  </label>
-                  <textarea
-                    value={formData.explanation_english || ''}
-                    onChange={(e) => setFormData({ ...formData, explanation_english: e.target.value })}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-base leading-relaxed"
-                    rows="3"
-                  />
-                </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">
+                      Explanation (English)
+                    </label>
+                    <textarea
+                      value={formData.explanation_english || ''}
+                      onChange={(e) => setFormData({ ...formData, explanation_english: e.target.value })}
+                      className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-base leading-relaxed"
+                      rows="3"
+                      placeholder="Explanation in English..."
+                    />
+                  </div>
+                </>
               )}
 
               {/* UPDATED: Separate Reference Fields - ALWAYS show both */}
