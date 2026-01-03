@@ -28,7 +28,6 @@ export default function SalahAzkarPage() {
         allData[doc.id] = doc.data()
       })
       
-      // 🔥 THIS LINE FIXES IT - CREATE NEW OBJECT
       setData({ ...allData })
       return allData
     } catch (error) {
@@ -64,23 +63,19 @@ export default function SalahAzkarPage() {
         return
       }
       
-      const data = JSON.parse(JSON.stringify(docSnap.data())) // Deep clone
+      const data = JSON.parse(JSON.stringify(docSnap.data()))
       const pathParts = path.split('.')
       
-      // Navigate to parent
       let parent = data
       for (let i = 0; i < pathParts.length - 1; i++) {
         parent = parent[pathParts[i]]
       }
       
       const keyToDelete = pathParts[pathParts.length - 1]
-      
-      // ✅ Convert to array, filter, rebuild as ARRAY
       const entries = Object.entries(parent)
       const filtered = entries.filter(([key]) => key !== keyToDelete)
       const rebuiltArray = filtered.map(([_, value]) => value)
       
-      // Replace in parent
       const parentKey = pathParts[pathParts.length - 2]
       let parentOfParent = data
       for (let i = 0; i < pathParts.length - 2; i++) {
@@ -88,7 +83,6 @@ export default function SalahAzkarPage() {
       }
       parentOfParent[parentKey] = rebuiltArray
       
-      // ✅ CRITICAL: Remove ALL undefined values recursively
       const removeUndefined = (obj) => {
         if (Array.isArray(obj)) {
           return obj.map(removeUndefined).filter(item => item !== undefined)
@@ -106,10 +100,7 @@ export default function SalahAzkarPage() {
       }
       
       const cleanedData = removeUndefined(data)
-      
-      // Update Firestore
       await setDoc(docRef, cleanedData)
-      
       await fetchData()
       alert('Deleted successfully!')
     } catch (error) {
@@ -128,29 +119,26 @@ export default function SalahAzkarPage() {
         return
       }
       
-      const currentData = JSON.parse(JSON.stringify(docSnap.data())) // Deep clone
+      const currentData = JSON.parse(JSON.stringify(docSnap.data()))
       const pathParts = editingItem.path.split('.')
       
       if (isAddMode) {
-        // Navigate to parent
         let parent = currentData
         for (let i = 0; i < pathParts.length - 1; i++) {
           if (!parent[pathParts[i]]) {
-            parent[pathParts[i]] = pathParts[i] === 'data' ? [] : {} // ✅ Create array for 'data'
+            parent[pathParts[i]] = pathParts[i] === 'data' ? [] : {}
           }
           parent = parent[pathParts[i]]
         }
         
         const lastKey = pathParts[pathParts.length - 1]
         
-        // ✅ CRITICAL: Always use ARRAY for 'data' field
         if (lastKey === 'data') {
           if (!Array.isArray(parent[lastKey])) {
             parent[lastKey] = []
           }
-          parent[lastKey].push(formData) // ✅ Push to array, not object!
+          parent[lastKey].push(formData)
         } else if (editingItem.docId === 'adhan') {
-          // Special case for adhan
           if (!parent[lastKey]) {
             parent[lastKey] = {}
           }
@@ -161,7 +149,6 @@ export default function SalahAzkarPage() {
           parent[lastKey] = formData
         }
       } else {
-        // Edit mode - navigate and update
         let parent = currentData
         for (let i = 0; i < pathParts.length - 1; i++) {
           parent = parent[pathParts[i]]
@@ -169,7 +156,6 @@ export default function SalahAzkarPage() {
         parent[pathParts[pathParts.length - 1]] = formData
       }
       
-      // Save to Firestore
       await setDoc(docRef, currentData)
       
       setShowModal(false)
@@ -196,7 +182,8 @@ export default function SalahAzkarPage() {
     translation_en: '',
     translation_urdu: '',
     explanation: '',
-    reference: '',
+    reference_urdu: '',
+    reference_english: '',
     title_english: ''
   })
 
@@ -206,8 +193,10 @@ export default function SalahAzkarPage() {
     title_urdu: '',
     arabic_text: '',
     translation_urdu: '',
+    translation_english: '',
     explanation: '',
-    reference: ''
+    reference_urdu: '',
+    reference_english: ''
   })
 
   const getAdhanTemplate = () => ({
@@ -217,7 +206,9 @@ export default function SalahAzkarPage() {
     english: '',
     urdu: '',
     explanation_urdu: '',
-    reference: ''
+    explanation_english: '',
+    reference_urdu: '',
+    reference_english: ''
   })
 
   if (loading) {
@@ -255,26 +246,27 @@ export default function SalahAzkarPage() {
               </div>
               
               <div className="p-6 space-y-6">
-                {data.adhan.adhan_response && (
-                  <div className="border border-purple-200 rounded-xl p-6 bg-purple-50">
+                {/* Render all adhan sections dynamically */}
+                {Object.entries(data.adhan).map(([key, sectionData]) => (
+                  <div key={key} className="border border-purple-200 rounded-xl p-6 bg-purple-50">
                     <div className="flex justify-between items-start mb-4">
                       <div>
                         <h3 className="text-xl font-bold text-purple-900 mb-2">
-                          {data.adhan.adhan_response.title_english}
+                          {sectionData.title_english}
                         </h3>
                         <h4 className="text-lg font-semibold text-purple-700" dir="rtl">
-                          {data.adhan.adhan_response.title_urdu}
+                          {sectionData.title_urdu}
                         </h4>
                       </div>
                       <div className="flex gap-2">
                         <button
-                          onClick={() => handleEdit('adhan', 'adhan_response', data.adhan.adhan_response)}
+                          onClick={() => handleEdit('adhan', key, sectionData)}
                           className="p-2 text-purple-600 hover:bg-purple-100 rounded-lg transition"
                         >
                           <Edit2 size={20} />
                         </button>
                         <button
-                          onClick={() => handleDelete('adhan', 'adhan_response')}
+                          onClick={() => handleDelete('adhan', key)}
                           className="p-2 text-red-600 hover:bg-red-50 rounded-lg transition"
                         >
                           <Trash2 size={20} />
@@ -285,138 +277,50 @@ export default function SalahAzkarPage() {
                     <div className="space-y-3">
                       <div className="bg-white p-4 rounded-lg">
                         <p className="text-sm text-gray-600 mb-1">Arabic</p>
-                        <p className="text-2xl text-right" dir="rtl">{data.adhan.adhan_response.arabic}</p>
+                        <p className="text-2xl text-right leading-loose" dir="rtl">{sectionData.arabic}</p>
                       </div>
                       
                       <div className="bg-white p-4 rounded-lg">
                         <p className="text-sm text-gray-600 mb-1">English</p>
-                        <p className="text-base">{data.adhan.adhan_response.english}</p>
+                        <p className="text-base">{sectionData.english}</p>
                       </div>
                       
                       <div className="bg-white p-4 rounded-lg">
                         <p className="text-sm text-gray-600 mb-1">Urdu</p>
-                        <p className="text-base text-right" dir="rtl">{data.adhan.adhan_response.urdu}</p>
+                        <p className="text-base text-right leading-relaxed" dir="rtl">{sectionData.urdu}</p>
                       </div>
                       
-                      {data.adhan.adhan_response.explanation_urdu && (
+                      {sectionData.explanation_urdu && (
                         <div className="bg-white p-4 rounded-lg">
                           <p className="text-sm text-gray-600 mb-1">Explanation (Urdu)</p>
-                          <p className="text-sm text-right leading-relaxed" dir="rtl">{data.adhan.adhan_response.explanation_urdu}</p>
+                          <p className="text-sm text-right leading-relaxed" dir="rtl">{sectionData.explanation_urdu}</p>
                         </div>
                       )}
                       
-                      {data.adhan.adhan_response.reference && (
+                      {sectionData.explanation_english && (
                         <div className="bg-white p-4 rounded-lg">
-                          <p className="text-xs text-gray-500">Reference: {data.adhan.adhan_response.reference}</p>
+                          <p className="text-sm text-gray-600 mb-1">Explanation (English)</p>
+                          <p className="text-sm leading-relaxed">{sectionData.explanation_english}</p>
+                        </div>
+                      )}
+                      
+                      {(sectionData.reference_urdu || sectionData.reference_english || sectionData.reference) && (
+                        <div className="bg-white p-4 rounded-lg">
+                          <p className="text-xs text-gray-500 mb-1">References:</p>
+                          {sectionData.reference_urdu && (
+                            <p className="text-xs text-gray-600 text-right mb-1" dir="rtl">📖 Urdu: {sectionData.reference_urdu}</p>
+                          )}
+                          {sectionData.reference_english && (
+                            <p className="text-xs text-gray-600">📖 English: {sectionData.reference_english}</p>
+                          )}
+                          {sectionData.reference && !sectionData.reference_urdu && !sectionData.reference_english && (
+                            <p className="text-xs text-gray-600">📖 {sectionData.reference}</p>
+                          )}
                         </div>
                       )}
                     </div>
                   </div>
-                )}
-
-                {data.adhan.dua_between_adhan_and_aqamat && (
-                  <div className="border border-purple-200 rounded-xl p-6 bg-purple-50">
-                    <div className="flex justify-between items-start mb-4">
-                      <div>
-                        <h3 className="text-xl font-bold text-purple-900 mb-2">
-                          {data.adhan.dua_between_adhan_and_aqamat.title_english}
-                        </h3>
-                        <h4 className="text-lg font-semibold text-purple-700" dir="rtl">
-                          {data.adhan.dua_between_adhan_and_aqamat.title_urdu}
-                        </h4>
-                      </div>
-                      <div className="flex gap-2">
-                        <button
-                          onClick={() => handleEdit('adhan', 'dua_between_adhan_and_aqamat', data.adhan.dua_between_adhan_and_aqamat)}
-                          className="p-2 text-purple-600 hover:bg-purple-100 rounded-lg transition"
-                        >
-                          <Edit2 size={20} />
-                        </button>
-                        <button
-                          onClick={() => handleDelete('adhan', 'dua_between_adhan_and_aqamat')}
-                          className="p-2 text-red-600 hover:bg-red-50 rounded-lg transition"
-                        >
-                          <Trash2 size={20} />
-                        </button>
-                      </div>
-                    </div>
-                    
-                    <div className="space-y-3">
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">Arabic</p>
-                        <p className="text-2xl text-right leading-loose" dir="rtl">{data.adhan.dua_between_adhan_and_aqamat.arabic}</p>
-                      </div>
-                      
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">English</p>
-                        <p className="text-base">{data.adhan.dua_between_adhan_and_aqamat.english}</p>
-                      </div>
-                      
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">Urdu</p>
-                        <p className="text-base text-right leading-relaxed" dir="rtl">{data.adhan.dua_between_adhan_and_aqamat.urdu}</p>
-                      </div>
-                      
-                      {data.adhan.dua_between_adhan_and_aqamat.reference && (
-                        <div className="bg-white p-4 rounded-lg">
-                          <p className="text-xs text-gray-500">Reference: {data.adhan.dua_between_adhan_and_aqamat.reference}</p>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                )}
-
-                {data.adhan.dua_when_entering_mosque && (
-                  <div className="border border-purple-200 rounded-xl p-6 bg-purple-50">
-                    <div className="flex justify-between items-start mb-4">
-                      <div>
-                        <h3 className="text-xl font-bold text-purple-900 mb-2">
-                          {data.adhan.dua_when_entering_mosque.title_english}
-                        </h3>
-                        <h4 className="text-lg font-semibold text-purple-700" dir="rtl">
-                          {data.adhan.dua_when_entering_mosque.title_urdu}
-                        </h4>
-                      </div>
-                      <div className="flex gap-2">
-                        <button
-                          onClick={() => handleEdit('adhan', 'dua_when_entering_mosque', data.adhan.dua_when_entering_mosque)}
-                          className="p-2 text-purple-600 hover:bg-purple-100 rounded-lg transition"
-                        >
-                          <Edit2 size={20} />
-                        </button>
-                        <button
-                          onClick={() => handleDelete('adhan', 'dua_when_entering_mosque')}
-                          className="p-2 text-red-600 hover:bg-red-50 rounded-lg transition"
-                        >
-                          <Trash2 size={20} />
-                        </button>
-                      </div>
-                    </div>
-                    
-                    <div className="space-y-3">
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">Arabic</p>
-                        <p className="text-2xl text-right leading-loose" dir="rtl">{data.adhan.dua_when_entering_mosque.arabic}</p>
-                      </div>
-                      
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">English</p>
-                        <p className="text-base">{data.adhan.dua_when_entering_mosque.english}</p>
-                      </div>
-                      
-                      <div className="bg-white p-4 rounded-lg">
-                        <p className="text-sm text-gray-600 mb-1">Urdu</p>
-                        <p className="text-base text-right" dir="rtl">{data.adhan.dua_when_entering_mosque.urdu}</p>
-                      </div>
-                      
-                      {data.adhan.dua_when_entering_mosque.reference && (
-                        <div className="bg-white p-4 rounded-lg">
-                          <p className="text-xs text-gray-500">Reference: {data.adhan.dua_when_entering_mosque.reference}</p>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                )}
+                ))}
                 
                 <button
                   onClick={() => {
@@ -433,7 +337,7 @@ export default function SalahAzkarPage() {
             </div>
           )}
 
-          {/* AFTER SALAH DOCUMENT */}
+          {/* AFTER SALAH - Keep existing code, just update template */}
           {data.after_salah && data.after_salah.categories && (
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               <div className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white p-6">
@@ -520,8 +424,19 @@ export default function SalahAzkarPage() {
                                 </div>
                               )}
                               
-                              {item.reference && (
-                                <p className="text-xs text-gray-500">Reference: {item.reference}</p>
+                              {(item.reference_urdu || item.reference_english || item.reference) && (
+                                <div className="bg-gray-50 p-3 rounded">
+                                  <p className="text-xs text-gray-500 mb-1">References:</p>
+                                  {item.reference_urdu && (
+                                    <p className="text-xs text-gray-600 text-right mb-1" dir="rtl">📖 {item.reference_urdu}</p>
+                                  )}
+                                  {item.reference_english && (
+                                    <p className="text-xs text-gray-600">📖 {item.reference_english}</p>
+                                  )}
+                                  {item.reference && !item.reference_urdu && !item.reference_english && (
+                                    <p className="text-xs text-gray-600">📖 {item.reference}</p>
+                                  )}
+                                </div>
                               )}
                             </div>
                           </div>
@@ -542,7 +457,7 @@ export default function SalahAzkarPage() {
             </div>
           )}
 
-          {/* SALAH DOCUMENT (Steps) */}
+          {/* SALAH DOCUMENT (Steps) - Keep existing, just update template */}
           {data.salah && data.salah.data && (
             <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
               <div className="bg-gradient-to-r from-green-600 to-teal-600 text-white p-6">
@@ -623,6 +538,13 @@ export default function SalahAzkarPage() {
                                 </div>
                               )}
                               
+                              {part.translation_english && (
+                                <div className="bg-gray-50 p-3 rounded">
+                                  <p className="text-sm text-gray-600 mb-1">English Translation</p>
+                                  <p className="text-sm">{part.translation_english}</p>
+                                </div>
+                              )}
+                              
                               {part.explanation && (
                                 <div className="bg-gray-50 p-3 rounded">
                                   <p className="text-sm text-gray-600 mb-1">Explanation</p>
@@ -630,8 +552,19 @@ export default function SalahAzkarPage() {
                                 </div>
                               )}
                               
-                              {part.reference && (
-                                <p className="text-xs text-gray-500">Reference: {part.reference}</p>
+                              {(part.reference_urdu || part.reference_english || part.reference) && (
+                                <div className="bg-gray-50 p-3 rounded">
+                                  <p className="text-xs text-gray-500 mb-1">References:</p>
+                                  {part.reference_urdu && (
+                                    <p className="text-xs text-gray-600 text-right mb-1" dir="rtl">📖 {part.reference_urdu}</p>
+                                  )}
+                                  {part.reference_english && (
+                                    <p className="text-xs text-gray-600">📖 {part.reference_english}</p>
+                                  )}
+                                  {part.reference && !part.reference_urdu && !part.reference_english && (
+                                    <p className="text-xs text-gray-600">📖 {part.reference}</p>
+                                  )}
+                                </div>
                               )}
                             </div>
                           </div>
@@ -733,15 +666,16 @@ export default function SalahAzkarPage() {
                 </div>
               )}
 
-              {(formData.english !== undefined || formData.translation_en !== undefined) && (
+              {(formData.english !== undefined || formData.translation_en !== undefined || formData.translation_english !== undefined) && (
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
                     English Translation
                   </label>
                   <textarea
-                    value={formData.english || formData.translation_en || ''}
+                    value={formData.english || formData.translation_en || formData.translation_english || ''}
                     onChange={(e) => {
-                      const key = formData.english !== undefined ? 'english' : 'translation_en'
+                      const key = formData.english !== undefined ? 'english' : 
+                                  formData.translation_en !== undefined ? 'translation_en' : 'translation_english'
                       setFormData({ ...formData, [key]: e.target.value })
                     }}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
@@ -786,15 +720,48 @@ export default function SalahAzkarPage() {
                 </div>
               )}
 
-              {formData.reference !== undefined && (
+              {formData.explanation_english !== undefined && (
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Reference
+                    Explanation (English)
+                  </label>
+                  <textarea
+                    value={formData.explanation_english || ''}
+                    onChange={(e) => setFormData({ ...formData, explanation_english: e.target.value })}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-base leading-relaxed"
+                    rows="3"
+                  />
+                </div>
+              )}
+
+              {/* UPDATED: Separate Reference Fields */}
+              {(formData.reference_urdu !== undefined || formData.reference !== undefined) && (
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Reference (Urdu)
                   </label>
                   <input
                     type="text"
-                    value={formData.reference || ''}
-                    onChange={(e) => setFormData({ ...formData, reference: e.target.value })}
+                    value={formData.reference_urdu || formData.reference || ''}
+                    onChange={(e) => {
+                      const key = formData.reference_urdu !== undefined ? 'reference_urdu' : 'reference'
+                      setFormData({ ...formData, [key]: e.target.value })
+                    }}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+                    dir="rtl"
+                  />
+                </div>
+              )}
+
+              {formData.reference_english !== undefined && (
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Reference (English)
+                  </label>
+                  <input
+                    type="text"
+                    value={formData.reference_english || ''}
+                    onChange={(e) => setFormData({ ...formData, reference_english: e.target.value })}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
                   />
                 </div>
