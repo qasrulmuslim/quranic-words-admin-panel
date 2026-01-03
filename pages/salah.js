@@ -41,7 +41,7 @@ export default function SalahAzkarPage() {
     setIsAddMode(false)
     setEditingItem({ docId, path, itemData })
     
-    // Ensure reference and explanation fields are properly set
+    // Ensure reference, explanation, and translation fields are properly set
     const editData = { ...itemData }
     
     // If old 'reference' field exists, copy to reference_urdu
@@ -60,6 +60,16 @@ export default function SalahAzkarPage() {
     }
     if (editData.explanation_english === undefined) {
       editData.explanation_english = ''
+    }
+    if (editData.translation_english === undefined && editData.translation_en === undefined && editData.english === undefined) {
+      // Add the appropriate translation_english field based on what exists
+      if (editData.translation_urdu !== undefined) {
+        editData.translation_english = ''
+      } else if (editData.translation_en !== undefined) {
+        // Already has translation_en, that's fine
+      } else if (editData.urdu !== undefined) {
+        editData.english = ''
+      }
     }
     
     setFormData(editData)
@@ -720,6 +730,27 @@ export default function SalahAzkarPage() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-lg leading-relaxed"
                     rows="3"
                     dir="rtl"
+                  />
+                </div>
+              )}
+
+              {/* English Translation Field - ADDED */}
+              {(formData.english !== undefined || formData.translation_en !== undefined || formData.translation_english !== undefined ||
+                formData.urdu !== undefined || formData.translation_urdu !== undefined) && (
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    English Translation
+                  </label>
+                  <textarea
+                    value={formData.english || formData.translation_en || formData.translation_english || ''}
+                    onChange={(e) => {
+                      const key = formData.english !== undefined ? 'english' : 
+                                  formData.translation_en !== undefined ? 'translation_en' : 'translation_english'
+                      setFormData({ ...formData, [key]: e.target.value })
+                    }}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+                    rows="3"
+                    placeholder="English translation..."
                   />
                 </div>
               )}
