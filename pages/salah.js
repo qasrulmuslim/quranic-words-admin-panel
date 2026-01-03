@@ -698,6 +698,7 @@ export default function SalahAzkarPage() {
                 </div>
               )}
 
+              {/* English Translation - handles all document types */}
               {(formData.english !== undefined || formData.translation_en !== undefined || formData.translation_english !== undefined) && (
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
@@ -712,10 +713,12 @@ export default function SalahAzkarPage() {
                     }}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
                     rows="3"
+                    placeholder="English translation..."
                   />
                 </div>
               )}
 
+              {/* Urdu Translation - handles all document types */}
               {(formData.urdu !== undefined || formData.translation_urdu !== undefined) && (
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
@@ -730,27 +733,7 @@ export default function SalahAzkarPage() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none text-lg leading-relaxed"
                     rows="3"
                     dir="rtl"
-                  />
-                </div>
-              )}
-
-              {/* English Translation Field - ADDED */}
-              {(formData.english !== undefined || formData.translation_en !== undefined || formData.translation_english !== undefined ||
-                formData.urdu !== undefined || formData.translation_urdu !== undefined) && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    English Translation
-                  </label>
-                  <textarea
-                    value={formData.english || formData.translation_en || formData.translation_english || ''}
-                    onChange={(e) => {
-                      const key = formData.english !== undefined ? 'english' : 
-                                  formData.translation_en !== undefined ? 'translation_en' : 'translation_english'
-                      setFormData({ ...formData, [key]: e.target.value })
-                    }}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
-                    rows="3"
-                    placeholder="English translation..."
+                    placeholder="اردو میں ترجمہ..."
                   />
                 </div>
               )}
