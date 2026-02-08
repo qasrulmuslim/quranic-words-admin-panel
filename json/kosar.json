@@ -1,0 +1,75 @@
+{
+    "kosar": [
+        {
+            "ayat": 1,
+            "ur": "یقیناً ہم نے آپ کو کوثر عطا کی۔",
+            "eng": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+            "words": [
+                {
+                    "arabic": "اِنَّاۤ",
+                    "urdu": "یقیناً ہم نے",
+                    "english": "Indeed, We"
+                },
+                {
+                    "arabic": "اَعۡطَیۡنٰکَ",
+                    "urdu": "عطا کر دی آپ کو",
+                    "english": "We have given you"
+                },
+                {
+                    "arabic": "الۡکَوۡثَرَ",
+                    "urdu": "کوثر",
+                    "english": "Al-Kauthar,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "پس آپ اپنے رب کے لیے نماز پڑھیں اور قربانی کریں۔",
+            "eng": "So pray to your Lord and sacrifice [to Him alone].",
+            "words": [
+                {
+                    "arabic": "فَصَلِّ",
+                    "urdu": "پس آپ نماز پڑھیں",
+                    "english": "So pray"
+                },
+                {
+                    "arabic": "لِرَبِّکَ",
+                    "urdu": "اپنے رب کے لیے",
+                    "english": "to your Lord"
+                },
+                {
+                    "arabic": "وَانۡحَرۡ",
+                    "urdu": "اور قربانی کر یں",
+                    "english": "and sacrifice."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یقیناً آپ کا دشمن ہی لاولد ہے۔",
+            "eng": "Indeed, your enemy is the one cut off.",
+            "words": [
+                {
+                    "arabic": "اِنَّ",
+                    "urdu": "یقیناً",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "شَانِئَکَ",
+                    "urdu": "دشمن تمہارا",
+                    "english": "your enemy -"
+                },
+                {
+                    "arabic": "ھُوَ",
+                    "urdu": "وہی",
+                    "english": "he (is)"
+                },
+                {
+                    "arabic": "الۡاَبۡتَرُ",
+                    "urdu": "لا ولد ہے",
+                    "english": "the one cut off."
+                }
+            ]
+        }
+    ]
+}

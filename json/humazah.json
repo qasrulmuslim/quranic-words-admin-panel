@@ -1,0 +1,207 @@
+{
+    "humazah": [
+        {
+            "ayat": 3,
+            "ur": "بڑی ہلاکت ہے ہر بہت طعنہ دینے والے ، بہت عیب لگانے والے کے لئے۔",
+            "eng": "Woe to every scorner and mocker",
+            "words": [
+                {
+                    "arabic": "وَیۡلٌ",
+                    "urdu": "بڑی ہلاکت ہے",
+                    "english": "Woe"
+                },
+                {
+                    "arabic": "لِّکُلِّ ہُمَزَۃٍ",
+                    "urdu": "ہر بہت طعنہ دینے والے کے لیے",
+                    "english": "to every slanderer"
+                },
+                {
+                    "arabic": "لُّمَزَۃِۣ",
+                    "urdu": "بہت عیب لگانے والے کے لیے",
+                    "english": "backbiter!"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "وہ جس نے مال جمع کیا اور اُسے گِن گِن کر رکھا۔",
+            "eng": "Who collects wealth and [continuously] counts it.",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جس نے",
+                    "english": "The one who"
+                },
+                {
+                    "arabic": "جَمَعَ",
+                    "urdu": "جمع کیا",
+                    "english": "collects"
+                },
+                {
+                    "arabic": "مَالًا",
+                    "urdu": "مال",
+                    "english": "wealth"
+                },
+                {
+                    "arabic": "وَّعَدَّدَہٗ",
+                    "urdu": "اور اس نے گن گن کر رکھا اسے",
+                    "english": "and counts it."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "وہ سمجھتا ہے یقیناً اُس کا مال ہمیشہ اُس کو زندہ رکھے گا۔",
+            "eng": "He thinks that his wealth will make him immortal.",
+            "words": [
+                {
+                    "arabic": "یَحۡسَبُ",
+                    "urdu": "وہ سمجھتا ہے",
+                    "english": "Thinking"
+                },
+                {
+                    "arabic": "اَنَّ",
+                    "urdu": "یقیناً",
+                    "english": "that"
+                },
+                {
+                    "arabic": "مَالَہٗۤ",
+                    "urdu": "مال اس کا",
+                    "english": "his wealth"
+                },
+                {
+                    "arabic": "اَخۡلَدَہٗ",
+                    "urdu": "ہمیشہ اس کو زندہ رکھے گا",
+                    "english": "will make him immortal"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "ہرگز نہیں ! وہ توڑ پھوڑ کر رکھ دینے والی میں ضرور پھینک دیا جائے گا۔",
+            "eng": "No! He will surely be thrown into the Crusher.",
+            "words": [
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں!",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "لَیُنۡۢبَذَنَّ",
+                    "urdu": "یقیناً وہ ضرور پھینک دیا جائے گا",
+                    "english": "Surely he will be thrown"
+                },
+                {
+                    "arabic": "فِی الۡحُطَمَۃِ",
+                    "urdu": "توڑ پھوڑ کر رکھ دینے والی میں",
+                    "english": "in the Crusher."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور کس چیز نے تمہیں خبر دی کہ حطمہ کیا ہے؟",
+            "eng": "And what can make you know what is the Crusher?",
+            "words": [
+                {
+                    "arabic": "وَمَاۤ",
+                    "urdu": "اور کس چیز نے",
+                    "english": "And what"
+                },
+                {
+                    "arabic": "اَدۡرٰىکَ",
+                    "urdu": "خبر دی تمہیں",
+                    "english": "will make you know"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "کیا ہے",
+                    "english": "what"
+                },
+                {
+                    "arabic": "الۡحُطَمَۃُ",
+                    "urdu": "(وہ)تو ڑ پھوڑ کر رکھ دینے والی",
+                    "english": "the Crusher (is)?"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اللہ تعالیٰ کی بھڑکائی ہوئی آگ ہے۔",
+            "eng": "It is the fire of Allah , [eternally] fueled,",
+            "words": [
+                {
+                    "arabic": "نَارُ",
+                    "urdu": "آگ ہے",
+                    "english": "A Fire"
+                },
+                {
+                    "arabic": "اللّٰہِ الۡمُوۡقَدَۃُ",
+                    "urdu": "اللہ تعالیٰ کی بھڑکائی ہوئی",
+                    "english": "kindled by Allah,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "وہ جو دِلوں تک جھانکتی ہے۔",
+            "eng": "Which mounts directed at the hearts.",
+            "words": [
+                {
+                    "arabic": "الَّتِیۡ",
+                    "urdu": "وہ جو",
+                    "english": "Which"
+                },
+                {
+                    "arabic": "تَطَّلِعُ",
+                    "urdu": "جھانکتی ہے",
+                    "english": "mounts up"
+                },
+                {
+                    "arabic": "عَلَی الۡاَفۡئِدَۃِ",
+                    "urdu": "دلوں تک",
+                    "english": "to the hearts."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یقیناً وہ اُن پر بند کر دی جائے گی۔",
+            "eng": "Indeed, Hellfire will be closed down upon them",
+            "words": [
+                {
+                    "arabic": "اِنَّہَا",
+                    "urdu": "یقیناً وہ",
+                    "english": "Indeed, it"
+                },
+                {
+                    "arabic": "عَلَیۡہِمۡ",
+                    "urdu": "اوپر ان کے",
+                    "english": "(will be) upon them"
+                },
+                {
+                    "arabic": "مُّؤۡصَدَۃٌ",
+                    "urdu": "بند کردی جائے گی",
+                    "english": "closed over,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اونچے اونچے ستونوں میں۔",
+            "eng": "In extended columns.",
+            "words": [
+                {
+                    "arabic": "فِیۡ عَمَدٍ",
+                    "urdu": "ستونوں میں",
+                    "english": "In columns"
+                },
+                {
+                    "arabic": "مُّمَدَّدَۃٍ",
+                    "urdu": "اونچے اونچے",
+                    "english": "extended."
+                }
+            ]
+        }
+    ]
+}

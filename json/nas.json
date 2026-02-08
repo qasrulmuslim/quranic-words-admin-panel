@@ -1,0 +1,131 @@
+{
+    "naas": [
+        {
+            "ayat": 4,
+            "ur": "کہہ دیجیے کہ میں انسانوں کے رب کی پناہ لیتا ہوں۔",
+            "eng": "Say, \"I seek refuge in the Lord of mankind,",
+            "words": [
+                {
+                    "arabic": "قُلۡ",
+                    "urdu": "کہہ دیجئے",
+                    "english": "Say,"
+                },
+                {
+                    "arabic": "اَعُوۡذُ",
+                    "urdu": "میں پناہ لیتا ہوں",
+                    "english": "I seek refuge"
+                },
+                {
+                    "arabic": "بِرَبِّ",
+                    "urdu": "رب کی",
+                    "english": "in (the) Lord"
+                },
+                {
+                    "arabic": "النَّاسِ",
+                    "urdu": "انسانوں کے",
+                    "english": "(of) mankind,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "انسانوں کے بادشاہ کی۔",
+            "eng": "The King of mankind.",
+            "words": [
+                {
+                    "arabic": "مَلِکِ",
+                    "urdu": "بادشاہ کی",
+                    "english": "(The) King"
+                },
+                {
+                    "arabic": "النَّاسِ",
+                    "urdu": "انسانوں کے",
+                    "english": "(of) mankind,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "انسانوں کے الٰہ کی۔",
+            "eng": " The God of mankind,",
+            "words": [
+                {
+                    "arabic": "اِلٰہِ",
+                    "urdu": "الٰہ کی",
+                    "english": "(The) God"
+                },
+                {
+                    "arabic": "النَّاسِ",
+                    "urdu": "انسانوں کے",
+                    "english": "(of) mankind,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "وسوسہ ڈالنے والے ،بار بار پلٹ کر آنے والے کے شر سے۔",
+            "eng": "From the evil of the whisperer, the one who withdraws.",
+            "words": [
+                {
+                    "arabic": "مِنۡ شَرِّ",
+                    "urdu": "شر سے",
+                    "english": "From (the) evil"
+                },
+                {
+                    "arabic": "الۡوَسۡوَاسِ",
+                    "urdu": "وسوسہ ڈالنے والے کے",
+                    "english": "(of) the whisperer,"
+                },
+                {
+                    "arabic": "الۡخَنَّاسِ",
+                    "urdu": "بار بار پلٹ کر آنے والے کے",
+                    "english": "the one who withdraws,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے۔",
+            "eng": "The one who whispers [evil] into the breasts of mankind.",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جو",
+                    "english": "The one who"
+                },
+                {
+                    "arabic": "یُوَسۡوِسُ",
+                    "urdu": "وسوسہ ڈالتا ہے",
+                    "english": "whispers"
+                },
+                {
+                    "arabic": "فِیۡ صُدُوۡرِ",
+                    "urdu": "سینوں میں",
+                    "english": "in (the) breasts"
+                },
+                {
+                    "arabic": "النَّاسِ",
+                    "urdu": "لوگوں کے",
+                    "english": "(of) mankind,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "جنوں اور انسانوں میں سے۔",
+            "eng": "From the jinn and mankind.",
+            "words": [
+                {
+                    "arabic": "مِنَ الۡجِنَّۃِ",
+                    "urdu": "جنوں میں سے",
+                    "english": "From the jinn"
+                },
+                {
+                    "arabic": "وَالنَّاسِ",
+                    "urdu": "اور انسانوں میں سے",
+                    "english": "and men"
+                }
+            ]
+        }
+    ]
+}

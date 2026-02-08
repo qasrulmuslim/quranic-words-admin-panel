@@ -1,0 +1,215 @@
+{
+    "tin": [
+        {
+            "ayat": 2,
+            "ur": "قسم ہے انجیر کی اور زیتون کی !",
+            "eng": "By the fig and the olive",
+            "words": [
+                {
+                    "arabic": "وَالتِّیۡنِ",
+                    "urdu": "قسم ہے انجیر کی",
+                    "english": "By the fig,"
+                },
+                {
+                    "arabic": "وَالزَّیۡتُوۡنِ",
+                    "urdu": "اور زیتون کی",
+                    "english": "and the olive,"
+                }
+            ]
+        },
+        {
+            "ayat": 1,
+            "ur": "اور طورِ سینا کی !",
+            "eng": "And [by] Mount Sinai",
+            "words": [
+                {
+                    "arabic": "وَطُوۡرِ سِیۡنِیۡنَ",
+                    "urdu": "اور طور سینا کی",
+                    "english": "And (the) Mount Sinai,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور اس پُرامن شہر کی قسم !",
+            "eng": "And [by] this secure city [Makkah],",
+            "words": [
+                {
+                    "arabic": "وَہٰذَا",
+                    "urdu": "اور اس",
+                    "english": "And this"
+                },
+                {
+                    "arabic": "الۡبَلَدِ",
+                    "urdu": "شہر",
+                    "english": "the city,"
+                },
+                {
+                    "arabic": "الۡاَمِیۡنِ",
+                    "urdu": "امن والے کی",
+                    "english": "the secure,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "بلاشبہ یقیناً ہم نے انسان کو بہترین ساخت پر پیدا کیا ۔",
+            "eng": "We have certainly created man in the best of stature;",
+            "words": [
+                {
+                    "arabic": "لَقَدۡ",
+                    "urdu": "البتہ تحقیق",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "خَلَقۡنَا",
+                    "urdu": "پیدا کیا ہم نے",
+                    "english": "We created"
+                },
+                {
+                    "arabic": "الۡاِنۡسَانَ",
+                    "urdu": "انسان کو",
+                    "english": "man"
+                },
+                {
+                    "arabic": "فِیۡۤ اَحۡسَنِ تَقۡوِیۡمٍ",
+                    "urdu": "بہترین ساخت میں",
+                    "english": "in (the) best mould."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "پھر ہم نے اُس کو لوٹا کر نیچوں سے سب سے نیچا کر دیا ۔",
+            "eng": "Then We return him to the lowest of the low,",
+            "words": [
+                {
+                    "arabic": "ثُمَّ",
+                    "urdu": "پھر",
+                    "english": "Then"
+                },
+                {
+                    "arabic": "رَدَدۡنٰہُ",
+                    "urdu": "لوٹا دیا ہم نے اسے",
+                    "english": "We return him"
+                },
+                {
+                    "arabic": "اَسۡفَلَ",
+                    "urdu": "سب سے زیادہ نچلا",
+                    "english": "(to the) lowest"
+                },
+                {
+                    "arabic": "سٰفِلِیۡنَ",
+                    "urdu": "نچلوںسے",
+                    "english": "(of the) low,"
+                }
+            ]
+        },
+        {
+            "ayat": 9,
+            "ur": "مگر وہ لوگ جو ایمان لائے اور جنہوں نے نیک عمل کیے تو اُن کے لیے کبھی نہ ختم ہونے والا اجر ہے ۔",
+            "eng": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+            "words": [
+                {
+                    "arabic": "اِلَّا",
+                    "urdu": "سوائے",
+                    "english": "Except"
+                },
+                {
+                    "arabic": "الَّذِیۡنَ",
+                    "urdu": "ان کے جو",
+                    "english": "those who"
+                },
+                {
+                    "arabic": "اٰمَنُوۡا",
+                    "urdu": "ایمان لائے",
+                    "english": "believe"
+                },
+                {
+                    "arabic": "وَعَمِلُوا",
+                    "urdu": "اور انہوں نے عمل کیے",
+                    "english": "and do"
+                },
+                {
+                    "arabic": "الصّٰلِحٰتِ",
+                    "urdu": "نیک",
+                    "english": "righteous deeds,"
+                },
+                {
+                    "arabic": "فَلَہُمۡ",
+                    "urdu": "تو ان کے لئے",
+                    "english": "then for them"
+                },
+                {
+                    "arabic": "اَجۡرٌ",
+                    "urdu": "اجر ہے",
+                    "english": "(is a) reward"
+                },
+                {
+                    "arabic": "غَیۡرُ",
+                    "urdu": "نہ",
+                    "english": "never"
+                },
+                {
+                    "arabic": "مَمۡنُوۡنٍ",
+                    "urdu": "ختم ہونے والا",
+                    "english": "ending."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "پس اس کے بعد جزا کے بارے میں جھٹلانے پر تجھے کون سی چیز آمادہ کرتی ہے ؟",
+            "eng": "So what yet causes you to deny the Recompense?",
+            "words": [
+                {
+                    "arabic": "فَمَا",
+                    "urdu": "تو کیا(آمادہ کرتا ہے)",
+                    "english": "Then what"
+                },
+                {
+                    "arabic": "یُکَذِّبُکَ",
+                    "urdu": "جھٹلانے پر تجھے",
+                    "english": "causes you to deny"
+                },
+                {
+                    "arabic": "بَعۡدُ",
+                    "urdu": "بعد اس کے",
+                    "english": "after (this)"
+                },
+                {
+                    "arabic": "بِالدِّیۡنِ",
+                    "urdu": "بدلے(کے دن) کو",
+                    "english": "the judgment?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کیا اللہ تعالیٰ سب حاکموں سے بڑا حاکم نہیں ہے ؟",
+            "eng": "Is not Allah the most just of judges?",
+            "words": [
+                {
+                    "arabic": "اَلَیۡسَ",
+                    "urdu": "کیا نہیں ہے",
+                    "english": "Is not"
+                },
+                {
+                    "arabic": "اللّٰہُ",
+                    "urdu": "اللہ",
+                    "english": "Allah"
+                },
+                {
+                    "arabic": "بِاَحۡکَمِ",
+                    "urdu": "بڑا حاکم",
+                    "english": "(the) Most Just"
+                },
+                {
+                    "arabic": "الۡحٰکِمِیۡنَ",
+                    "urdu": "سب حاکموں سے",
+                    "english": "(of) the Judges?"
+                }
+            ]
+        }
+    ]
+}

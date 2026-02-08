@@ -1,0 +1,195 @@
+{
+    "takasur": [
+        {
+            "ayat": 2,
+            "ur": "ایک دوسرے سے زیادہ حاصل کرنے کی حرص نے تمہیں غافل کر دیا ہے۔",
+            "eng": "Competition in [worldly] increase diverts you",
+            "words": [
+                {
+                    "arabic": "اَلۡہٰکُمُ",
+                    "urdu": "غافل کر دیا ہےتمہیں",
+                    "english": "Diverts you"
+                },
+                {
+                    "arabic": "التَّکَاثُرُ",
+                    "urdu": "ایک دوسرے سے زیادہ حاصل کر نے کی حرص نے",
+                    "english": "the competition to increase"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یہاں تک کہ تم نے قبرستان جا دیکھے۔",
+            "eng": "Until you visit the graveyards.",
+            "words": [
+                {
+                    "arabic": "حَتّٰی",
+                    "urdu": "یہاں تک کہ",
+                    "english": "Until"
+                },
+                {
+                    "arabic": "زُرۡتُمُ",
+                    "urdu": "تم نے جا دیکھے",
+                    "english": "you visit"
+                },
+                {
+                    "arabic": "الۡمَقَابِرَ",
+                    "urdu": "قبرستان",
+                    "english": "the graves,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "ہرگز نہیں ! جلد ہی تم جان لو گے۔",
+            "eng": "No! You are going to know.",
+            "words": [
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "سَوۡفَ",
+                    "urdu": "جلد ہی",
+                    "english": "Soon"
+                },
+                {
+                    "arabic": "تَعۡلَمُوۡنَ",
+                    "urdu": "تم جا ن لوگے",
+                    "english": "you will know."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "پھر ہرگز نہیں ! جلد ہی تم جان لو گے۔",
+            "eng": "Then no! You are going to know.",
+            "words": [
+                {
+                    "arabic": "ثُمَّ",
+                    "urdu": "پھر",
+                    "english": "Then"
+                },
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں",
+                    "english": "nay!"
+                },
+                {
+                    "arabic": "سَوۡفَ",
+                    "urdu": "جلد ہی",
+                    "english": "Soon"
+                },
+                {
+                    "arabic": "تَعۡلَمُوۡنَ",
+                    "urdu": "تم جان لوگے",
+                    "english": "you will know."
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "ہرگز نہیں ! کاش تم یقینی علم جان لیتے۔",
+            "eng": "No! If you only knew with knowledge of certainty...",
+            "words": [
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں !",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "لَوۡ",
+                    "urdu": "کاش",
+                    "english": "If"
+                },
+                {
+                    "arabic": "تَعۡلَمُوۡنَ",
+                    "urdu": "تم جان لیتے",
+                    "english": "you know"
+                },
+                {
+                    "arabic": "عِلۡمَ",
+                    "urdu": "علم",
+                    "english": "(with) a knowledge"
+                },
+                {
+                    "arabic": "الۡیَقِیۡنِ",
+                    "urdu": "یقینی",
+                    "english": "(of) certainty."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "یقیناً تم ضرور دوزخ کو دیکھو گے۔",
+            "eng": "You will surely see the Hellfire.",
+            "words": [
+                {
+                    "arabic": "لَتَرَوُنَّ",
+                    "urdu": "یقیناً تم ضرور دیکھو گے",
+                    "english": "Surely you will see"
+                },
+                {
+                    "arabic": "الۡجَحِیۡمَ",
+                    "urdu": "دوزخ کو",
+                    "english": "the Hellfire."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "یقیناً پھر تم ضرور اُس کو یقین کی آنکھ سے دیکھ لو گے۔",
+            "eng": "Then you will surely see it with the eye of certainty.",
+            "words": [
+                {
+                    "arabic": "ثُمَّ",
+                    "urdu": "پھر",
+                    "english": "Then"
+                },
+                {
+                    "arabic": "لَتَرَوُنَّہَا",
+                    "urdu": "یقیناً تم ضرور اس کو دیکھ لو گے",
+                    "english": "surely you will see it"
+                },
+                {
+                    "arabic": "عَیۡنَ",
+                    "urdu": "آنکھ سے",
+                    "english": "(with the) eye"
+                },
+                {
+                    "arabic": "الۡیَقِیۡنِ",
+                    "urdu": "یقین کی",
+                    "english": "(of) certainty."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "پھر یقیناً اُس دن تم لازماً نعمتوں کے بارے میں پوچھے جاؤ گے۔",
+            "eng": "Then you will surely be asked that Day about pleasure.",
+            "words": [
+                {
+                    "arabic": "ثُمَّ",
+                    "urdu": "پھر",
+                    "english": "Then,"
+                },
+                {
+                    "arabic": "لَتُسۡئَلُنَّ",
+                    "urdu": "یقیناً تم لازماً پوچھے جا ؤ گے",
+                    "english": "surely you will be asked"
+                },
+                {
+                    "arabic": "یَوۡمَئِذٍ",
+                    "urdu": "اُس دن",
+                    "english": "that Day"
+                },
+                {
+                    "arabic": "عَنِ النَّعِیۡمِ",
+                    "urdu": "نعمتوں کے بارے میں",
+                    "english": "about the pleasures."
+                }
+            ]
+        }
+    ]
+}

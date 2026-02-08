@@ -1,0 +1,374 @@
+{
+    "shams": [
+        {
+            "ayat": 2,
+            "ur": "قسم ہے سورج کی اور اس کی دھوپ کی ۔",
+            "eng": "By the sun and its brightness",
+            "words": [
+                {
+                    "arabic": "وَالشَّمۡسِ",
+                    "urdu": "قسم ہے سورج کی",
+                    "english": "By the sun"
+                },
+                {
+                    "arabic": "وَضُحٰہَا",
+                    "urdu": "اور اس کی دھوپ کی",
+                    "english": "and its brightness,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے چاند کی جب اس کے پیچھے آئے ۔",
+            "eng": "By the sun and its brightness",
+            "words": [
+                {
+                    "arabic": "وَالۡقَمَرِ",
+                    "urdu": "اور چاند کی",
+                    "english": "And the moon"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "تَلٰىہَا",
+                    "urdu": "وہ اس کے پیچھے آئے",
+                    "english": "it follows it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے دن کی جب سورج کو نمایاں کرے ۔",
+            "eng": "And [by] the day when it displays it",
+            "words": [
+                {
+                    "arabic": "وَالنَّہَارِ",
+                    "urdu": "اور دن کی",
+                    "english": "And the day"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "جَلّٰىہَا",
+                    "urdu": "وہ ظاہر کرے اسے",
+                    "english": "it displays it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے رات کی جب اسے ڈھانپ لے ۔",
+            "eng": "And [by] the night when it covers it",
+            "words": [
+                {
+                    "arabic": "وَالَّیۡلِ",
+                    "urdu": "اور رات کی",
+                    "english": "And the night"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "یَغۡشٰىہَا",
+                    "urdu": "وہ ڈھانپ لے اسے",
+                    "english": "it covers it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے آسمان کی اور اس کے بنانے کی ۔",
+            "eng": "And [by] the sky and He who constructed it",
+            "words": [
+                {
+                    "arabic": "وَالسَّمَآءِ",
+                    "urdu": "اور آسمان کی",
+                    "english": "And the heaven"
+                },
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور اس کی",
+                    "english": "and (He) Who"
+                },
+                {
+                    "arabic": "بَنٰہَا",
+                    "urdu": "جس نے بنایا اسے",
+                    "english": "constructed it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے زمین کی اور اسے ہموار کرنے کی ۔",
+            "eng": "And [by] the earth and He who spread it",
+            "words": [
+                {
+                    "arabic": "وَالۡاَرۡضِ",
+                    "urdu": "اور زمین کی",
+                    "english": "And the earth"
+                },
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور اس کی",
+                    "english": "and (He) Who"
+                },
+                {
+                    "arabic": "طَحٰہَا",
+                    "urdu": "جس نے بچھایا اسے",
+                    "english": "spread it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "قسم ہے نفس کی اور اسے درست بنانے کی",
+            "eng": "And [by] the soul and He who proportioned it",
+            "words": [
+                {
+                    "arabic": "وَنَفۡسٍ",
+                    "urdu": "اور نفس کی",
+                    "english": "And (the) soul"
+                },
+                {
+                    "arabic": "وَّمَا",
+                    "urdu": "اور اس کی",
+                    "english": "and (He) Who"
+                },
+                {
+                    "arabic": "سَوّٰىہَا",
+                    "urdu": "جس نے درست کیا اسے",
+                    "english": "proportioned it,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "پھر سمجھ دی اسکو بدکاری کی  اور بچ کر چلنے کی ۔",
+            "eng": "And inspired it [with discernment of] its wickedness and its righteousness,",
+            "words": [
+                {
+                    "arabic": "فَاَلۡہَمَہَا",
+                    "urdu": "پس اس نے الہام کی اسے",
+                    "english": "And He inspired it"
+                },
+                {
+                    "arabic": "فُجُوۡرَہَا",
+                    "urdu": "ہدی اس کی",
+                    "english": "(to distinguish) its wickedness"
+                },
+                {
+                    "arabic": "وَتَقۡوٰىہَا",
+                    "urdu": "اور تقوی اس کا",
+                    "english": "and its righteousness"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "جس نے اسے پاک کیا وہ کامیاب ہوا ۔",
+            "eng": "He has succeeded who purifies it,",
+            "words": [
+                {
+                    "arabic": "قَدۡ",
+                    "urdu": "یقیناً",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "اَفۡلَحَ",
+                    "urdu": "وہ فلاح پا گیا",
+                    "english": "he succeeds"
+                },
+                {
+                    "arabic": "مَنۡ",
+                    "urdu": "جس نے",
+                    "english": "who"
+                },
+                {
+                    "arabic": "زَکّٰىہَا",
+                    "urdu": "پاک کیا اسے",
+                    "english": "purifies it,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور جس نے اسے خاک میں ملا دیا وہ ناکام ہوا ۔",
+            "eng": "And he has failed who instills it [with corruption].",
+            "words": [
+                {
+                    "arabic": "وَقَدۡ",
+                    "urdu": "اور یقیناً",
+                    "english": "And indeed,"
+                },
+                {
+                    "arabic": "خَابَ",
+                    "urdu": "وہ ناکام ہوا",
+                    "english": "he fails"
+                },
+                {
+                    "arabic": "مَنۡ",
+                    "urdu": "جس نے",
+                    "english": "who"
+                },
+                {
+                    "arabic": "دَسّٰىہَا",
+                    "urdu": "دبا دیا اسے",
+                    "english": "burries it."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "۔   ( قوم )  ثمود نے اپنی سرکشی کی باعث جھٹلایا ۔",
+            "eng": "Thamud denied [their prophet] by reason of their transgression,",
+            "words": [
+                {
+                    "arabic": "کَذَّبَتۡ",
+                    "urdu": "جھٹلایا",
+                    "english": "Denied"
+                },
+                {
+                    "arabic": "ثَمُوۡدُ",
+                    "urdu": "ثمود نے",
+                    "english": "Thamud"
+                },
+                {
+                    "arabic": "بِطَغۡوٰىہَاۤ",
+                    "urdu": "بوجہ اپنی سرکشی کے",
+                    "english": "by their transgression,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "جب ان میں  کا بڑا بد بخت اٹھ کھڑا ہوا ۔",
+            "eng": "When the most wretched of them was sent forth.",
+            "words": [
+                {
+                    "arabic": "اِذِ",
+                    "urdu": "جب",
+                    "english": "When"
+                },
+                {
+                    "arabic": "انۡۢبَعَثَ",
+                    "urdu": "اٹھا",
+                    "english": "(was) sent forth"
+                },
+                {
+                    "arabic": "اَشۡقٰہَا",
+                    "urdu": "سب سے بڑا بدبخت اس کا",
+                    "english": "(the) most wicked of them."
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "انہیں اللہ کے ر سول  نے فرما دیا تھا کہ اللہ تعالٰی کی اونٹنی اور  اس کے پینے کی باری کی  ( حفاظت کرو )",
+            "eng": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.",
+            "words": [
+                {
+                    "arabic": "فَقَالَ",
+                    "urdu": "تو کہا",
+                    "english": "But said"
+                },
+                {
+                    "arabic": "لَہُمۡ",
+                    "urdu": "انہیں",
+                    "english": "to them"
+                },
+                {
+                    "arabic": "رَسُوۡلُ اللّٰہِ",
+                    "urdu": "اللہ کے رسول نے",
+                    "english": "(the) Messenger"
+                },
+                {
+                    "arabic": "نَاقَۃَ",
+                    "urdu": "اونٹنی ہے",
+                    "english": "(It is the) she-camel"
+                },
+                {
+                    "arabic": "اللّٰہِ",
+                    "urdu": "اللہ کی",
+                    "english": "(of) Allah,"
+                },
+                {
+                    "arabic": "وَسُقۡیٰہَا",
+                    "urdu": "اور پانی پلانا ہے اسے",
+                    "english": "and her drink."
+                }
+            ]
+        },
+        {
+            "ayat": 7,
+            "ur": "ان لوگوں نے اپنے پیغمبر کو جھوٹا سمجھ کر اس اونٹنی کی کوچیں کاٹ دیں  ،  پس ان کے رب نے ان کے گناہوں کے باعث ان پر ہلاکت ڈالی  اورپھر  ہلاکت کو عام کر دیا اور اس بستی کو برابر کر دیا ۔",
+            "eng": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+            "words": [
+                {
+                    "arabic": "فَکَذَّبُوۡہُ",
+                    "urdu": "تو انہوں نے جھٹلایا اسے",
+                    "english": "But they denied him,"
+                },
+                {
+                    "arabic": "فَعَقَرُوۡہَا",
+                    "urdu": "پھر کونچیں کاٹ دیں اس کی",
+                    "english": "and they hamstrung her."
+                },
+                {
+                    "arabic": "فَدَمۡدَمَ",
+                    "urdu": "تو ہلاکت ڈالی",
+                    "english": "So destroyed"
+                },
+                {
+                    "arabic": "عَلَیۡہِمۡ",
+                    "urdu": "ان پر",
+                    "english": "them"
+                },
+                {
+                    "arabic": "رَبُّہُمۡ",
+                    "urdu": "ان کے رب نے",
+                    "english": "their Lord"
+                },
+                {
+                    "arabic": "بِذَنۡۢبِہِمۡ",
+                    "urdu": "بوجہ ان کے گناہوں کے",
+                    "english": "for their sin"
+                },
+                {
+                    "arabic": "فَسَوّٰىہَا",
+                    "urdu": "پھر اس نے برابر کردیا اسے",
+                    "english": "and leveled them."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "وہ نہیں ڈرتا اس کے تباہ کن انجام سے ۔",
+            "eng": "And He does not fear the consequence thereof.",
+            "words": [
+                {
+                    "arabic": "وَلَا",
+                    "urdu": "اور نہیں",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "یَخَافُ",
+                    "urdu": "وہ ڈرتا",
+                    "english": "He fears"
+                },
+                {
+                    "arabic": "عُقۡبٰہَا",
+                    "urdu": "اس کے انجام سے",
+                    "english": "its consequences."
+                }
+            ]
+        }
+    ]
+}

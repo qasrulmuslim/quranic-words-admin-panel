@@ -1,0 +1,90 @@
+{
+  "asr": [
+    {
+      "ayat": 1,
+      "ur": "زمانے کی قسم !",
+      "eng": "By time,",
+      "words": [
+        {
+          "arabic": "وَالۡعَصۡرِ",
+          "urdu": "قسم ہےزمانے کی",
+          "english": "By the time,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "بے شک ہر انسان یقیناً خسارے میں ہے ۔",
+      "eng": "Indeed, mankind is in loss,",
+      "words": [
+        {
+          "arabic": "اِنَّ",
+          "urdu": "بےشک",
+          "english": "Indeed,"
+        },
+        {
+          "arabic": "الۡاِنۡسَانَ",
+          "urdu": "ہر انسان",
+          "english": "mankind"
+        },
+        {
+          "arabic": "لَفِیۡ خُسۡرٍ",
+          "urdu": "یقیناً خسارے میں ہے",
+          "english": "(is) surely, in loss,"
+        }
+      ]
+    },
+    {
+      "ayat": 9,
+      "ur": "سوائے ان لوگوں کے جو ایمان لائے اور جنہوں نے نیکیاں کیں اور ایک دوسرے کو حق کی وصیت کی اور ایک دوسرے کو صبر کی وصیت کی ۔",
+      "eng": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+      "words": [
+        {
+          "arabic": "اِلَّا",
+          "urdu": "سوائے",
+          "english": "Except"
+        },
+        {
+          "arabic": "الَّذِیۡنَ",
+          "urdu": "ان لوگوں کے جو",
+          "english": "those who"
+        },
+        {
+          "arabic": "اٰمَنُوۡا",
+          "urdu": "ایمان لائے",
+          "english": "believe"
+        },
+        {
+          "arabic": "وَعَمِلُوا",
+          "urdu": "اور جنہوں نے  عمل کیے",
+          "english": "and do"
+        },
+        {
+          "arabic": "الصّٰلِحٰتِ",
+          "urdu": "نیک",
+          "english": "righteous deeds"
+        },
+        {
+          "arabic": "وَتَوَاصَوۡا",
+          "urdu": "اور انہوں نے ایک دوسرے کو وصیت کی",
+          "english": "and enjoin (each other)"
+        },
+        {
+          "arabic": "بِالۡحَقِّ",
+          "urdu": "حق کی",
+          "english": "to the truth"
+        },
+        {
+          "arabic": "وَتَوَاصَوۡا",
+          "urdu": "اور ایک دوسرے کو وصیت کی",
+          "english": "and enjoin (each other)"
+        },
+        {
+          "arabic": "بِالصَّبۡرِ",
+          "urdu": "صبر کی",
+          "english": "to the patience."
+        }
+      ]
+    }
+  ]
+}

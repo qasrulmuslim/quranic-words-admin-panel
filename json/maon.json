@@ -1,0 +1,163 @@
+{
+    "maon": [
+        {
+            "ayat": 4,
+            "ur": "کیا آپ نے دیکھا اُس شخص کو جو جزا کو جھٹلاتا ہے ؟",
+            "eng": "Have you seen the one who denies the Recompense?",
+            "words": [
+                {
+                    "arabic": "اَرَءَیۡتَ",
+                    "urdu": "کیا دیکھا تم نے",
+                    "english": "Have you seen"
+                },
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "اس شخص کو جو",
+                    "english": "the one who"
+                },
+                {
+                    "arabic": "یُکَذِّبُ",
+                    "urdu": "جھٹلاتا ہے",
+                    "english": "denies"
+                },
+                {
+                    "arabic": "بِالدِّیۡنِ",
+                    "urdu": "جزا کو",
+                    "english": "the Judgment?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "پھر وہی ہے جو یتیم کو دھکے دیتا ہے ۔",
+            "eng": "For that is the one who drives away the orphan",
+            "words": [
+                {
+                    "arabic": "فَذٰلِکَ",
+                    "urdu": "پھر وہی ہے",
+                    "english": "Then that"
+                },
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جو",
+                    "english": "(is) the one who"
+                },
+                {
+                    "arabic": "یَدُعُّ",
+                    "urdu": "دھکے دیتا ہے",
+                    "english": "repulses"
+                },
+                {
+                    "arabic": "الۡیَتِیۡمَ",
+                    "urdu": "یتیم  کو",
+                    "english": "the orphan,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اورمسکین کو کھلانے کی ترغیب نہیں دِلاتا ۔",
+            "eng": "And does not encourage the feeding of the poor.",
+            "words": [
+                {
+                    "arabic": "وَلَا یَحُضُّ",
+                    "urdu": "اور نہیں وہ ترغيب دلاتا",
+                    "english": "And (does) not to feel the urge"
+                },
+                {
+                    "arabic": "عَلٰی طَعَامِ",
+                    "urdu": "کھلانے کی",
+                    "english": "to feed"
+                },
+                {
+                    "arabic": "الۡمِسۡکِیۡنِ",
+                    "urdu": "مسکین کو",
+                    "english": "the poor."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "پس بڑی ہلاکت ہے ان نمازیوں کے لیے ۔",
+            "eng": "So woe to those who pray",
+            "words": [
+                {
+                    "arabic": "فَوَیۡلٌ",
+                    "urdu": "پس بڑی ہلاکت ہے",
+                    "english": "So woe"
+                },
+                {
+                    "arabic": "لِّلۡمُصَلِّیۡنَ",
+                    "urdu": "نمازیوں کے لیے",
+                    "english": "to those who pray,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "جو اپنی نماز سے غافل ہیں ۔",
+            "eng": "[But] who are heedless of their prayer -",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡنَ",
+                    "urdu": "وہ لوگ جو",
+                    "english": "Those who"
+                },
+                {
+                    "arabic": "ہُمۡ",
+                    "urdu": "وہ",
+                    "english": "they"
+                },
+                {
+                    "arabic": "عَنۡ صَلَاتِہِمۡ",
+                    "urdu": "اپنی نماز سے",
+                    "english": "about their prayers"
+                },
+                {
+                    "arabic": "سَاہُوۡنَ",
+                    "urdu": "غافل ہیں",
+                    "english": "(are) neglectful,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "جو ریاکاری کرتے ہیں ۔",
+            "eng": "Those who make show [of their deeds]",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡنَ",
+                    "urdu": "وہ لوگ جو",
+                    "english": "Those who"
+                },
+                {
+                    "arabic": "ہُمۡ",
+                    "urdu": "وہ",
+                    "english": "they"
+                },
+                {
+                    "arabic": "یُرَآءُوۡنَ",
+                    "urdu": "ریا کاری کر تے ہیں",
+                    "english": "make show."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اور عام برتنے کی چیزیں بھی نہیں دیتے ۔",
+            "eng": "And withhold [simple] assistance.",
+            "words": [
+                {
+                    "arabic": "وَیَمۡنَعُوۡنَ",
+                    "urdu": "اور نہيں دیتے",
+                    "english": "And they deny"
+                },
+                {
+                    "arabic": "الۡمَاعُوۡنَ",
+                    "urdu": "عام برتنے کی چیزیں بھی",
+                    "english": "the small kindnesses."
+                }
+            ]
+        }
+    ]
+}

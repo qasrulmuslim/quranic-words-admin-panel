@@ -1,0 +1,928 @@
+{
+  "abasa": [
+    {
+      "ayat": 2,
+      "ur": "اس نے تیوری چڑھائی اور منہ پھیر لیا ۔",
+      "eng": "The Prophet frowned and turned away",
+      "words": [
+        {
+          "arabic": "عَبَسَ",
+          "urdu": "اس نے تیوری چڑھائی",
+          "english": "He frowned"
+        },
+        {
+          "arabic": "وَتَوَلّٰۤی",
+          "urdu": "اور اس نے منہ پھیر لیا",
+          "english": "and turned away,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "کہ اس کے پاس ایک اندھا آیا ۔",
+      "eng": "Because there came to him the blind man, [interrupting].",
+      "words": [
+        {
+          "arabic": "اَنۡ",
+          "urdu": "کہ",
+          "english": "Because"
+        },
+        {
+          "arabic": "جَآءَہُ",
+          "urdu": "آیا اس کے پاس",
+          "english": "came to him"
+        },
+        {
+          "arabic": "الۡاَعۡمٰی",
+          "urdu": "ایک نابینا",
+          "english": "the blind man."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور آپ کو کیا چیز معلوم کرواتی شاید کہ وہ پاکیزگی حاصل کرتا ۔",
+      "eng": "But what would make you perceive, [O Muhammad], that perhaps he might be purified",
+      "words": [
+        {
+          "arabic": "وَمَا",
+          "urdu": "اور کیا چیز",
+          "english": "But what"
+        },
+        {
+          "arabic": "یُدۡرِیۡکَ",
+          "urdu": "بتائے آپ کو",
+          "english": "would make you know"
+        },
+        {
+          "arabic": "لَعَلَّہٗ",
+          "urdu": "شاید کہ وہ",
+          "english": "that he might"
+        },
+        {
+          "arabic": "یَزَّکّٰۤی",
+          "urdu": "وہ پاک ہو جاتا",
+          "english": "purify himself,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "یا وہ نصیحت حاصل کرتا تو نصیحت اُس کو فائدہ دیتی ۔",
+      "eng": "Or be reminded and the remembrance would benefit him?",
+      "words": [
+        {
+          "arabic": "اَوۡ",
+          "urdu": "یا",
+          "english": "Or"
+        },
+        {
+          "arabic": "یَذَّکَّرُ",
+          "urdu": "وہ نصیحت پکڑتا",
+          "english": "be reminded"
+        },
+        {
+          "arabic": "فَتَنۡفَعَہُ",
+          "urdu": "تو فائدہ دیتی اسے",
+          "english": "so would benefit him"
+        },
+        {
+          "arabic": "الذِّکۡرٰی",
+          "urdu": "نصیحت",
+          "english": "the reminder?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "لیکن جو شخص بے پروائی کرے ۔",
+      "eng": "As for he who thinks himself without need,",
+      "words": [
+        {
+          "arabic": "اَمَّا",
+          "urdu": "رہا",
+          "english": "As for"
+        },
+        {
+          "arabic": "مَنِ",
+          "urdu": "وہ جو",
+          "english": "(him) who"
+        },
+        {
+          "arabic": "اسۡتَغۡنٰی",
+          "urdu": "بے پرواہی کرتا ہے",
+          "english": "considers himself free from need,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "تو آپ اُس کے پیچھے پڑتے ہیں ۔",
+      "eng": "To him you give attention.",
+      "words": [
+        {
+          "arabic": "فَاَنۡتَ",
+          "urdu": "تو آپ",
+          "english": "So you"
+        },
+        {
+          "arabic": "لَہٗ",
+          "urdu": "اس کے لیے",
+          "english": "to him"
+        },
+        {
+          "arabic": "تَصَدّٰی",
+          "urdu": "آپ توجہ کرتے ہیں",
+          "english": "give attention."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "حالانکہ آپ پر ذمہ داری نہیں ہے کہ وہ پاک نہیں ہوتا ۔",
+      "eng": "And not upon you [is any blame] if he will not be purified.",
+      "words": [
+        {
+          "arabic": "وَمَا",
+          "urdu": "حالانکہ نہیں",
+          "english": "And not"
+        },
+        {
+          "arabic": "عَلَیۡکَ",
+          "urdu": "آپ پر(ذمہ داری)",
+          "english": "upon you"
+        },
+        {
+          "arabic": "اَلَّا",
+          "urdu": "کہ نہیں",
+          "english": "that not"
+        },
+        {
+          "arabic": "یَزَّکّٰی",
+          "urdu": "وہ پاک ہوتا",
+          "english": "he purifies himself."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور جو شخص کوشش کرتا ہوا آپ کے پاس آیا ہے ۔",
+      "eng": "But as for he who came to you striving [for knowledge]",
+      "words": [
+        {
+          "arabic": "وَاَمَّا",
+          "urdu": "اور رہا",
+          "english": "But as for"
+        },
+        {
+          "arabic": "مَنۡ",
+          "urdu": "وہ جو",
+          "english": "(he) who"
+        },
+        {
+          "arabic": "جَآءَکَ",
+          "urdu": "آیا ہے آپ کے پاس",
+          "english": "came to you"
+        },
+        {
+          "arabic": "یَسۡعٰی",
+          "urdu": "کوشش کرتا ہوا",
+          "english": "striving,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور وہ ڈرتا بھی ہے ۔",
+      "eng": "While he fears [ Allah ],",
+      "words": [
+        {
+          "arabic": "وَہُوَ",
+          "urdu": "اور وہ",
+          "english": "While he"
+        },
+        {
+          "arabic": "یَخۡشٰی",
+          "urdu": "وہ ڈرتا ہے",
+          "english": "fears,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "تو آپ اُس سے بے رُخی اختیار کرتے ہیں ؟",
+      "eng": "From him you are distracted.",
+      "words": [
+        {
+          "arabic": "فَاَنۡتَ",
+          "urdu": "تو آپ",
+          "english": "But you"
+        },
+        {
+          "arabic": "عَنۡہُ",
+          "urdu": "اس سے",
+          "english": "from him"
+        },
+        {
+          "arabic": "تَلَہّٰی",
+          "urdu": "اپ بے رخی برتتے ہیں",
+          "english": "(are) distracted."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "ہرگز نہیں ! یقیناً یہ ( قرآن ) ایک نصیحت ہے ۔",
+      "eng": "No! Indeed, these verses are a reminder;",
+      "words": [
+        {
+          "arabic": "کَلَّاۤ",
+          "urdu": "ہرگز نہیں",
+          "english": "Nay!"
+        },
+        {
+          "arabic": "اِنَّہَا",
+          "urdu": "بےشک وہ",
+          "english": "Indeed, it"
+        },
+        {
+          "arabic": "تَذۡکِرَۃٌ",
+          "urdu": "ایک نصیحت ہے",
+          "english": "(is) a reminder,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "تو جو چاہے اُس کو یاد رکھے ۔",
+      "eng": "So whoever wills may remember it.",
+      "words": [
+        {
+          "arabic": "فَمَنۡ",
+          "urdu": "تو جو کوئی",
+          "english": "So whosoever"
+        },
+        {
+          "arabic": "شَآءَ",
+          "urdu": "چاہے",
+          "english": "wills"
+        },
+        {
+          "arabic": "ذَکَرَہٗ",
+          "urdu": "نصیحت حاصل کرے اس سے",
+          "english": "may remember it."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "ان صحیفوں میں ہے جو قابلِ احترام ہیں ۔",
+      "eng": "[It is recorded] in honored sheets,",
+      "words": [
+        {
+          "arabic": "فِیۡ صُحُفٍ",
+          "urdu": "صحیفوں میں ہے",
+          "english": "In sheets"
+        },
+        {
+          "arabic": "مُّکَرَّمَۃٍ",
+          "urdu": "عزت کیے گئے",
+          "english": "honored,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "بلند مرتبہ ہیں ، پاکیزہ ہیں ۔",
+      "eng": "Exalted and purified,",
+      "words": [
+        {
+          "arabic": "مَّرۡفُوۡعَۃٍ",
+          "urdu": "بلند مرتبہ",
+          "english": "Exalted,"
+        },
+        {
+          "arabic": "مُّطَہَّرَۃٍۭ",
+          "urdu": "نہایت پاکیزہ",
+          "english": "purified,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "ایسے کاتبوں کے ہاتھوں میں ہیں ۔",
+      "eng": "[Carried] by the hands of messenger-angels,",
+      "words": [
+        {
+          "arabic": "بِاَیۡدِیۡ",
+          "urdu": "ہاتھوں میں ہیں",
+          "english": "In (the) hands"
+        },
+        {
+          "arabic": "سَفَرَۃٍ",
+          "urdu": "لکھنے والوں کے",
+          "english": "(of) scribes."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "جو معزز ہیں ، نیک ہیں ۔",
+      "eng": "Noble and dutiful.",
+      "words": [
+        {
+          "arabic": "کِرَامٍۭ",
+          "urdu": "معزز",
+          "english": "Noble,"
+        },
+        {
+          "arabic": "بَرَرَۃٍ",
+          "urdu": "نیکو کار",
+          "english": "dutiful."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اللہ کی مار ہو انسان پر کس قدر وہ ناشکرا ہے !",
+      "eng": "Cursed is man; how disbelieving is he.",
+      "words": [
+        {
+          "arabic": "قُتِلَ",
+          "urdu": "مارا جائے",
+          "english": "Is destroyed"
+        },
+        {
+          "arabic": "الۡاِنۡسَانُ",
+          "urdu": "انسان",
+          "english": "the man,"
+        },
+        {
+          "arabic": "مَاۤ اَکۡفَرَہٗ",
+          "urdu": "کس قدر ناشکرا ہےوہ",
+          "english": "how ungrateful is he!"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اللہ تعالیٰ نے اُسے کس چیز سے پیدا کیا ہے ؟",
+      "eng": "From what substance did He create him?",
+      "words": [
+        {
+          "arabic": "مِنۡ اَیِّ شَیۡءٍ",
+          "urdu": "کس چیز سے",
+          "english": "From what thing"
+        },
+        {
+          "arabic": "خَلَقَہٗ",
+          "urdu": "اس نے پیدا کیا اسے",
+          "english": "He created him?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اُسے ایک نطفے سے پیدا کیا ، پس اُس کی تقدیر مقرر کی ۔",
+      "eng": "From a sperm-drop He created him and destined for him;",
+      "words": [
+        {
+          "arabic": "مِنۡ نُّطۡفَۃٍ",
+          "urdu": "ایک نطفے سے",
+          "english": "From a semen-drop"
+        },
+        {
+          "arabic": "خَلَقَہٗ",
+          "urdu": "اس نے پیدا کیا اسے",
+          "english": "He created him,"
+        },
+        {
+          "arabic": "فَقَدَّرَہٗ",
+          "urdu": "پھر اس نے تقدیر مقرر کی اس کی",
+          "english": "then He proportioned him,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "پھر اس نے اُس کے لیے راستہ آسان کر دیا ۔",
+      "eng": "Then He eased the way for him;",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "السَّبِیۡلَ",
+          "urdu": "راستہ",
+          "english": "the way,"
+        },
+        {
+          "arabic": "یَسَّرَہٗ",
+          "urdu": "اس نے آسان کیا اس کا",
+          "english": "He made easy for him,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "پھر اُسے موت دی ، پھر اُسے قبر میں رکھوایا ۔",
+      "eng": "Then He causes his death and provides a grave for him.",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "اَمَاتَہٗ",
+          "urdu": "اس نے موت دی اسے",
+          "english": "He causes him to die"
+        },
+        {
+          "arabic": "فَاَقۡبَرَہٗ",
+          "urdu": "پھر اس نے قبر دی اسے",
+          "english": "and provides a grave for him,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "پھر جب وہ چاہے گا اُسے دوبارہ زندہ کرے گا ۔",
+      "eng": "Then when He wills, He will resurrect him.",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "اِذَا",
+          "urdu": "جب",
+          "english": "when"
+        },
+        {
+          "arabic": "شَآءَ",
+          "urdu": "وہ چاہے گا",
+          "english": "He wills,"
+        },
+        {
+          "arabic": "اَنۡشَرَہٗ",
+          "urdu": "وہ اٹھا کھڑا کرے گا اسے",
+          "english": "He will resurrect him."
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "ہرگز نہیں ! اِس نے ابھی وہ پورا نہیں کیا جس کا اللہ تعالیٰ نے اُسے حکم دیا تھا ۔",
+      "eng": "No! Man has not yet accomplished what He commanded him.",
+      "words": [
+        {
+          "arabic": "کَلَّا",
+          "urdu": "ہرگز نہیں",
+          "english": "Nay!"
+        },
+        {
+          "arabic": "لَمَّا",
+          "urdu": "ابھی تک نہیں",
+          "english": "Not"
+        },
+        {
+          "arabic": "یَقۡضِ",
+          "urdu": "اس نے پورا کیا",
+          "english": "he has accomplished"
+        },
+        {
+          "arabic": "مَاۤ",
+          "urdu": "جو",
+          "english": "what"
+        },
+        {
+          "arabic": "اَمَرَہٗ",
+          "urdu": "اس نے حکم دیا تھا اسے",
+          "english": "He commanded him."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "تو انسان اپنے کھانے کی طرف ضرور دیکھے ۔",
+      "eng": "Then let mankind look at his food -",
+      "words": [
+        {
+          "arabic": "فَلۡیَنۡظُرِ",
+          "urdu": "پس چاہیے کہ دیکھے",
+          "english": "Then let look"
+        },
+        {
+          "arabic": "الۡاِنۡسَانُ",
+          "urdu": "انسان",
+          "english": "the man"
+        },
+        {
+          "arabic": "اِلٰی طَعَامِہٖۤ",
+          "urdu": "طرف اپنے کھانے کے",
+          "english": "at his food,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "کہ یقیناً ہم نے خوب پانی برسایا ۔",
+      "eng": "How We poured down water in torrents,",
+      "words": [
+        {
+          "arabic": "اَنَّا",
+          "urdu": "بےشک ہم",
+          "english": "That We"
+        },
+        {
+          "arabic": "صَبَبۡنَا",
+          "urdu": "انڈیلا ہم نے",
+          "english": "We poured"
+        },
+        {
+          "arabic": "الۡمَآءَ",
+          "urdu": "پانی",
+          "english": "the water"
+        },
+        {
+          "arabic": "صَبًّا",
+          "urdu": "خوب انڈیلنا",
+          "english": "(in) abundance,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "پھر ہم نے زمین کو اچھی طرح پھاڑا ۔",
+      "eng": "Then We broke open the earth, splitting [it with sprouts],",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "شَقَقۡنَا",
+          "urdu": "پھاڑی ہم نے",
+          "english": "We cleaved"
+        },
+        {
+          "arabic": "الۡاَرۡضَ",
+          "urdu": "زمین",
+          "english": "the earth"
+        },
+        {
+          "arabic": "شَقًّا",
+          "urdu": "خوب پھاڑنا",
+          "english": "splitting,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "پھر ہم نے اُس میں اناج اُگایا ۔",
+      "eng": "And caused to grow within it grain",
+      "words": [
+        {
+          "arabic": "فَاَنۡۢبَتۡنَا",
+          "urdu": "پھر اگایا ہم نے",
+          "english": "Then We caused to grow"
+        },
+        {
+          "arabic": "فِیۡہَا",
+          "urdu": "اس میں",
+          "english": "there in"
+        },
+        {
+          "arabic": "حَبًّا",
+          "urdu": "گلہ",
+          "english": "grain,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور انگور اور سبزیاں بھی ۔",
+      "eng": "And grapes and herbage",
+      "words": [
+        {
+          "arabic": "وَّعِنَبًا",
+          "urdu": "اور انگور",
+          "english": "And grapes"
+        },
+        {
+          "arabic": "وَّقَضۡبًا",
+          "urdu": "اور ترکاری",
+          "english": "and green fodder,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور زیتون اور کھجوریں بھی ۔",
+      "eng": "And olive and palm trees",
+      "words": [
+        {
+          "arabic": "وَّزَیۡتُوۡنًا",
+          "urdu": "اور زیتون",
+          "english": "And olive"
+        },
+        {
+          "arabic": "وَّنَخۡلًا",
+          "urdu": "اور کھجور",
+          "english": "and date-palms,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور گھنے باغات بھی ۔",
+      "eng": "And gardens of dense shrubbery",
+      "words": [
+        {
+          "arabic": "وَّحَدَآئِقَ",
+          "urdu": "اور باغات",
+          "english": "And gardens"
+        },
+        {
+          "arabic": "غُلۡبًا",
+          "urdu": "گھنے",
+          "english": "(of) thick foliage,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور پھل اور چارہ بھی ۔",
+      "eng": "And fruit and grass -",
+      "words": [
+        {
+          "arabic": "وَّفَاکِہَۃً",
+          "urdu": "اور پھل",
+          "english": "And fruits"
+        },
+        {
+          "arabic": "وَّاَبًّا",
+          "urdu": "اور چارہ",
+          "english": "and grass,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "جو تمہارے لیے اور تمہارے جانوروں کے لیے سامانِ زندگی ہے ۔",
+      "eng": "[As] enjoyment for you and your grazing livestock.",
+      "words": [
+        {
+          "arabic": "مَّتَاعًا",
+          "urdu": "فائدے کی چیزیں ہیں",
+          "english": "(As) a provision"
+        },
+        {
+          "arabic": "لَّکُمۡ",
+          "urdu": "تمہارے لئے",
+          "english": "for you"
+        },
+        {
+          "arabic": "وَلِاَنۡعَامِکُمۡ",
+          "urdu": "اور تمہارے مویشیوں کے لئے",
+          "english": "and for your cattle."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "پس جب کان بہرے کر دینے والی آ جائے گی ۔",
+      "eng": "But when there comes the Deafening Blast",
+      "words": [
+        {
+          "arabic": "فَاِذَا",
+          "urdu": "تو جب",
+          "english": "But when"
+        },
+        {
+          "arabic": "جَآءَتِ",
+          "urdu": "آ جائے گی",
+          "english": "comes"
+        },
+        {
+          "arabic": "الصَّآخَّۃُ",
+          "urdu": "کان بہرا کر دینے والی سخت آواز",
+          "english": "the Deafening Blast,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اُس دن آدمی اپنے بھائی سے ۔",
+      "eng": "On the Day a man will flee from his brother",
+      "words": [
+        {
+          "arabic": "یَوۡمَ",
+          "urdu": "اس دن",
+          "english": "(The) Day"
+        },
+        {
+          "arabic": "یَفِرُّ",
+          "urdu": "بھاگے گا",
+          "english": "will flee"
+        },
+        {
+          "arabic": "الۡمَرۡءُ",
+          "urdu": "انسان",
+          "english": "a man"
+        },
+        {
+          "arabic": "مِنۡ اَخِیۡہِ",
+          "urdu": "اپنے بھائی سے",
+          "english": "from his brother,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور اپنی ماں سے اور اپنے باپ سے ۔",
+      "eng": "And his mother and his father",
+      "words": [
+        {
+          "arabic": "وَاُمِّہٖ",
+          "urdu": "اور اپنی ماں سے",
+          "english": "And his mother"
+        },
+        {
+          "arabic": "وَاَبِیۡہِ",
+          "urdu": "اور اپنے باپ سے",
+          "english": "and his father,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور اپنی بیوی اور اپنے بیٹوں سے دور بھاگے گا ۔",
+      "eng": "And his wife and his children,",
+      "words": [
+        {
+          "arabic": "وَصَاحِبَتِہٖ",
+          "urdu": "اور اپنی بیوی سے",
+          "english": "And his wife"
+        },
+        {
+          "arabic": "وَبَنِیۡہِ",
+          "urdu": "اور اپنے بیٹوں سے",
+          "english": "and his children,"
+        }
+      ]
+    },
+    {
+      "ayat": 6,
+      "ur": "اس دن اُن میں سے ہر شخص کی ایسی حالت ہو گی جو اُسے ( دوسروں سے ) بے نیاز کر دے گی ۔",
+      "eng": "For every man, that Day, will be a matter adequate for him.",
+      "words": [
+        {
+          "arabic": "لِکُلِّ",
+          "urdu": "واسطے ہر",
+          "english": "For every"
+        },
+        {
+          "arabic": "امۡرِئٍ",
+          "urdu": "شخص کے",
+          "english": "man"
+        },
+        {
+          "arabic": "مِّنۡہُمۡ",
+          "urdu": "ان میں سے",
+          "english": "among them"
+        },
+        {
+          "arabic": "یَوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that Day"
+        },
+        {
+          "arabic": "شَاۡنٌ",
+          "urdu": "ایسی حالت ہو گی",
+          "english": "(will be) a matter"
+        },
+        {
+          "arabic": "یُّغۡنِیۡہِ",
+          "urdu": "جو بے پرواہ کردے گی اسے",
+          "english": "occupying him."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "کچھ چہرے اُس دن چمکنے والے ہوں گے ۔",
+      "eng": "[Some] faces, that Day, will be bright -",
+      "words": [
+        {
+          "arabic": "وُجُوۡہٌ",
+          "urdu": "کچھ چہرے",
+          "english": "Faces,"
+        },
+        {
+          "arabic": "یَّوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that Day"
+        },
+        {
+          "arabic": "مُّسۡفِرَۃٌ",
+          "urdu": "روشن ہوں گے",
+          "english": "(will be) bright,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "مسکراتے ہوئے ہشاش بشاش ۔",
+      "eng": "Laughing, rejoicing at good news.",
+      "words": [
+        {
+          "arabic": "ضَاحِکَۃٌ",
+          "urdu": "ہنستے ہوں گے",
+          "english": "Laughing,"
+        },
+        {
+          "arabic": "مُّسۡتَبۡشِرَۃٌ",
+          "urdu": "خوش خبری پانے والے ہوں گے",
+          "english": "rejoicing at good news."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور اُس دن کچھ چہروں پر خاک اُڑ رہی ہو گی ۔",
+      "eng": "And [other] faces, that Day, will have upon them dust.",
+      "words": [
+        {
+          "arabic": "وَوُجُوۡہٌ",
+          "urdu": "اور کچھ چہرے",
+          "english": "And faces,"
+        },
+        {
+          "arabic": "یَّوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that Day,"
+        },
+        {
+          "arabic": "عَلَیۡہَا",
+          "urdu": "ان پر",
+          "english": "upon them"
+        },
+        {
+          "arabic": "غَبَرَۃٌ",
+          "urdu": "غبار ہو گا",
+          "english": "(will be) dust,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اُن پر سیاہی چھائی ہوئی ہو گی ۔",
+      "eng": "Blackness will cover them.",
+      "words": [
+        {
+          "arabic": "تَرۡہَقُہَا",
+          "urdu": "چھا رہی ہو گی ان پر",
+          "english": "Will cover them"
+        },
+        {
+          "arabic": "قَتَرَۃٌ",
+          "urdu": "سیاہی",
+          "english": "darkness."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "یہی لوگ کافر ، بدکردار ہیں ۔",
+      "eng": "Those are the disbelievers, the wicked ones.",
+      "words": [
+        {
+          "arabic": "اُولٰٓئِکَ",
+          "urdu": "یہی لوگ ہیں",
+          "english": "Those"
+        },
+        {
+          "arabic": "ہُمُ",
+          "urdu": "وہ",
+          "english": "they"
+        },
+        {
+          "arabic": "الۡکَفَرَۃُ",
+          "urdu": "جو کافر ہیں",
+          "english": "(are) the disbelievers,"
+        },
+        {
+          "arabic": "الۡفَجَرَۃُ",
+          "urdu": "فاجر ہیں",
+          "english": "the wicked ones."
+        }
+      ]
+    }
+  ]
+}

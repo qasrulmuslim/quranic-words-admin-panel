@@ -1,0 +1,393 @@
+{
+  "tariq": [
+    {
+      "ayat": 2,
+      "ur": "آسمان کی قسم اور رات کو آنے والے کی !",
+      "eng": "By the sky and the night comer -",
+      "words": [
+        {
+          "arabic": "وَالسَّمَآءِ",
+          "urdu": "قسم ہے آسمان کی",
+          "english": "By the sky"
+        },
+        {
+          "arabic": "وَالطَّارِقِ",
+          "urdu": "اور رات کو آنے والے کی",
+          "english": "and the night comer,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور تم کیا جانو کہ رات کو آنے والا کیا ہے ؟",
+      "eng": "And what can make you know what is the night comer?",
+      "words": [
+        {
+          "arabic": "وَمَاۤ",
+          "urdu": "اور کیا چیز",
+          "english": "And what"
+        },
+        {
+          "arabic": "اَدۡرٰىکَ",
+          "urdu": "بتائے آپ کو",
+          "english": "can make you know"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "کیا ہے",
+          "english": "what"
+        },
+        {
+          "arabic": "الطَّارِقُ",
+          "urdu": "رات کو آنے والا",
+          "english": "the night comer (is)?"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "چمکتا ہوا تارا ہے ۔",
+      "eng": "It is the piercing star -",
+      "words": [
+        {
+          "arabic": "النَّجۡمُ",
+          "urdu": "ستار ہ ہے",
+          "english": "(it is) the star,"
+        },
+        {
+          "arabic": "الثَّاقِبُ",
+          "urdu": "چکمتا ہوا",
+          "english": "the piercing!"
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "مگر ہر جان کے اوپر ایک محافظ ہے ۔",
+      "eng": "There is no soul but that it has over it a protector.",
+      "words": [
+        {
+          "arabic": "اِنۡ",
+          "urdu": "نہیں",
+          "english": "Not"
+        },
+        {
+          "arabic": "کُلُّ نَفۡسٍ",
+          "urdu": "کوئی نفس",
+          "english": "(is) every soul"
+        },
+        {
+          "arabic": "لَّمَّا",
+          "urdu": "مگر",
+          "english": "but"
+        },
+        {
+          "arabic": "عَلَیۡہَا",
+          "urdu": "ہے اس پر",
+          "english": "over it"
+        },
+        {
+          "arabic": "حَافِظٌ",
+          "urdu": "ایک حفاظت کرنے والا",
+          "english": "(is) a protector."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "چنانچہ انسان کو چاہیے کہ وہ دیکھے کہ وہ کس چیز سے پیدا کیا گیا ۔",
+      "eng": "So let man observe from what he was created.",
+      "words": [
+        {
+          "arabic": "فَلۡیَنۡظُرِ",
+          "urdu": "پس چاہیے کہ دیکھے",
+          "english": "So let see"
+        },
+        {
+          "arabic": "الۡاِنۡسَانُ",
+          "urdu": "انسان",
+          "english": "man"
+        },
+        {
+          "arabic": "مِمَّ",
+          "urdu": "کس چیز سے",
+          "english": "from what"
+        },
+        {
+          "arabic": "خُلِقَ",
+          "urdu": "وہ پیدا کیا گیا",
+          "english": "he is created."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "وہ اُچھلنے والے پانی سے پیدا کیا گیا ۔",
+      "eng": "He was created from a fluid, ejected,",
+      "words": [
+        {
+          "arabic": "خُلِقَ",
+          "urdu": "وہ پیدا کیا گیا",
+          "english": "He is created"
+        },
+        {
+          "arabic": "مِنۡ مَّآءٍ",
+          "urdu": "پانی سے",
+          "english": "from a water,"
+        },
+        {
+          "arabic": "دَافِقٍ",
+          "urdu": "اچھلنے والے",
+          "english": "ejected,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "جو پیٹھ اور سینے کی ہڈیوں کے درمیان سے نکلتا ہے ۔",
+      "eng": "Emerging from between the backbone and the ribs.",
+      "words": [
+        {
+          "arabic": "یَّخۡرُجُ",
+          "urdu": "جو نکلتا ہے",
+          "english": "Coming forth"
+        },
+        {
+          "arabic": "مِنۡۢ بَیۡنِ",
+          "urdu": "درمیان سے",
+          "english": "between from"
+        },
+        {
+          "arabic": "الصُّلۡبِ",
+          "urdu": "پیٹھ",
+          "english": "the backbone"
+        },
+        {
+          "arabic": "وَالتَّرَآئِبِ",
+          "urdu": "اور سینے کی ہڈیوں کے",
+          "english": "and the ribs."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "بلاشبہ وہ اُس کے لوٹانے پر بھی یقیناً قادر ہے ۔",
+      "eng": "Indeed, Allah , to return him [to life], is Able.",
+      "words": [
+        {
+          "arabic": "اِنَّہٗ",
+          "urdu": "بےشک وہ",
+          "english": "Indeed, He"
+        },
+        {
+          "arabic": "عَلٰی رَجۡعِہٖ",
+          "urdu": "اس کےلوٹانے پر",
+          "english": "to return Him"
+        },
+        {
+          "arabic": "لَقَادِرٌ",
+          "urdu": "یقیناً قادر ہے",
+          "english": "(is) Able."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "جس دن تمام پوشیدہ باتوں کی جانچ پڑتال کی جائے گی ۔",
+      "eng": "The Day when secrets will be put on trial,",
+      "words": [
+        {
+          "arabic": "یَوۡمَ",
+          "urdu": "جس دن",
+          "english": "(The) Day"
+        },
+        {
+          "arabic": "تُبۡلَی",
+          "urdu": "جانچ پرتال کی جائے گی",
+          "english": "will be tested"
+        },
+        {
+          "arabic": "السَّرَآئِرُ",
+          "urdu": "تمام رازوں کی",
+          "english": "the secrets,"
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "تو اُس کے پاس نہ کوئی قوت ہو گی اور نہ ہی مددگار ۔",
+      "eng": "Then man will have no power or any helper.",
+      "words": [
+        {
+          "arabic": "فَمَا",
+          "urdu": "تو نہیں ہو گی",
+          "english": "Then not"
+        },
+        {
+          "arabic": "لَہٗ",
+          "urdu": "اس کے لیے",
+          "english": "(is) for him"
+        },
+        {
+          "arabic": "مِنۡ قُوَّۃٍ",
+          "urdu": "کوئی قوت",
+          "english": "any power"
+        },
+        {
+          "arabic": "وَّلَا",
+          "urdu": "اور نہ",
+          "english": "and not"
+        },
+        {
+          "arabic": "نَاصِرٍ",
+          "urdu": "کوئی مددگار",
+          "english": "any helper."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "بار بار بارش لانے والے آسمان کی قسم !",
+      "eng": "By the sky which returns [rain]",
+      "words": [
+        {
+          "arabic": "وَالسَّمَآءِ",
+          "urdu": "قسم ہے آسمان کی",
+          "english": "By the sky"
+        },
+        {
+          "arabic": "ذَاتِ الرَّجۡعِ",
+          "urdu": "جو پلٹنے والا ہے",
+          "english": "which returns,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور پھٹنے والی زمین کی",
+      "eng": "And [by] the earth which cracks open,",
+      "words": [
+        {
+          "arabic": "وَالۡاَرۡضِ",
+          "urdu": "اور زمین کی",
+          "english": "And the Earth"
+        },
+        {
+          "arabic": "ذَاتِ الصَّدۡعِ",
+          "urdu": "جو پھٹنے والی ہے",
+          "english": "which cracks open,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "یقیناً یہ بلاشبہ ایک فیصلہ کن کلام ہے ۔",
+      "eng": "Indeed, the Qur'an is a decisive statement,",
+      "words": [
+        {
+          "arabic": "اِنَّہٗ",
+          "urdu": "بےشک وہ",
+          "english": "Indeed, it"
+        },
+        {
+          "arabic": "لَقَوۡلٌ",
+          "urdu": "یقیناً ایک بات ہے",
+          "english": "(is) surely a Word"
+        },
+        {
+          "arabic": "فَصۡلٌ",
+          "urdu": "فیصلہ کن",
+          "english": "decisive,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور یہ ہنسی مذاق نہیں ہے ۔",
+      "eng": "And it is not amusement.",
+      "words": [
+        {
+          "arabic": "وَّمَا",
+          "urdu": "اور نہیں ہے",
+          "english": "And not"
+        },
+        {
+          "arabic": "ہُوَ",
+          "urdu": "وہ",
+          "english": "it"
+        },
+        {
+          "arabic": "بِالۡہَزۡلِ",
+          "urdu": "کوئی ہنسی مذاق",
+          "english": "(is) for amusement."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "یقیناً وہ خفیہ تدبیر کرتے ہیں ایک خفیہ تدبیر ۔",
+      "eng": "Indeed, they are planning a plan,",
+      "words": [
+        {
+          "arabic": "اِنَّہُمۡ",
+          "urdu": "بےشک وہ",
+          "english": "Indeed ,they"
+        },
+        {
+          "arabic": "یَکِیۡدُوۡنَ",
+          "urdu": "وہ چال چل رہے ہیں",
+          "english": "are plotting"
+        },
+        {
+          "arabic": "کَیۡدًا",
+          "urdu": "ایک چال",
+          "english": "a plot,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور میں بھی خفیہ تدبیر کر رہا ہوں ایک خفیہ تدبیر ۔",
+      "eng": "But I am planning a plan.",
+      "words": [
+        {
+          "arabic": "وَّاَکِیۡدُ",
+          "urdu": "اور میں تدبیر کر رہا ہوں",
+          "english": "But I am planning"
+        },
+        {
+          "arabic": "کَیۡدًا",
+          "urdu": "ایک تدبیر",
+          "english": "a plan."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "تو آپ کافروں کو مہلت دیں ، مہلت دیں ان کو تھوڑی سی ۔",
+      "eng": "So allow time for the disbelievers. Leave them awhile.",
+      "words": [
+        {
+          "arabic": "فَمَہِّلِ",
+          "urdu": "پس مہلت دے دیجیے",
+          "english": "So give respite"
+        },
+        {
+          "arabic": "الۡکٰفِرِیۡنَ",
+          "urdu": "کافروں کو",
+          "english": "(to) the disbelievers."
+        },
+        {
+          "arabic": "اَمۡہِلۡہُمۡ",
+          "urdu": "مہلت دینا انہیں",
+          "english": "Give respite to them -"
+        },
+        {
+          "arabic": "رُوَیۡدًا",
+          "urdu": "ـ مہلت ـ تھوڑی سی",
+          "english": "little."
+        }
+      ]
+    }
+  ]
+}

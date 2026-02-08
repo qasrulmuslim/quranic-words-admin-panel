@@ -1,0 +1,31 @@
+{
+    "bsm": [
+        {
+            "ayat": 4,
+            "ur": "اللہ تعالیٰ کے نام سے جو وسیع رحمت والا ، نہایت رحم والا ہے",
+            "eng": "In the name of Allah , the Entirely Merciful, the Especially Merciful.",
+            "words": [
+                {
+                    "arabic": "بِسۡمِ",
+                    "urdu": "ساتھ نام",
+                    "english": "In (the) name"
+                },
+                {
+                    "arabic": "اللّٰہِ",
+                    "urdu": "اللہ کے",
+                    "english": "(of) Allah,"
+                },
+                {
+                    "arabic": "الرَّحۡمٰنِ",
+                    "urdu": "وسیع رحمت والا",
+                    "english": "the Most Gracious,"
+                },
+                {
+                    "arabic": "الرَّحِیۡمِ",
+                    "urdu": "نہایت رحم والا ہے",
+                    "english": "the Most Merciful."
+                }
+            ]
+        }
+    ]
+}

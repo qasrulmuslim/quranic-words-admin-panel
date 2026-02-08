@@ -1,0 +1,144 @@
+{
+    "qadar": [
+        {
+            "ayat": 3,
+            "ur": "یقیناً ہم نے اس ( قرآن ) کو لیلۃ القدر میں نازل کیا ۔ ",
+            "eng": "Indeed, We revealed it (Qur'an) in (the) Night (of) Power.",
+            "words": [
+                {
+                    "arabic": "اِنَّاۤ",
+                    "urdu": "بےشک ہم",
+                    "english": "Indeed, We"
+                },
+                {
+                    "arabic": "اَنۡزَلۡنٰہُ",
+                    "urdu": "نازل کیا ہم نے اسے",
+                    "english": "revealed it"
+                },
+                {
+                    "arabic": "فِیۡ لَیۡلَۃِ الۡقَدۡرِ",
+                    "urdu": "لیلۃ القدر میں",
+                    "english": "in (the) Night (of) Power."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور کیا چیز بتائے آپ کو لیلۃ القدر کیا ہے ؟",
+            "eng": "And what can make you know what is the Night of Power?",
+            "words": [
+                {
+                    "arabic": "وَمَاۤ",
+                    "urdu": "اور کیا چیز",
+                    "english": "And what"
+                },
+                {
+                    "arabic": "اَدۡرٰىکَ",
+                    "urdu": "بتائے آپ کو",
+                    "english": "can make you know"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "کیا ہے",
+                    "english": "what"
+                },
+                {
+                    "arabic": "لَیۡلَۃُ الۡقَدۡرِ",
+                    "urdu": "لیلۃ القدر",
+                    "english": "(the) Night (of) Power (is)?"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "لیلۃ القدر ہزار مہینوں سے بہتر ہے ۔",
+            "eng": "The Night of Power is better than a thousand months.",
+            "words": [
+                {
+                    "arabic": "لَیۡلَۃُ الۡقَدۡرِ",
+                    "urdu": "لیلۃ القدر",
+                    "english": "(the) Night (of) Power (is)"
+                },
+                {
+                    "arabic": "خَیۡرٌ",
+                    "urdu": "بہتر ہے",
+                    "english": "(is) better"
+                },
+                {
+                    "arabic": "مِّنۡ اَلۡفِ شَہۡرٍ",
+                    "urdu": "ہزار مہینوں سے",
+                    "english": "than a thousand month(s)."
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "فرشتے اور روح(جبرائیل) اُس میں اپنے رب کے اذن سے ہر کام کے بارے میں اُترتے ہیں ۔",
+            "eng": " The angels and the Spirit descend therein by permission of their Lord for every affair.",
+            "words": [
+                {
+                    "arabic": "تَنَزَّلُ",
+                    "urdu": "اترتے ہیں",
+                    "english": "Descend"
+                },
+                {
+                    "arabic": "الۡمَلٰٓئِکَۃُ",
+                    "urdu": "فرشتے",
+                    "english": "the Angels"
+                },
+                {
+                    "arabic": "وَالرُّوۡحُ",
+                    "urdu": "اور روح(جبرائیل)",
+                    "english": "and the Spirit"
+                },
+                {
+                    "arabic": "فِیۡہَا",
+                    "urdu": "اس میں",
+                    "english": "therein,"
+                },
+                {
+                    "arabic": "بِاِذۡنِ رَبِّہِمۡ",
+                    "urdu": "اپنے رب کے اذن سے",
+                    "english": "by (the) permission (of) their Lord,"
+                },
+                {
+                    "arabic": "مِنۡ کُلِّ اَمۡرٍ",
+                    "urdu": "ہر کام کے لیے",
+                    "english": "for every affair,"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "وہ رات فجر کے طلوع ہونے تک سلامتی ہی سلامتی ہے ۔",
+            "eng": "Peace it is until the emergence of dawn.",
+            "words": [
+                {
+                    "arabic": "سَلٰمٌ",
+                    "urdu": "سلامتی ہے",
+                    "english": "Peace"
+                },
+                {
+                    "arabic": "ہِیَ",
+                    "urdu": "وہ",
+                    "english": "it (is)"
+                },
+                {
+                    "arabic": "حَتّٰی",
+                    "urdu": "یہاں تک کہ",
+                    "english": "until"
+                },
+                {
+                    "arabic": "مَطۡلَعِ",
+                    "urdu": "طلوع ہو جائے",
+                    "english": "(the) emergence"
+                },
+                {
+                    "arabic": "الۡفَجۡرِ",
+                    "urdu": "فجر",
+                    "english": "(of) the dawn."
+                }
+            ]
+        }
+    ]
+}

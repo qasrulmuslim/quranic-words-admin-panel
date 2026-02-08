@@ -1,0 +1,134 @@
+{
+    "masad": [
+        {
+            "ayat": 4,
+            "ur": "ابولہب کے دونوں ہاتھ ہلاک ہو جائیں اور وہ ہلاک ہو گیا۔",
+            "eng": "May the hands of Abu Lahab be ruined, and ruined is he.",
+            "words": [
+                {
+                    "arabic": "تَبَّتۡ",
+                    "urdu": "ہلاک ہو جائیں",
+                    "english": "Perish"
+                },
+                {
+                    "arabic": "یَدَاۤ",
+                    "urdu": "دونوں ہاتھ",
+                    "english": "(the) hands"
+                },
+                {
+                    "arabic": "اَبِیۡ لَہَبٍ",
+                    "urdu": "ابو لہب کے",
+                    "english": "(of) Abu Lahab"
+                },
+                {
+                    "arabic": "وَّتَبَّ",
+                    "urdu": "اور وہ ہلاک ہو گیا",
+                    "english": "and perish he."
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "اس کا مال اور جو کچھ اس نے کمایا اس کے کسی کام نہ آیا۔",
+            "eng": "His wealth will not avail him or that which he gained.",
+            "words": [
+                {
+                    "arabic": "مَاۤ",
+                    "urdu": "نہ",
+                    "english": "Not"
+                },
+                {
+                    "arabic": "اَغۡنٰی",
+                    "urdu": "کام آیا",
+                    "english": "(will) avail"
+                },
+                {
+                    "arabic": "عَنۡہُ",
+                    "urdu": "اس سے",
+                    "english": "him"
+                },
+                {
+                    "arabic": "مَالُہٗ",
+                    "urdu": "مال اس کا",
+                    "english": "his wealth"
+                },
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور جو کچھ",
+                    "english": "and what"
+                },
+                {
+                    "arabic": "کَسَبَ",
+                    "urdu": "اس نے کمایا",
+                    "english": "he earned."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "وہ جلد ہی شعلے والی آگ میں داخل ہو گا۔",
+            "eng": "He will [enter to] burn in a Fire of [blazing] flame",
+            "words": [
+                {
+                    "arabic": "سَیَصۡلٰی",
+                    "urdu": "جلد ہی وہ داخل ہو گ",
+                    "english": "He will be burnt"
+                },
+                {
+                    "arabic": "نَارًا",
+                    "urdu": "آگ میں",
+                    "english": "(in) a Fire"
+                },
+                {
+                    "arabic": "ذَاتَ لَہَبٍ",
+                    "urdu": "شعلے وال",
+                    "english": "of Blazing Flames,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور اُس کی بیوی بھی جو لکڑیاں ڈھونے والی ہے۔",
+            "eng": "And his wife [as well] - the carrier of firewood.",
+            "words": [
+                {
+                    "arabic": "وَّامۡرَاَتُہٗ",
+                    "urdu": "اور بیوی اس کی",
+                    "english": "And his wife,"
+                },
+                {
+                    "arabic": "حَمَّالَۃَ",
+                    "urdu": "ڈھونے والی",
+                    "english": "(the) carrier"
+                },
+                {
+                    "arabic": "الۡحَطَبِ",
+                    "urdu": "لکڑیاں",
+                    "english": "(of) firewood,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اُس کی گردن میں مضبوط بٹی ہوئی رسی ہو گی۔",
+            "eng": "Around her neck is a rope of [twisted] fiber.",
+            "words": [
+                {
+                    "arabic": "فِیۡ جِیۡدِہَا",
+                    "urdu": "اس کی گردن میں",
+                    "english": "In her neck"
+                },
+                {
+                    "arabic": "حَبۡلٌ",
+                    "urdu": "رسی ہو گی",
+                    "english": "(will be) a rope"
+                },
+                {
+                    "arabic": "مِّنۡ مَّسَدٍ",
+                    "urdu": "مضبوط بٹی ہوئی",
+                    "english": "of palm-fiber."
+                }
+            ]
+        }
+    ]
+}

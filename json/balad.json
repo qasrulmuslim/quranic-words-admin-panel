@@ -1,0 +1,499 @@
+{
+    "balad": [
+        {
+            "ayat": 2,
+            "ur": "میں اس شہر کی قسم کھاتا ہوں ۔",
+            "eng": "I swear by this city, Makkah -",
+            "words": [
+                {
+                    "arabic": "لَاۤاُقۡسِمُ",
+                    "urdu": "نہیں میں قسم کھاتا ہوں",
+                    "english": "Nay! I swear"
+                },
+                {
+                    "arabic": "بِہٰذَاالۡبَلَدِ",
+                    "urdu": "اس شہر کی",
+                    "english": "by this city,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور آپ اس شہر میں مقیم ہیں ۔",
+            "eng": "And you, [O Muhammad], are free of restriction in this city -",
+            "words": [
+                {
+                    "arabic": "وَاَنۡتَ",
+                    "urdu": "اور آپ",
+                    "english": "And you"
+                },
+                {
+                    "arabic": "حِلٌّۢ",
+                    "urdu": "مقیم ہیں",
+                    "english": "(are) free (to dwell)"
+                },
+                {
+                    "arabic": "بِہٰذَاالۡبَلَدِ",
+                    "urdu": "اس شہر میں",
+                    "english": "in this city."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور  ( قسم ہے )  والد اور اولاد کی ۔",
+            "eng": "And [by] the begetter and what he begot,",
+            "words": [
+                {
+                    "arabic": "وَوَالِدٍ",
+                    "urdu": "قسم ہے والد کی",
+                    "english": "And the begetter"
+                },
+                {
+                    "arabic": "وَّمَا",
+                    "urdu": "اور جسے",
+                    "english": "and what"
+                },
+                {
+                    "arabic": "وَلَدَ",
+                    "urdu": "اس نے جنم دیا",
+                    "english": "he begot."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "البتہ تحقیق ہم نے انسان کو  ( بڑی )  مشقت میں پیدا کیا ہے ۔",
+            "eng": "We have certainly created man into hardship.",
+            "words": [
+                {
+                    "arabic": "لَقَدۡ",
+                    "urdu": "البتہ تحقیق",
+                    "english": "Certainly,"
+                },
+                {
+                    "arabic": "خَلَقۡنَا",
+                    "urdu": "پیدا کیا ہم نے",
+                    "english": "We have created"
+                },
+                {
+                    "arabic": "الۡاِنۡسَانَ",
+                    "urdu": "انسان کو",
+                    "english": "man"
+                },
+                {
+                    "arabic": "فِیۡ کَبَدٍ",
+                    "urdu": "مشقت میں",
+                    "english": "(to be) in hardship ."
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "کیا یہ گمان کرتا ہے کہ یہ کسی کے بس میں ہی نہیں؟",
+            "eng": "Does he think that never will anyone has power over him?",
+            "words": [
+                {
+                    "arabic": "اَیَحۡسَبُ",
+                    "urdu": "کیا وہ سمجھتا ہے",
+                    "english": "Does he think"
+                },
+                {
+                    "arabic": "اَنۡ",
+                    "urdu": "کہ",
+                    "english": "that"
+                },
+                {
+                    "arabic": "لَّنۡ",
+                    "urdu": "ہر گز نہیں",
+                    "english": "not"
+                },
+                {
+                    "arabic": "یَّقۡدِرَ",
+                    "urdu": "قادر ہو گا",
+                    "english": "has power"
+                },
+                {
+                    "arabic": "عَلَیۡہِ",
+                    "urdu": "اس پر",
+                    "english": "over him"
+                },
+                {
+                    "arabic": "اَحَدٌ",
+                    "urdu": "کوئی ایک",
+                    "english": "anyone?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کہتا  ( پھرتا )  ہے کہ میں نے ہلاک کر دیا مال ڈھیروں۔",
+            "eng": "He says, \"I have spent wealth in abundance.",
+            "words": [
+                {
+                    "arabic": "یَقُوۡلُ",
+                    "urdu": "وہ کہتا ہے",
+                    "english": "He will say,"
+                },
+                {
+                    "arabic": "اَہۡلَکۡتُ",
+                    "urdu": "ہلاک کر دیا میں نے",
+                    "english": "I have squandered"
+                },
+                {
+                    "arabic": "مَالًا",
+                    "urdu": "مال",
+                    "english": "wealth"
+                },
+                {
+                    "arabic": "لُّبَدًا",
+                    "urdu": "ڈھیروں",
+                    "english": "abundant."
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "کیا ( یوں ) سمجھتا ہے کہ کسی نے اسے دیکھا  ( ہی )  نہیں؟",
+            "eng": "Does he think that no one has seen him?",
+            "words": [
+                {
+                    "arabic": "اَیَحۡسَبُ",
+                    "urdu": "کیا وہ سمجھتا ہے",
+                    "english": "Does he think"
+                },
+                {
+                    "arabic": "اَنۡ",
+                    "urdu": "کہ",
+                    "english": "that"
+                },
+                {
+                    "arabic": "لَّمۡ",
+                    "urdu": "نہیں",
+                    "english": "not"
+                },
+                {
+                    "arabic": "یَرَہٗۤ",
+                    "urdu": "دیکھا اسے",
+                    "english": "sees him"
+                },
+                {
+                    "arabic": "اَحَدٌ",
+                    "urdu": "کسی ایک نے",
+                    "english": "anyone?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کیا ہم نے اس کی دو آنکھیں نہیں بنائیں ۔",
+            "eng": "Have We not made for him two eyes?",
+            "words": [
+                {
+                    "arabic": "اَلَمۡ",
+                    "urdu": "کیا نہیں",
+                    "english": "Have not"
+                },
+                {
+                    "arabic": "نَجۡعَلۡ",
+                    "urdu": "ہم نے بنائیں",
+                    "english": "We made"
+                },
+                {
+                    "arabic": "لَّہٗ",
+                    "urdu": "اس کے لیے",
+                    "english": "for him"
+                },
+                {
+                    "arabic": "عَیۡنَیۡنِ",
+                    "urdu": "دو آنکھیں",
+                    "english": "two eyes?"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اورزبان اور ہونٹ  ( نہیں بنائے )  ۔",
+            "eng": "And have shown him the two ways?",
+            "words": [
+                {
+                    "arabic": "وَلِسَانًا",
+                    "urdu": "اور ایک زبان",
+                    "english": "And a tongue,"
+                },
+                {
+                    "arabic": "وَّشَفَتَیۡنِ",
+                    "urdu": "اور دو ہونٹ",
+                    "english": "and two lips?"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "ہم نے دکھا دیئے اس کو دونوں راستے ۔",
+            "eng": "And have shown him the two ways?",
+            "words": [
+                {
+                    "arabic": "وَہَدَیۡنٰہُ",
+                    "urdu": "اور دکھائے ہم نے اسے",
+                    "english": "And shown him"
+                },
+                {
+                    "arabic": "النَّجۡدَیۡنِ",
+                    "urdu": "دونوں راستے",
+                    "english": "the two ways?"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "سو اس سے نہ ہو سکا کہ گھاٹی میں داخل ہوتا ۔",
+            "eng": "But he has not attempted through the steep pass.",
+            "words": [
+                {
+                    "arabic": "فَلَا",
+                    "urdu": "پس نہ",
+                    "english": "But not"
+                },
+                {
+                    "arabic": "اقۡتَحَمَ",
+                    "urdu": "وہ داخل ہوا",
+                    "english": "he has attempted"
+                },
+                {
+                    "arabic": "الۡعَقَبَۃَ",
+                    "urdu": "گھاٹی میں",
+                    "english": "the steep path."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور کیا سمجھا کہ گھاٹی ہے کیا؟",
+            "eng": "And what can make you know what is [breaking through] the steep pass?",
+            "words": [
+                {
+                    "arabic": "وَمَاۤ",
+                    "urdu": "اور کیا چیز",
+                    "english": "And what"
+                },
+                {
+                    "arabic": "اَدۡرٰىکَ",
+                    "urdu": "بتائے آپ کو",
+                    "english": "can make you know"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "کہ کیا ہے",
+                    "english": "what"
+                },
+                {
+                    "arabic": "الۡعَقَبَۃُ",
+                    "urdu": "وہ گھاٹی",
+                    "english": "the steep path (is)?"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "کسی گردن  ( غلام لونڈی )  کو آزاد کرنا ۔",
+            "eng": "It is the freeing of a neck",
+            "words": [
+                {
+                    "arabic": "فَکُّ",
+                    "urdu": "آزاد کرنا",
+                    "english": "(It is) freeing"
+                },
+                {
+                    "arabic": "رَقَبَۃٍ",
+                    "urdu": "ایک گردن کا",
+                    "english": "a neck,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "یا بھو ک  والے دن کو کھانا کھلانا ۔",
+            "eng": "Or feeding on a day of severe hunger",
+            "words": [
+                {
+                    "arabic": "اَوۡ",
+                    "urdu": "یا",
+                    "english": "Or"
+                },
+                {
+                    "arabic": "اِطۡعٰمٌ",
+                    "urdu": "کھانا کھلانا",
+                    "english": "feeding"
+                },
+                {
+                    "arabic": "فِیۡ یَوۡمٍ",
+                    "urdu": "ایک دن میں",
+                    "english": "in a day"
+                },
+                {
+                    "arabic": "ذِیۡ مَسۡغَبَۃٍ",
+                    "urdu": "بھوک والے",
+                    "english": "of severe hunger."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "کسی رشتہ دار یتیم کو ۔",
+            "eng": "An orphan of near relationship",
+            "words": [
+                {
+                    "arabic": "یَّتِیۡمًا",
+                    "urdu": "کسی یتیم",
+                    "english": "An orphan"
+                },
+                {
+                    "arabic": "ذَامَقۡرَبَۃٍ",
+                    "urdu": "قرابت والے کو",
+                    "english": "of near relationship,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یا خاک نشین مسکین کو ۔",
+            "eng": "Or a needy person in misery",
+            "words": [
+                {
+                    "arabic": "اَوۡ",
+                    "urdu": "یا",
+                    "english": "Or"
+                },
+                {
+                    "arabic": "مِسۡکِیۡنًا",
+                    "urdu": "کسی مسکین",
+                    "english": "a needy person"
+                },
+                {
+                    "arabic": "ذَامَتۡرَبَۃٍ",
+                    "urdu": "خاک نشین کو",
+                    "english": "is misery,"
+                }
+            ]
+        },
+        {
+            "ayat": 8,
+            "ur": "پھر ان لوگوں میں سے  ہو جاتا ہے جو ایمان لاتے  اور ایک دوسرے کو صبر کی اور رحم کرنے کی تلقین کرتے ہیں ۔",
+            "eng": "And then being among those who believed and enjoin each other to patience and advised one another to compassion.",
+            "words": [
+                {
+                    "arabic": "ثُمَّ",
+                    "urdu": "پھر",
+                    "english": "Then"
+                },
+                {
+                    "arabic": "کَانَ",
+                    "urdu": "ہو وہ",
+                    "english": "he is"
+                },
+                {
+                    "arabic": "مِنَ الَّذِیۡنَ",
+                    "urdu": "ان میں سے جو",
+                    "english": "ofthose who"
+                },
+                {
+                    "arabic": "اٰمَنُوۡا",
+                    "urdu": "ایمان لائے",
+                    "english": "believe"
+                },
+                {
+                    "arabic": "وَتَوَاصَوۡا",
+                    "urdu": "اور انہوں نے ایک دوسرے کو تلقین کی",
+                    "english": "and enjoin (each other)"
+                },
+                {
+                    "arabic": "بِالصَّبۡرِ",
+                    "urdu": "صبر کرنے کی",
+                    "english": "to patience,"
+                },
+                {
+                    "arabic": "وَتَوَاصَوۡا",
+                    "urdu": "اور ایک دوسرے کو تلقین کی",
+                    "english": "to compassion."
+                },
+                {
+                    "arabic": "بِالۡمَرۡحَمَۃِ",
+                    "urdu": "رحم کرنے کی",
+                    "english": "and enjoin (each other)"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "یہی لوگ ہیں دائیں ہاتھ والے  ( خوش بختی والے )   ۔",
+            "eng": "Those are the companions of the right.",
+            "words": [
+                {
+                    "arabic": "اُولٰٓئِکَ",
+                    "urdu": "یہی لوگ ہیں",
+                    "english": "Those(are the) companions"
+                },
+                {
+                    "arabic": "اَصۡحٰبُ الۡمَیۡمَنَۃِ",
+                    "urdu": "دائیں ہاتھ والے",
+                    "english": "(of) the right (hand)"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اور جن لوگوں نے ہماری آیتوں کے ساتھ کفر کیا یہ بائیں ہاتھ والے ہیں ۔",
+            "eng": "But they who disbelieved in Our Verses - those are the companions of the left.",
+            "words": [
+                {
+                    "arabic": "وَالَّذِیۡنَ",
+                    "urdu": "اور وہ جنہوں نے",
+                    "english": "But those who"
+                },
+                {
+                    "arabic": "کَفَرُوۡا",
+                    "urdu": "کفر کیا",
+                    "english": "disbelieve"
+                },
+                {
+                    "arabic": "بِاٰیٰتِنَا",
+                    "urdu": "ہماری آیات کے ساتھ",
+                    "english": "in Our Verses,"
+                },
+                {
+                    "arabic": "ہُمۡ",
+                    "urdu": "وہ ہیں",
+                    "english": "they"
+                },
+                {
+                    "arabic": "اَصۡحٰبُ الۡمَشۡئَمَۃِ",
+                    "urdu": "بائیں ہاتھ والے",
+                    "english": "(of) the left (hand)."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "انہی پر آگ ہوگی بند کی ہوئی۔",
+            "eng": "Over them will be fire closed in.",
+            "words": [
+                {
+                    "arabic": "عَلَیۡہِمۡ",
+                    "urdu": "ان پر",
+                    "english": "Over them,"
+                },
+                {
+                    "arabic": "نَارٌ",
+                    "urdu": "آگ ہو گی",
+                    "english": "(will be the) Fire"
+                },
+                {
+                    "arabic": "مُّؤۡصَدَۃٌ",
+                    "urdu": "بند کی ہوئی",
+                    "english": "closed in."
+                }
+            ]
+        }
+    ]
+}

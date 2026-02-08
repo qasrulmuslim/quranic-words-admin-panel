@@ -1,0 +1,487 @@
+{
+  "aala": [
+    {
+      "ayat": 4,
+      "ur": "آپ اپنے رب کے نام کی تسبیح کریں جو سب سے بُلند ہے ۔",
+      "eng": "Exalt the name of your Lord, the Most High,",
+      "words": [
+        {
+          "arabic": "سَبِّحِ",
+          "urdu": "تسبیح کیجیے",
+          "english": "Glorify"
+        },
+        {
+          "arabic": "اسۡمَ",
+          "urdu": "نام کی",
+          "english": "(the) name"
+        },
+        {
+          "arabic": "رَبِّکَ",
+          "urdu": "اپنے رب کے",
+          "english": "(of) your Lord,"
+        },
+        {
+          "arabic": "الۡاَعۡلَی",
+          "urdu": "جو بہت بلند ہے",
+          "english": "the Most High,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "وہ ذات جس نے پیدا کیا پھر درست بنایا ۔",
+      "eng": "Who created and proportioned",
+      "words": [
+        {
+          "arabic": "الَّذِیۡ",
+          "urdu": "وہ جس نے",
+          "english": "The One Who"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "urdu": "پیدا کیا",
+          "english": "created,"
+        },
+        {
+          "arabic": "فَسَوّٰی",
+          "urdu": "پھر اس نے درست کیا",
+          "english": "then proportioned,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور وہ ذات جس نے تقدیر بنائی تو راہ دِکھائی ۔",
+      "eng": "And Who destined and [then] guided",
+      "words": [
+        {
+          "arabic": "وَالَّذِیۡ",
+          "urdu": "اور وہ جس نے",
+          "english": "And the One Who"
+        },
+        {
+          "arabic": "قَدَّرَ",
+          "urdu": "اندازہ کیا",
+          "english": "measured"
+        },
+        {
+          "arabic": "فَہَدٰی",
+          "urdu": "پھر اس نے ہدایت بخشی",
+          "english": "then guided,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور وہ ذات جس نے زمین سے چارہ نکالا ۔",
+      "eng": "And who brings out the pasture",
+      "words": [
+        {
+          "arabic": "وَالَّذِیۡ",
+          "urdu": "اور وہ جس نے",
+          "english": "And the One Who"
+        },
+        {
+          "arabic": "اَخۡرَجَ",
+          "urdu": "نکالا",
+          "english": "brings forth"
+        },
+        {
+          "arabic": "الۡمَرۡعٰی",
+          "urdu": "چارہ",
+          "english": "the pasture,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "تو اُس کو سیاہ کوڑا بنا دیا ۔",
+      "eng": "And [then] makes it black stubble.",
+      "words": [
+        {
+          "arabic": "فَجَعَلَہٗ",
+          "urdu": "پھر اس نے بنا دیا اسے",
+          "english": "And then made it"
+        },
+        {
+          "arabic": "غُثَآءً",
+          "urdu": "کوڑا",
+          "english": "stubble,"
+        },
+        {
+          "arabic": "اَحۡوٰی",
+          "urdu": "سیاہ",
+          "english": "dark."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "جلد ہی ہم آپ کو پڑھا دیں گے تو آپ نہیں بھولیں گے ۔",
+      "eng": "We will make you recite, [O Muhammad], and you will not forget,",
+      "words": [
+        {
+          "arabic": "سَنُقۡرِئُکَ",
+          "urdu": "عنقریب ہم پڑھا دیں گے آپ کو",
+          "english": "We will make you recite"
+        },
+        {
+          "arabic": "فَلَا",
+          "urdu": "پھر نہیں",
+          "english": "so not"
+        },
+        {
+          "arabic": "تَنۡسٰۤی",
+          "urdu": "آپ بھولیں گے",
+          "english": "you will forget,"
+        }
+      ]
+    },
+    {
+      "ayat": 9,
+      "ur": "مگر جو اللہ تعالیٰ چاہے ، یقیناً وہ ظاہر کو بھی جانتا ہے اور اُس کو بھی جو پوشیدہ ہے ۔",
+      "eng": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
+      "words": [
+        {
+          "arabic": "اِلَّا",
+          "urdu": "مگر",
+          "english": "Except"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "جو",
+          "english": "what"
+        },
+        {
+          "arabic": "شَآءَ",
+          "urdu": "چاہے",
+          "english": "wills"
+        },
+        {
+          "arabic": "اللّٰہُ",
+          "urdu": "اللہ",
+          "english": "Allah"
+        },
+        {
+          "arabic": "اِنَّہٗ",
+          "urdu": "بے شک",
+          "english": "Indeed, He"
+        },
+        {
+          "arabic": "یَعۡلَمُ",
+          "urdu": "وہ جانتا ہے",
+          "english": "knows"
+        },
+        {
+          "arabic": "الۡجَہۡرَ",
+          "urdu": "ظاہر کو",
+          "english": "the manifest"
+        },
+        {
+          "arabic": "وَمَا",
+          "urdu": "اوراس کو جو",
+          "english": "and what"
+        },
+        {
+          "arabic": "یَخۡفٰی",
+          "urdu": "پوشیدہ ہے",
+          "english": "is hidden."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور ہم آپ کو آسان راستے کے لیے سہولت دیں گے ۔",
+      "eng": "And We will ease you toward ease.",
+      "words": [
+        {
+          "arabic": "وَنُیَسِّرُکَ",
+          "urdu": "اور ہم آسانی کر دیں گے آپ کے لیے",
+          "english": "And We will ease you"
+        },
+        {
+          "arabic": "لِلۡیُسۡرٰی",
+          "urdu": "آسان(راستے)کی",
+          "english": "to the ease."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "سو آپ نصیحت کرو اگر نصیحت فائدہ دیتی ہے ۔",
+      "eng": "So remind, if the reminder should benefit;",
+      "words": [
+        {
+          "arabic": "فَذَکِّرۡ",
+          "urdu": "پس نصیحت کیجئے",
+          "english": "So remind,"
+        },
+        {
+          "arabic": "اِنۡ",
+          "urdu": "اگر",
+          "english": "if"
+        },
+        {
+          "arabic": "نَّفَعَتِ",
+          "urdu": "فائدہ دے",
+          "english": "benefits"
+        },
+        {
+          "arabic": "الذِّکۡرٰی",
+          "urdu": "نصیحت کرنا",
+          "english": "the reminder."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "وہ شخص جلد ہی نصیحت قبول کرے گا جو ڈرتا ہے ۔",
+      "eng": "He who fears [ Allah ] will be reminded.",
+      "words": [
+        {
+          "arabic": "سَیَذَّکَّرُ",
+          "urdu": "عنقریب نصیحت پکڑے گا",
+          "english": "He will pay heed -"
+        },
+        {
+          "arabic": "مَنۡ",
+          "urdu": "وہ جو",
+          "english": "(one) who"
+        },
+        {
+          "arabic": "یَّخۡشٰی",
+          "urdu": "ڈرتا ہو گا",
+          "english": "fears (Allah)."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور بدبخت اُس سے علیحدہ رہے گا ۔",
+      "eng": "But the wretched one will avoid it -",
+      "words": [
+        {
+          "arabic": "وَیَتَجَنَّبُہَا",
+          "urdu": "اور اجتناب کرے گا اس سے",
+          "english": "And will avoid it"
+        },
+        {
+          "arabic": "الۡاَشۡقَی",
+          "urdu": "سب سے زیادہ بدبخت",
+          "english": "the wretched one."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "وہ جو بہت بڑی آگ میں داخل ہو گا ۔",
+      "eng": "[He] who will [enter and] burn in the greatest Fire,",
+      "words": [
+        {
+          "arabic": "الَّذِیۡ",
+          "urdu": "وہ جو",
+          "english": "The one who"
+        },
+        {
+          "arabic": "یَصۡلَی",
+          "urdu": "جلے گا",
+          "english": "will burn"
+        },
+        {
+          "arabic": "النَّارَ",
+          "urdu": "آگ میں",
+          "english": "(in) the Fire"
+        },
+        {
+          "arabic": "الۡکُبۡرٰی",
+          "urdu": "بہت بری",
+          "english": "the great."
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "پھر اُس میں نہ وہ مرے گا اور نہ جیے گا ۔",
+      "eng": "Neither dying therein nor living.",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "لَایَمُوۡتُ",
+          "urdu": "نہ وہ مرے گا",
+          "english": "not he will die"
+        },
+        {
+          "arabic": "فِیۡہَا",
+          "urdu": "اس میں",
+          "english": "therein"
+        },
+        {
+          "arabic": "وَلَا",
+          "urdu": "اور نہ",
+          "english": "and not"
+        },
+        {
+          "arabic": "یَحۡیٰی",
+          "urdu": "وہ جئے گا",
+          "english": "will live."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "یقیناً کامیاب ہو گیا وہ جو پاک ہو گیا ۔",
+      "eng": "He has certainly succeeded who purifies himself",
+      "words": [
+        {
+          "arabic": "قَدۡ",
+          "urdu": "یقیناً",
+          "english": "Certainly,"
+        },
+        {
+          "arabic": "اَفۡلَحَ",
+          "urdu": "فلاح پا گیا",
+          "english": "has succeeded"
+        },
+        {
+          "arabic": "مَنۡ",
+          "urdu": "وہ جو",
+          "english": "(one) who,"
+        },
+        {
+          "arabic": "تَزَکّٰی",
+          "urdu": "پاک ہوا",
+          "english": "purifies (himself),"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور اس نے اپنے رب کا نام یاد کیا ، پھر اس نے نماز پڑھی ۔",
+      "eng": "And mentions the name of his Lord and prays.",
+      "words": [
+        {
+          "arabic": "وَذَکَرَ",
+          "urdu": "اور اس نے ذکر کیا",
+          "english": "And remembers"
+        },
+        {
+          "arabic": "اسۡمَ",
+          "urdu": "نام",
+          "english": "(the) name"
+        },
+        {
+          "arabic": "رَبِّہٖ",
+          "urdu": "اپنے رب کا",
+          "english": "(of) his Lord"
+        },
+        {
+          "arabic": "فَصَلّٰی",
+          "urdu": "پھر اس نے نماز پڑھی",
+          "english": "and prays."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "بلکہ تم دنیا کی زندگی کو ترجیح دیتے ہو ۔",
+      "eng": "But you prefer the worldly life,",
+      "words": [
+        {
+          "arabic": "بَلۡ",
+          "urdu": "بلکہ",
+          "english": "Nay!"
+        },
+        {
+          "arabic": "تُؤۡثِرُوۡنَ",
+          "urdu": "تم ترجیح دیتے ہو",
+          "english": "You prefer"
+        },
+        {
+          "arabic": "الۡحَیٰوۃَ",
+          "urdu": "زندگی کو",
+          "english": "the life"
+        },
+        {
+          "arabic": "الدُّنۡیَا",
+          "urdu": "دنیا کی",
+          "english": "(of) the world,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "حالانکہ آخرت بہت بہتر اور ہمیشہ باقی رہنے والی ہے ۔",
+      "eng": "While the Hereafter is better and more enduring.",
+      "words": [
+        {
+          "arabic": "وَالۡاٰخِرَۃُ",
+          "urdu": "اور آخرت",
+          "english": "While the Hereafter"
+        },
+        {
+          "arabic": "خَیۡرٌ",
+          "urdu": "بہتر ہے",
+          "english": "(is) better"
+        },
+        {
+          "arabic": "وَّاَبۡقٰی",
+          "urdu": "اور زیادہ باقی رہنے والی ہے",
+          "english": "and ever lasting."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "بے شک یہ بات یقیناً پہلے صحیفوں میں ہے ۔",
+      "eng": "Indeed, this is in the former scriptures,",
+      "words": [
+        {
+          "arabic": "اِنَّ",
+          "urdu": "یقیناً",
+          "english": "Indeed,"
+        },
+        {
+          "arabic": "ہٰذَا",
+          "urdu": "یہ",
+          "english": "this"
+        },
+        {
+          "arabic": "لَفِی الصُّحُفِ",
+          "urdu": "البتہ صحیفوں میں ہے",
+          "english": "surely (is) in the Scriptures"
+        },
+        {
+          "arabic": "الۡاُوۡلٰی",
+          "urdu": "پہلے",
+          "english": "the former,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "ابراہیم اور موسیٰ کے صحیفوں میں ۔",
+      "eng": "The scriptures of Abraham and Moses.",
+      "words": [
+        {
+          "arabic": "صُحُفِ",
+          "urdu": "صحیفے",
+          "english": "the Scriptures"
+        },
+        {
+          "arabic": "اِبۡرٰہِیۡمَ",
+          "urdu": "ابراہیم",
+          "english": "(of) Ibrahim"
+        },
+        {
+          "arabic": "وَمُوۡسٰی",
+          "urdu": "اور موسیٰ کے",
+          "english": "and Musa."
+        }
+      ]
+    }
+  ]
+}

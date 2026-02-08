@@ -1,0 +1,92 @@
+{
+  "ikhlas": [
+    {
+      "ayat": 4,
+      "ur": "آپ کہہ دیجیے وہ اللہ ایک ہی ہے۔",
+      "eng": "Say, \"He is Allah , [who is] One,",
+      "words": [
+        {
+          "arabic": "قُلۡ",
+          "urdu": "آپ کہہ دیجیے",
+          "english": "Say,"
+        },
+        {
+          "arabic": "ھُوَ",
+          "urdu": "وہ",
+          "english": "He"
+        },
+        {
+          "arabic": "اللّٰہُ",
+          "urdu": "اللہ تعالیٰ",
+          "english": "(is) Allah,"
+        },
+        {
+          "arabic": "اَحَدٌ",
+          "urdu": "ایک ہے",
+          "english": "the One."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اللہ تعالیٰ بے نیاز ہے۔",
+      "eng": "Allah , the Eternal Absolute.",
+      "words": [
+        {
+          "arabic": "اَللّٰہُ",
+          "urdu": "اللہ تعالیٰ",
+          "english": "Allah,"
+        },
+        {
+          "arabic": "الصَّمَدُ",
+          "urdu": "بے نیاز ہے",
+          "english": "the Eternal, the Absolute."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "نہ اُس نے کسی کو جنا نہ وہ کسی سے جنا گیا۔",
+      "eng": "He neither begets nor is begotten,",
+      "words": [
+        {
+          "arabic": "لَمۡ یَلِدۡ",
+          "urdu": "نہ اس نے (کسی کو) جنا",
+          "english": "Not He begets"
+        },
+        {
+          "arabic": "وَلَمۡ یُوۡلَدۡ",
+          "urdu": "اور نہ وہ (کسی سے) جنا گیا",
+          "english": "And not He is begotten."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور نہ کبھی کوئی ایک اُس کے برابر کا ہے۔",
+      "eng": "Nor is there to Him any equivalent.",
+      "words": [
+        {
+          "arabic": "وَلَمۡ",
+          "urdu": "اور نہ",
+          "english": "And not"
+        },
+        {
+          "arabic": "یَکُنۡ",
+          "urdu": "۔(کبھی) ہے",
+          "english": "is"
+        },
+        {
+          "arabic": "لَّہٗ",
+          "urdu": "اس کے",
+          "english": "for Him"
+        },
+        {
+          "arabic": "کُفُوًا اَحَدٌ",
+          "urdu": "برابر کو ئی ایک",
+          "english": "any one equivalent."
+        }
+      ]
+    }
+  ]
+}

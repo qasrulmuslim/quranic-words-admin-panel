@@ -1,0 +1,591 @@
+{
+  "ghashiyah": [
+    {
+      "ayat": 4,
+      "ur": "کیا تمہارے پاس ڈھانپ لینے والی ( قیامت ) کی خبر آئی ہے ؟",
+      "eng": "Has there reached you the report of the Overwhelming [event]?",
+      "words": [
+        {
+          "arabic": "ہَلۡ",
+          "urdu": "کیا",
+          "english": "Has"
+        },
+        {
+          "arabic": "أَتَىٰكَ",
+          "urdu": "آئی ہے آپ کے پاس",
+          "english": "(there) come to you"
+        },
+        {
+          "arabic": "حَدِیۡثُ",
+          "urdu": "خبر",
+          "english": "(the) news"
+        },
+        {
+          "arabic": "الۡغَاشِیَۃِ",
+          "urdu": "ڈھانپ لینے والی کی",
+          "english": "(of) the Overwhelming?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "کئی چہرے اُس دن ذلیل ہوں گے ۔",
+      "eng": "[Some] faces, that Day, will be humbled,",
+      "words": [
+        {
+          "arabic": "وُجُوۡہٌ",
+          "urdu": "کچھ چہرے",
+          "english": "Faces"
+        },
+        {
+          "arabic": "یَّوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that Day"
+        },
+        {
+          "arabic": "خَاشِعَۃٌ",
+          "urdu": "ذلیل ہوں گے",
+          "english": "(will be) humbled,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "محنت کرنے والے ، تھک جانے والے ۔",
+      "eng": "Working [hard] and exhausted.",
+      "words": [
+        {
+          "arabic": "عَامِلَۃٌ",
+          "urdu": "عمل کرنے والے",
+          "english": "Laboring,"
+        },
+        {
+          "arabic": "نَّاصِبَۃٌ",
+          "urdu": "تھک جانے والے",
+          "english": "exhausted."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "وہ دہکتی آگ میں داخل ہوں گے ۔",
+      "eng": "They will [enter to] burn in an intensely hot Fire.",
+      "words": [
+        {
+          "arabic": "تَصۡلٰی",
+          "urdu": "وہ جلیں گے",
+          "english": "They will burn"
+        },
+        {
+          "arabic": "نَارًا",
+          "urdu": "آگ میں",
+          "english": "(in) a Fire"
+        },
+        {
+          "arabic": "حَامِیَۃً",
+          "urdu": "بھڑکتی ہوئی",
+          "english": "intensely hot."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "کھولتے ہوئے چشمے سے اُنہیں پانی پلایا جائے گا",
+      "eng": "They will be given drink from a boiling spring.",
+      "words": [
+        {
+          "arabic": "تُسۡقٰی",
+          "urdu": "وہ پلائے جائیں گے",
+          "english": "They will be given to drink"
+        },
+        {
+          "arabic": "مِنۡ عَیۡنٍ",
+          "urdu": "ایک چشمے سے",
+          "english": "from a spring,"
+        },
+        {
+          "arabic": "اٰنِیَۃٍ",
+          "urdu": "کھولتے ہوئے پانی کے",
+          "english": "boiling."
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "سُوکھی خاردار جھاڑی کے سوا اُن کے لیے کوئی کھانا نہ ہو گا ۔",
+      "eng": "For them there will be no food except from a poisonous, thorny plant",
+      "words": [
+        {
+          "arabic": "لَیۡسَ",
+          "urdu": "نہیں ہے",
+          "english": "Not is"
+        },
+        {
+          "arabic": "لَہُمۡ",
+          "urdu": "ان کے لیے",
+          "english": "for them"
+        },
+        {
+          "arabic": "طَعَامٌ",
+          "urdu": "کوئی کھانا",
+          "english": "food"
+        },
+        {
+          "arabic": "اِلَّا",
+          "urdu": "سوائے",
+          "english": "except"
+        },
+        {
+          "arabic": "مِنۡ ضَرِیۡعٍ",
+          "urdu": "کانٹوں کے",
+          "english": "from a bitter thorny plant,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "جو نہ موٹا کرے گا اور نہ بھوک میں کافی ہو گا ۔",
+      "eng": "Which neither nourishes nor avails against hunger.",
+      "words": [
+        {
+          "arabic": "لَّایُسۡمِنُ",
+          "urdu": "نہ وہ موٹا کرے گا",
+          "english": "Not it nourishes"
+        },
+        {
+          "arabic": "وَلَا",
+          "urdu": "اور نہ",
+          "english": "and not"
+        },
+        {
+          "arabic": "یُغۡنِیۡ",
+          "urdu": "وہ کام آئے گا",
+          "english": "it avails"
+        },
+        {
+          "arabic": "مِنۡ جُوۡعٍ",
+          "urdu": "بھوک سے",
+          "english": "from hunger."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "کئی چہرے اُس دن تروتازہ ہوں گے ۔",
+      "eng": "[Other] faces, that Day, will show pleasure.",
+      "words": [
+        {
+          "arabic": "وُجُوۡہٌ",
+          "urdu": "کچھ چہرے",
+          "english": "Faces"
+        },
+        {
+          "arabic": "یَّوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that day"
+        },
+        {
+          "arabic": "نَّاعِمَۃٌ",
+          "urdu": "ترو تازہ ہوں گے",
+          "english": "(will be) joyful."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اپنی کوشش پر خوش ہوں گے ۔",
+      "eng": "With their effort [they are] satisfied",
+      "words": [
+        {
+          "arabic": "لِّسَعۡیِہَا",
+          "urdu": "اپنی کوششوں پر",
+          "english": "With their effort"
+        },
+        {
+          "arabic": "رَاضِیَۃٌ",
+          "urdu": "راضی ہوں گے",
+          "english": "satisfied,"
+        }
+      ]
+    },
+    {
+      "ayat": 1,
+      "ur": "عالی مقام جنت میں ہوں گے ۔",
+      "eng": "In an elevated garden,",
+      "words": [
+        {
+          "arabic": "فِیۡ جَنَّۃٍ عَالِیَۃٍ",
+          "urdu": "بلند جنت میں ہوں گے",
+          "english": "In a elevated garden."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اس میں وہ کوئی لغو بات نہ سنیں گے ۔",
+      "eng": "Wherein they will hear no unsuitable speech.",
+      "words": [
+        {
+          "arabic": "لَّاتَسۡمَعُ",
+          "urdu": "نہیں وہ سنیں گے",
+          "english": "they will not hear"
+        },
+        {
+          "arabic": "فِیۡہَا",
+          "urdu": "اس میں",
+          "english": "therein"
+        },
+        {
+          "arabic": "لَاغِیَۃً",
+          "urdu": "کوئی لغو بات",
+          "english": "vain talk."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اُس میں بہنے والا چشمہ ہو گا ۔",
+      "eng": "Within it is a flowing spring.",
+      "words": [
+        {
+          "arabic": "فِیۡہَا",
+          "urdu": "اس میں",
+          "english": "Therein"
+        },
+        {
+          "arabic": "عَیۡنٌ",
+          "urdu": "ایک چشمہ ہو گا",
+          "english": "(will be) a spring"
+        },
+        {
+          "arabic": "جَارِیَۃٌ",
+          "urdu": "جاری /رواں",
+          "english": "flowing,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اُس میں اونچے اونچے تخت ہوں گے ۔",
+      "eng": "Within it are couches raised high",
+      "words": [
+        {
+          "arabic": "فِیۡہَا",
+          "urdu": "اس میں",
+          "english": "Therein"
+        },
+        {
+          "arabic": "سُرُرٌ",
+          "urdu": "مسندیں ہوں گی",
+          "english": "(will be) thrones"
+        },
+        {
+          "arabic": "مَّرۡفُوۡعَۃٌ",
+          "urdu": "بلند",
+          "english": "raised high,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور رکھے ہوئے ساغر ہوں گے ۔",
+      "eng": "And cups put in place",
+      "words": [
+        {
+          "arabic": "وَّاَکۡوَابٌ",
+          "urdu": "اور پیالے",
+          "english": "And cups"
+        },
+        {
+          "arabic": "مَّوۡضُوۡعَۃٌ",
+          "urdu": "رکھے ہوئے",
+          "english": "put in place,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور گاؤ تکیے قطاروں میں لگے ہوئے ہوں گے ۔",
+      "eng": "And cushions lined up",
+      "words": [
+        {
+          "arabic": "وَّنَمَارِقُ",
+          "urdu": "اور تکیے",
+          "english": "And cushions"
+        },
+        {
+          "arabic": "مَصۡفُوۡفَۃٌ",
+          "urdu": "صف در صف",
+          "english": "lined up,"
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "اور مخملی قالین بچھائے ہوئے ہوں گے ۔",
+      "eng": "And carpets spread around.",
+      "words": [
+        {
+          "arabic": "وَّزَرَابِیُّ",
+          "urdu": "اور نفسیں قالین",
+          "english": "And carpets"
+        },
+        {
+          "arabic": "مَبۡثُوۡثَۃٌ",
+          "urdu": "پھیلائے ہوئے",
+          "english": "spread out."
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "تو کیا وہ اُونٹوں کی طرف نہیں دیکھتے کہ کیسے وہ پیدا کیے گئے ہیں ؟",
+      "eng": "Then do they not look at the camels - how they are created?",
+      "words": [
+        {
+          "arabic": "اَفَلَا",
+          "urdu": "کیا پھر نہیں",
+          "english": "Then do not"
+        },
+        {
+          "arabic": "یَنۡظُرُوۡنَ",
+          "urdu": "وہ دیکھتے",
+          "english": "they look"
+        },
+        {
+          "arabic": "اِلَی الۡاِبِلِ",
+          "urdu": "طرف اونٹوں کے",
+          "english": "towards the camels,"
+        },
+        {
+          "arabic": "کَیۡفَ",
+          "urdu": "کیسے",
+          "english": "how"
+        },
+        {
+          "arabic": "خُلِقَتۡ",
+          "urdu": "وہ پیدا کیے گئے",
+          "english": "they are created?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور آسمان کی طرف کہ کیسے وہ بلند کیا گیا ؟",
+      "eng": "And at the sky - how it is raised?",
+      "words": [
+        {
+          "arabic": "وَاِلَی السَّمَآءِ",
+          "urdu": "اور طرف آسمان کے",
+          "english": "And towards the sky,"
+        },
+        {
+          "arabic": "کَیۡفَ",
+          "urdu": "کیسے",
+          "english": "how"
+        },
+        {
+          "arabic": "رُفِعَتۡ",
+          "urdu": "وہ بلند کیا گیا",
+          "english": "it is raised?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور پہاڑوں کی طرف کہ کیسے وہ گاڑے گئے ؟",
+      "eng": "And at the mountains - how they are erected?",
+      "words": [
+        {
+          "arabic": "وَاِلَی الۡجِبَالِ",
+          "urdu": "اور طرف پہاڑوں کے",
+          "english": "And towards the mountains,"
+        },
+        {
+          "arabic": "کَیۡفَ",
+          "urdu": "کیسے",
+          "english": "how"
+        },
+        {
+          "arabic": "نُصِبَتۡ",
+          "urdu": "وہ نصب کیے گئے",
+          "english": "they are fixed?"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور زمین کی طرف کہ کیسے وہ بچھائی گئی ؟",
+      "eng": "And at the earth - how it is spread out?",
+      "words": [
+        {
+          "arabic": "وَاِلَی الۡاَرۡضِ",
+          "urdu": "اور طرف زمین کے",
+          "english": "Amd towards the earth,"
+        },
+        {
+          "arabic": "کَیۡفَ",
+          "urdu": "کیسے",
+          "english": "how"
+        },
+        {
+          "arabic": "سُطِحَتۡ",
+          "urdu": "وہ بچھائی گئی",
+          "english": "it is spread out?"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "پس آپ نصیحت کریں ، یقیناً آپ نصیحت کرنے والے ہی ہیں ۔",
+      "eng": "So remind, [O Muhammad]; you are only a reminder.",
+      "words": [
+        {
+          "arabic": "فَذَکِّرۡ",
+          "urdu": "پس نصیحت کیجیے",
+          "english": "So remind,"
+        },
+        {
+          "arabic": "اِنَّمَاۤ",
+          "urdu": "بےشک",
+          "english": "only"
+        },
+        {
+          "arabic": "اَنۡتَ",
+          "urdu": "آپ تو",
+          "english": "you"
+        },
+        {
+          "arabic": "مُذَکِّرٌ",
+          "urdu": "نصیحت کرنے والے ہیں",
+          "english": "(are) a reminder."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "آپ اُن پر ہرگز کوئی مسلط کیے ہوئے نہیں ہیں ۔",
+      "eng": "You are not over them a controller.",
+      "words": [
+        {
+          "arabic": "لَسۡتَ",
+          "urdu": "نہیں آپ",
+          "english": "You are not"
+        },
+        {
+          "arabic": "عَلَیۡہِمۡ",
+          "urdu": "ان پر",
+          "english": "over them"
+        },
+        {
+          "arabic": "بِمُصَۜیۡطِرٍ",
+          "urdu": "داروغہ/ذمہ دار",
+          "english": "a controller,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "مگر جس نے منہ موڑا اور کفر کیا ۔",
+      "eng": "However, he who turns away and disbelieves -",
+      "words": [
+        {
+          "arabic": "اِلَّا",
+          "urdu": "مگر",
+          "english": "But"
+        },
+        {
+          "arabic": "مَنۡ",
+          "urdu": "وہ جس نے",
+          "english": "whoever"
+        },
+        {
+          "arabic": "تَوَلّٰی",
+          "urdu": "منہ موڑا",
+          "english": "turns away"
+        },
+        {
+          "arabic": "وَکَفَرَ",
+          "urdu": "اور اس نے انکار کیا",
+          "english": "and disbelieves,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "تو اللہ تعالیٰ اُس کو عذاب دے گا ، بہت بڑا عذاب ۔",
+      "eng": "Then Allah will punish him with the greatest punishment.",
+      "words": [
+        {
+          "arabic": "فَیُعَذِّبُہُ",
+          "urdu": "تو عذاب دے گا اسے",
+          "english": "Then will punish him"
+        },
+        {
+          "arabic": "اللّٰہُ",
+          "urdu": "اللہ",
+          "english": "Allah"
+        },
+        {
+          "arabic": "الۡعَذَابَ",
+          "urdu": "عذاب",
+          "english": "(with) the punishment"
+        },
+        {
+          "arabic": "الۡاَکۡبَرَ",
+          "urdu": "سب سے بڑا",
+          "english": "greatest."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "یقیناً اُنہیں ہماری جانب ہی لوٹ کر آنا ہے ۔",
+      "eng": "Indeed, to Us is their return.",
+      "words": [
+        {
+          "arabic": "اِنَّ",
+          "urdu": "بےشک",
+          "english": "Indeed,"
+        },
+        {
+          "arabic": "اِلَیۡنَاۤ",
+          "urdu": "ہماری ہی طرف",
+          "english": "to Us"
+        },
+        {
+          "arabic": "اِیَابَہُمۡ",
+          "urdu": "لوٹنا ہے ان کا",
+          "english": "(will be) their return,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "پھر یقیناً اُن کا حساب بھی ہمارے ہی ذمے ہے ۔",
+      "eng": "Then indeed, upon Us is their account.",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then"
+        },
+        {
+          "arabic": "اِنَّ",
+          "urdu": "بےشک",
+          "english": "Indeed,"
+        },
+        {
+          "arabic": "اِلَیۡنَاۤ",
+          "urdu": "ہمارے ہی ذمہ",
+          "english": "upon Us"
+        },
+        {
+          "arabic": "حِسَابَہُمۡ",
+          "urdu": "حساب ہے ان کا",
+          "english": "(is) their account."
+        }
+      ]
+    }
+  ]
+}

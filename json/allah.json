@@ -1,0 +1,501 @@
+{
+  "allah":[
+    {
+      "name": "اَلرَّحْمٰنُ",
+      "urdu": "بے پایاں رحم کرنے والا",
+      "english": "The Beneficent"
+    },
+    {
+      "name": "اَلرَّحِیْمُ",
+      "urdu": "بڑا رحم کرنے والا",
+      "english": "The Merciful"
+    },
+    {
+      "name": "اَلْمَلِکُ",
+      "urdu": "حاکم کائنات",
+      "english": "The Sovereign Lord"
+    },
+    {
+      "name": "اَلْقُدُّوْسُ",
+      "urdu": "پاک",
+      "english": "The Holy"
+    },
+    {
+      "name": "اَلسَّلَامُ",
+      "urdu": "امن و سلامتی کا سر چشمہ",
+      "english": "The Source of Peace"
+    },
+    {
+      "name": "اَلمُؤْمِنُ",
+      "urdu": "آفات و وعذاب سے امن و امان رکھنے والا",
+      "english": "The Guardian of Faith"
+    },
+    {
+      "name": "اَلْمُھَیْمِنُ",
+      "urdu": "حفاظت کرنے والا",
+      "english": "The Protector"
+    },
+    {
+      "name": "اَلْعَزِیْزُ",
+      "urdu": "بڑے اقتدار والا",
+      "english": "The Mighty"
+    },
+    {
+      "name": "اَلْجَبَّارُ",
+      "urdu": "زبردست غلبہ رکھنے والا",
+      "english": "The Compeller"
+    },
+    {
+      "name": "اَلْمُتَکَبِّرُ",
+      "urdu": "عظمت و کبریائی کا سر چشمہ",
+      "english": "The Majestic"
+    },
+    {
+      "name": "اَلْخَالِقُ",
+      "urdu": "وجود بخشنے والا، پیدا کرنے والا",
+      "english": "The Creator"
+    },
+    {
+      "name": "اَلْبَارِیُ",
+      "urdu": "ہر چیز کو عدم سے وجود میں لانے والا",
+      "english": "The Evolver"
+    },
+    {
+      "name": "اَلْمُصَوِّرُ",
+      "urdu": "مخلوقات کی صورت گری کرنے والا",
+      "english": "The Fashioner"
+    },
+    {
+      "name": "اَلْغَفَّارُ",
+      "urdu": "بڑا درگزر کرنے والا",
+      "english": "The Forgiver"
+    },
+    {
+      "name": "اَلْقَہَّارُ",
+      "urdu": "اپنی مخلوق پر کامل غلبہ اور اختیار رکھنے والا",
+      "english": "The Subduer"
+    },
+    {
+      "name": "اَلْوَھَابُ",
+      "urdu": "بے غرض بخشش اور سخاوت کرنے والا",
+      "english": "The Bestower"
+    },
+    {
+      "name": "اَلرَّزَّاقُ",
+      "urdu": "حاجت روا",
+      "english": "The Provider"
+    },
+    {
+      "name": "اَلْفَّتَّاحُ",
+      "urdu": "مشکلوں کو حل کرنے والا",
+      "english": "The Opener"
+    },
+    {
+      "name": "اَلْعَلِیْمُ",
+      "urdu": "ہر چیز جاننے والا",
+      "english": "The All-Knowing"
+    },
+    {
+      "name": "اَلْقَابِضُ",
+      "urdu": "ہر شے پر قبضہ رکھنے والا",
+      "english": "The Constrictor"
+    },
+    {
+      "name": "اَلْبَاسِطُ",
+      "urdu": "وسعت دینے والا",
+      "english": "The Expander"
+    },
+    {
+      "name": "اَلْخَافِضُ",
+      "urdu": "پست کرنے والا",
+      "english": "The Abaser"
+    },
+    {
+      "name": "اَلرَّافِعُ",
+      "urdu": "وہ جو بلندیاں عطا کرتا ہے",
+      "english": "The Exalter"
+    },
+    {
+      "name": "اَلْمُعِزُّ",
+      "urdu": "عزت دینے والا",
+      "english": "The Honorer"
+    },
+    {
+      "name": "اَلْمُذِلُّ",
+      "urdu": "ذلت سینے والا",
+      "english": "The Dishonorer"
+    },
+    {
+      "name": "اَلسَّمِیْعُ",
+      "urdu": "بندوں کی سننے والا",
+      "english": "The All-Hearing"
+    },
+    {
+      "name": "اَلْبَصِیْرُ",
+      "urdu": "ہر چیز کو دیکھنے والا",
+      "english": "The All-Seeing"
+    },
+    {
+      "name": "اَلْحَکَمُ",
+      "urdu": "انصاف کرنے والا",
+      "english": "The Judge"
+    },
+    {
+      "name": "اَلْعَدَلُ",
+      "urdu": "عدل کرنے والا",
+      "english": "The Just"
+    },
+    {
+      "name": "اَلَّطِیْفُ",
+      "urdu": "بڑا لطیف و کرم کرنے والا",
+      "english": "The Subtle One"
+    },
+    {
+      "name": "اَلْخَبِیْرُ",
+      "urdu": "باخبر اور آگاہ",
+      "english": "The Aware"
+    },
+    {
+      "name": "اَلْحَلِیْمُ",
+      "urdu": "بڑا بردبار اور برداشت کرنے والا",
+      "english": "The Forbearing One"
+    },
+    {
+      "name": "اَلْعَظْیْمُ",
+      "urdu": "بڑی بزرگی والا",
+      "english": "The Great One"
+    },
+    {
+      "name": "اَلٌغَفُوٌرُ",
+      "urdu": "بڑآ بخشش کرنے والا",
+      "english": "The All-Forgiving"
+    },
+    {
+      "name": "اَلشَّکُوْرُ",
+      "urdu": "بڑا قدر کرنے والا",
+      "english": "The Appreciative"
+    },
+    {
+      "name": "اَلْعَلِیُّ",
+      "urdu": "بڑی بلندیوں والا",
+      "english": "The Most High"
+    },
+    {
+      "name": "اَلْکَبِیْرُ",
+      "urdu": "بہت بڑا",
+      "english": "The Most Great"
+    },
+    {
+      "name": "اَلْحَفِیْظُ",
+      "urdu": "سب کا محافظ، حفاظ تکرنے والا",
+      "english": "The Preserver"
+    },
+    {
+      "name": "اَلْمُقِیْتُ",
+      "urdu": "ب کو روزی اور توانائی دینے والا",
+      "english": "The Maintainer"
+    },
+    {
+      "name": "اَلْحَسِیْبُ",
+      "urdu": "بڑا شمار کنندہ",
+      "english": "The Reckoner"
+    },
+    {
+      "name": "اَلْجَلِیْلُ",
+      "urdu": "بلند مرتبے والا",
+      "english": "The Sublime One"
+    },
+    {
+      "name": "اَلْکَرِیْمُ",
+      "urdu": "بڑا کرم کرنے والا",
+      "english": "The Generous One"
+    },
+    {
+      "name": "اَلرَّقِیْبُ",
+      "urdu": "بڑا نگہبان",
+      "english": "The Watchful"
+    },
+    {
+      "name": "اَلْمُجِیْبُ",
+      "urdu": "دعائیں قبول کرنے والا",
+      "english": "The Responsive"
+    },
+    {
+      "name": "اَلْوَاسِعُ",
+      "urdu": "بڑی وسعت والا",
+      "english": "The All-Embracing"
+    },
+    {
+      "name": "اَلْحَکِیْمُ",
+      "urdu": "بڑی حکمت والا",
+      "english": "The Wise"
+    },
+    {
+      "name": "اَلْوَدُوْدُ",
+      "urdu": "بڑا محبت کرنے والا",
+      "english": "The Loving"
+    },
+    {
+      "name": "اَلْمَجِیْدُ",
+      "urdu": "بڑی بزرگی والا",
+      "english": "The Most Glorious One"
+    },
+    {
+      "name": "اَلْبَاعِثُ",
+      "urdu": "مردوں کو زندہ کرنے والا",
+      "english": "The Resurrector"
+    },
+    {
+      "name": "اَلشَّہِیْدُ",
+      "urdu": "حاضر و ناظر",
+      "english": "The Witness"
+    },
+    {
+      "name": "اَلْحَقُّ",
+      "urdu": "برحق و برقرار",
+      "english": "The Truth"
+    },
+    {
+      "name": "اَلْوَکِیْلُ",
+      "urdu": "بڑا کار ساز",
+      "english": "The Trustee"
+    },
+    {
+      "name": "اَلْقَوِیُّ",
+      "urdu": "بڑی طاقت و قوت والا",
+      "english": "The Most Strong"
+    },
+    {
+      "name": "اَلْمَتِیْنُ",
+      "urdu": "انتہائی مضبوط و مستحکم",
+      "english": "The Firm One"
+    },
+    {
+      "name": "اَلْوَلِیُّ",
+      "urdu": "مدد گار اور حمایتی",
+      "english": "The Protecting Friend"
+    },
+    {
+      "name": "اَلْحَمِیْدُ",
+      "urdu": "تعریف کے لائق",
+      "english": "The praiseworthy"
+    },
+    {
+      "name": "اَلْمُحْصِیُّ",
+      "urdu": "اپنے علم اور شمار میں رکھنے والا",
+      "english": "The Reckoner"
+    },
+    {
+      "name": "اَلْمُبْدِیُّ",
+      "urdu": "پہلی بار پیدا کرنے والا",
+      "english": "The Originator"
+    },
+    {
+      "name": "اَلْمُعِیٌدُ",
+      "urdu": "دوبارہ پیدا کرنے والا",
+      "english": "The Restorer"
+    },
+    {
+      "name": "اَلْمُحْیِ",
+      "urdu": "زندگی دینے والا",
+      "english": "The Giver of Life"
+    },
+    {
+      "name": "اَلْمُمِیْتُ",
+      "urdu": "موت دینے والا",
+      "english": "The Creator of Death"
+    },
+    {
+      "name": "اَلْحَیُّ",
+      "urdu": "ہمیشہ ہمیشہ زندہ رہنے والا",
+      "english": "The Alive"
+    },
+    {
+      "name": "اَلْقَیُّوْمُ",
+      "urdu": "قائم رکھنے اور سنبھالنے والا",
+      "english": "The Self-subsisting"
+    },
+    {
+      "name": "اَلْوَاجِدُ",
+      "urdu": "ہر چیز کا پانے والا",
+      "english": "The Finder"
+    },
+    {
+      "name": "اَلْمَاجِدُ",
+      "urdu": "بزرگی اور بڑائی والا",
+      "english": "The Noble"
+    },
+    {
+      "name": "اَلٌوَاحِدُ",
+      "urdu": "بے مثال، اکیلا",
+      "english": "The Unique"
+    },
+    {
+      "name": "اَلْاَحَدُ",
+      "urdu": "اکیلا",
+      "english": "The One"
+    },
+    {
+      "name": "اَلصَّمَدُ",
+      "urdu": "بے نیاز جو کسی کام کا محتاج نہیں",
+      "english": "The Eternal"
+    },
+    {
+      "name": "اَلْقَادِرُ",
+      "urdu": "بڑی قدرت والا",
+      "english": "The Able"
+    },
+    {
+      "name": "اَلْمُقْتَدِرُ",
+      "urdu": "بڑی قدرت والا",
+      "english": "The Powerful"
+    },
+    {
+      "name": "اَلْمُقَدِّمُ",
+      "urdu": "آگے بڑھانے والا",
+      "english": "The Expeditor"
+    },
+    {
+      "name": "اَلْمُؤّخِّرُ",
+      "urdu": "پیچھے رکھنے والا",
+      "english": "The Delayer"
+    },
+    {
+      "name": "اَلْاَوَّلُ",
+      "urdu": "سب سے پہلے",
+      "english": "The First"
+    },
+    {
+      "name": "اَلآخِرُ",
+      "urdu": "سب کے بعد",
+      "english": "The Last"
+    },
+    {
+      "name": "اَلضَّاھِرُ",
+      "urdu": "ظاہر و آشکار",
+      "english": "The Manifest"
+    },
+    {
+      "name": "اَلْبَاطِنُ",
+      "urdu": "پوشیدہ و نہاں",
+      "english": "The Hidden"
+    },
+    {
+      "name": "اَلْوَالِیُ",
+      "urdu": "سر پرست، متصرف",
+      "english": "The Governor"
+    },
+    {
+      "name": "اَلْمُتَعَالُ",
+      "urdu": "سب سے بلند و برتر",
+      "english": "The Most Exalted"
+    },
+    {
+      "name": "اَلْبَرُّ",
+      "urdu": "تمام اچھائیوں کا سر چشمہ",
+      "english": "The Source of All Goodness"
+    },
+    {
+      "name": "اَلتَّوَّابُ",
+      "urdu": "توبہ قبول کرنے والا",
+      "english": "The Acceptor of Repentance"
+    },
+    {
+      "name": "اَلْمُنْتَقِمُ",
+      "urdu": "بدلہ لینے والا",
+      "english": "The Avenger"
+    },
+    {
+      "name": "اَلْعَفُؤُّ",
+      "urdu": "معاف کرنے والا",
+      "english": "The Pardoner"
+    },
+    {
+      "name": "اَلرَّءُوْفُ",
+      "urdu": "بڑا مشفق و مہربان",
+      "english": "The Compassionate"
+    },
+    {
+      "name": "مَالِکُ الْمُلْکِ",
+      "urdu": "ملکوں کا مالک",
+      "english": "The Eternal Owner of Sovereignty"
+    },
+    {
+      "name": "ذُولْجَلَالِ وَالْاِکْرَام",
+      "urdu": "عظمت و جلال  اور انعام و اکرام والا",
+      "english": "The Lord of Majesty and Bounty"
+    },
+    {
+      "name": "اَلْمُقْسِطُ",
+      "urdu": "عدل و انصاف قائم رکھنے والا",
+      "english": "The Equitable"
+    },
+    {
+      "name": "اَلْجَامِعُ",
+      "urdu": "جمع کرنے والا",
+      "english": "The Gatherer"
+    },
+    {
+      "name": "اَلْغَنِیُّ",
+      "urdu": "خود کفیل و بےپرواہ",
+      "english": "The Self-Sufficient"
+    },
+    {
+      "name": "اَلْمُغْنِیُّ",
+      "urdu": "توانگر بنانے والا",
+      "english": "The Enricher"
+    },
+    {
+      "name": "اَلْمَانِعُ",
+      "urdu": "روکنے والا",
+      "english": "The Preventer"
+    },
+    {
+      "name": "اَلنَّافِعُ",
+      "urdu": "نفع پہنچانے والا",
+      "english": "The Propitious"
+    },
+    {
+      "name": "اَلضَّارُّ",
+      "urdu": "ضرر پہنچانے والا",
+      "english": "The Distresser"
+    },
+    {
+      "name": "اَلنُّوْرُ",
+      "urdu": "نو راور انوار بخشنے والا",
+      "english": "The Light"
+    },
+    {
+      "name": "اَلْھَادِیُ",
+      "urdu": "سیدھی راہ دکھانے والا",
+      "english": "The Guide"
+    },
+    {
+      "name": "اَلْبَدِیْعُ",
+      "urdu": "بے مثال چیزوں کا پیدا کرنے والا",
+      "english": "The Incomparable"
+    },
+    {
+      "name": "اَلْبَاقِیْ",
+      "urdu": "ہمیشہ باقی رہنے والا",
+      "english": "The Everlasting"
+    },
+    {
+      "name": "اَلْوَارِثُ",
+      "urdu": "سب کے بعد موجود رہنے والا",
+      "english": "The Supreme Inheritor"
+    },
+    {
+      "name": "اَلرَّشِیْدُ",
+      "urdu": "صحیح راہ پر چلانے والا",
+      "english": "The Guide to the Right path"
+    },
+    {
+      "name": "اَلصَّبُوْرُ",
+      "urdu": "بڑے صبر و تحمل والا",
+      "english": "The Patient"
+    }
+  ]}
+
+
+

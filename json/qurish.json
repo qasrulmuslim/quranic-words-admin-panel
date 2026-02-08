@@ -1,0 +1,107 @@
+{
+    "qurish": [
+        {
+            "ayat": 2,
+            "ur": "قریش کے دل میں محبت ڈالنے کی وجہ سے۔",
+            "eng": "For the accustomed security of the Quraysh -",
+            "words": [
+                {
+                    "arabic": "لِاِیۡلٰفِ",
+                    "urdu": "دل میں محبت ڈالنے کی وجہ سے",
+                    "english": "For (the) familiarity"
+                },
+                {
+                    "arabic": "قُرَیۡشٍ",
+                    "urdu": "قریش کے",
+                    "english": "(of the) Quraish,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "ان کے دل میں سردی اور گرمی کے سفر کی محبت ڈالنے کی وجہ سے۔",
+            "eng": "Their accustomed security [in] the caravan of winter and summer -",
+            "words": [
+                {
+                    "arabic": "اٖلٰفِہِمۡ",
+                    "urdu": "ان کے دل میں محبت ڈالنے کی وجہ سے",
+                    "english": "Their familiarity"
+                },
+                {
+                    "arabic": "رِحۡلَۃَ",
+                    "urdu": "سفر کی",
+                    "english": "(with the) journey"
+                },
+                {
+                    "arabic": "الشِّتَآءِ",
+                    "urdu": "گرمی کے",
+                    "english": "(of) summer"
+                },
+                {
+                    "arabic": "وَالصَّیۡفِ",
+                    "urdu": "اور سردی کے",
+                    "english": "and winter,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "تو اُن پر لازم ہے کہ اس گھر کے رب کی عبادت کریں۔",
+            "eng": "Let them worship the Lord of this House,",
+            "words": [
+                {
+                    "arabic": "فَلۡیَعۡبُدُوۡا",
+                    "urdu": "توان پر لازم ہے کہ وہ عبادت کریں",
+                    "english": "So let them worship"
+                },
+                {
+                    "arabic": "رَبَّ",
+                    "urdu": "رب کی",
+                    "english": "(the) Lord"
+                },
+                {
+                    "arabic": "ہٰذَا",
+                    "urdu": "اس",
+                    "english": "(of) this"
+                },
+                {
+                    "arabic": "الۡبَیۡتِ",
+                    "urdu": "گھر کے",
+                    "english": "House,"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "جس نے اُنہیں بھوک میں کھانے کو دیا اور اُن کو خوف سے امن دیا۔",
+            "eng": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡۤ",
+                    "urdu": "وہ جس نے",
+                    "english": "The One Who"
+                },
+                {
+                    "arabic": "اَطۡعَمَہُمۡ",
+                    "urdu": "کھانا کھلایا ان کو",
+                    "english": "feeds them"
+                },
+                {
+                    "arabic": "مِّنۡ جُوۡعٍ",
+                    "urdu": "بھوک میں",
+                    "english": "from (against) hunger"
+                },
+                {
+                    "arabic": "وَّاٰمَنَہُمۡ",
+                    "urdu": "اور امن دیا ان کو",
+                    "english": "and gives them security"
+                },
+                {
+                    "arabic": "مِّنۡ خَوۡفٍ",
+                    "urdu": "خوف سے",
+                    "english": "from fear."
+                }
+            ]
+        }
+    ]
+}

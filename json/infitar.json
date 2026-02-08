@@ -1,0 +1,512 @@
+{
+  "infitar": [
+    {
+      "ayat": 3,
+      "ur": "جب آسمان پھٹ جائے گا ۔",
+      "eng": "When the sky breaks apart",
+      "words": [
+        {
+          "arabic": "اِذَا",
+          "urdu": "جب",
+          "english": "When"
+        },
+        {
+          "arabic": "السَّمَآءُ",
+          "urdu": "آسمان",
+          "english": "the Sky"
+        },
+        {
+          "arabic": "انۡفَطَرَتۡ",
+          "urdu": "پھٹ جائے گا",
+          "english": "(is) cleft asunder,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور جب ستارے بکھر جائیں گے ۔",
+      "eng": "And when the stars fall, scattering,",
+      "words": [
+        {
+          "arabic": "وَاِذَا",
+          "urdu": "اور جب",
+          "english": "And When"
+        },
+        {
+          "arabic": "الۡکَوَاکِبُ",
+          "urdu": "ستارے",
+          "english": "the stars"
+        },
+        {
+          "arabic": "انۡتَثَرَتۡ",
+          "urdu": "بکھرجائیں گے",
+          "english": "scatter,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور جب سمندر پھاڑ دیے جائیں گے ۔",
+      "eng": "And when the seas are erupted",
+      "words": [
+        {
+          "arabic": "وَاِذَا",
+          "urdu": "اور جب",
+          "english": "And when"
+        },
+        {
+          "arabic": "الۡبِحَارُ",
+          "urdu": "سمندر",
+          "english": "the seas"
+        },
+        {
+          "arabic": "فُجِّرَتۡ",
+          "urdu": "پھاڑ دیئے جائیں گے",
+          "english": "are made to gush forth,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور جب قبریں اکھیڑ دی جائیں گی ۔",
+      "eng": "And when the [contents of] graves are scattered,",
+      "words": [
+        {
+          "arabic": "وَاِذَا",
+          "urdu": "اور جب",
+          "english": "And when"
+        },
+        {
+          "arabic": "الۡقُبُوۡرُ",
+          "urdu": "قبریں",
+          "english": "the graves"
+        },
+        {
+          "arabic": "بُعۡثِرَتۡ",
+          "urdu": "کھول دی جائیں گی",
+          "english": "are overturned,"
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "ہر شخص جان جائے گا جو اُس نے آگے بھیجا اور جو اُس نے پیچھے چھوڑا ہے ۔",
+      "eng": "A soul will [then] know what it has put forth and kept back.",
+      "words": [
+        {
+          "arabic": "عَلِمَتۡ",
+          "urdu": "جان لے گا",
+          "english": "Will know"
+        },
+        {
+          "arabic": "نَفۡسٌ",
+          "urdu": "ہر نفس",
+          "english": "a soul"
+        },
+        {
+          "arabic": "مَّا",
+          "urdu": "جو",
+          "english": "what"
+        },
+        {
+          "arabic": "قَدَّمَتۡ",
+          "urdu": "اس نے آگے بھیجا",
+          "english": "it has sent forth"
+        },
+        {
+          "arabic": "وَاَخَّرَتۡ",
+          "urdu": "اور اس نے پیچھے چھوڑا",
+          "english": "and left behind."
+        }
+      ]
+    },
+    {
+      "ayat": 6,
+      "ur": "اے انسان ! اپنے رب کریم کے بارے میں تجھے کس چیز نے دھوکے میں ڈال دیا ؟",
+      "eng": "O mankind, what has deceived you concerning your Lord, the Generous,",
+      "words": [
+        {
+          "arabic": "یٰۤاَیُّہَا",
+          "urdu": "اے",
+          "english": "O"
+        },
+        {
+          "arabic": "الۡاِنۡسَانُ",
+          "urdu": "انسان",
+          "english": "Man!"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "کس چیز نے",
+          "english": "what"
+        },
+        {
+          "arabic": "غَرَّکَ",
+          "urdu": "دھوکے میں ڈالا تجھے",
+          "english": "has decieved you"
+        },
+        {
+          "arabic": "بِرَبِّکَ",
+          "urdu": "تیرے رب کے بارے میں",
+          "english": "concerning Your Lord"
+        },
+        {
+          "arabic": "الۡکَرِیۡمِ",
+          "urdu": "جو بہت عزت والا ہے",
+          "english": "the Most Noble"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "جس نے تجھے پیدا کیا ۔ پھر تجھے درست بنایا ، پھر تجھے برابر کیا ۔",
+      "eng": "Who created you, proportioned you, and balanced you?",
+      "words": [
+        {
+          "arabic": "الَّذِیۡ",
+          "urdu": "وہ جس نے",
+          "english": "Who"
+        },
+        {
+          "arabic": "خَلَقَکَ",
+          "urdu": "پیدا کیا تجھے",
+          "english": "created you"
+        },
+        {
+          "arabic": "فَسَوّٰىکَ",
+          "urdu": "پھر اس نے درست کیا تجھے",
+          "english": "then fashioned you"
+        },
+        {
+          "arabic": "فَعَدَلَکَ",
+          "urdu": "پھر اس نے برابر کیا تجھے",
+          "english": "then balanced you?"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "جس صورت میں اُس نے چاہا تجھے جوڑ دیا ۔",
+      "eng": "In whatever form He willed has He assembled you.",
+      "words": [
+        {
+          "arabic": "فِیۡۤ اَیِّ صُوۡرَۃٍ",
+          "urdu": "جس صورت میں",
+          "english": "In whatever form"
+        },
+        {
+          "arabic": "مَّا",
+          "urdu": "جو",
+          "english": "that"
+        },
+        {
+          "arabic": "شَآءَ",
+          "urdu": "اس نے چاہا",
+          "english": "He willed,"
+        },
+        {
+          "arabic": "رَکَّبَکَ",
+          "urdu": "اس نے جوڑ دیا تجھے",
+          "english": "He assembled you."
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "ہرگز نہیں ! بلکہ تم جزا کو جھٹلاتے ہو ۔",
+      "eng": "No! But you deny the Recompense.",
+      "words": [
+        {
+          "arabic": "کَلَّا",
+          "urdu": "ہر گز نہیں",
+          "english": "Nay!"
+        },
+        {
+          "arabic": "بَلۡ",
+          "urdu": "بلکہ",
+          "english": "But"
+        },
+        {
+          "arabic": "تُکَذِّبُوۡنَ",
+          "urdu": "تم جھٹلاتے ہو",
+          "english": "you deny"
+        },
+        {
+          "arabic": "بِالدِّیۡنِ",
+          "urdu": "بدلے(کےدن)کو",
+          "english": "the Judgement."
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "حالانکہ یقیناً تم پر نگہبان مقرر ہیں ۔",
+      "eng": "And indeed, [appointed] over you are keepers,",
+      "words": [
+        {
+          "arabic": "وَاِنَّ",
+          "urdu": "اور بےشک",
+          "english": "And indeed,"
+        },
+        {
+          "arabic": "عَلَیۡکُمۡ",
+          "urdu": "تم پر",
+          "english": "over you"
+        },
+        {
+          "arabic": "لَحٰفِظِیۡنَ",
+          "urdu": "یقیناً نگران ہیں",
+          "english": "(are) surely guardians."
+        }
+      ]
+    },
+    {
+      "ayat": 2,
+      "ur": "معزز لکھنے والے ۔",
+      "eng": "Noble and recording;",
+      "words": [
+        {
+          "arabic": "کِرَامًا",
+          "urdu": "جو معزز",
+          "english": "Noble"
+        },
+        {
+          "arabic": "کَاتِبِیۡنَ",
+          "urdu": "لکھنے والے ہیں",
+          "english": "recording,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "وہ جانتے ہیں جو کچھ تم کرتے ہو ۔",
+      "eng": "They know whatever you do.",
+      "words": [
+        {
+          "arabic": "یَعۡلَمُوۡنَ",
+          "urdu": "وہ جانتے ہیں",
+          "english": "They know"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "جو کچھ",
+          "english": "whatever"
+        },
+        {
+          "arabic": "تَفۡعَلُوۡنَ",
+          "urdu": "تم کرتے ہو",
+          "english": "you do"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "یقیناً نیک لوگ بلاشبہ نعمتوں میں ہوں گے ۔",
+      "eng": "Indeed, the righteous will be in pleasure,",
+      "words": [
+        {
+          "arabic": "اِنَّ",
+          "urdu": "",
+          "english": "Indeed,"
+        },
+        {
+          "arabic": "الۡاَبۡرَارَ",
+          "urdu": "",
+          "english": "the righteous"
+        },
+        {
+          "arabic": "لَفِیۡ نَعِیۡمٍ",
+          "urdu": "",
+          "english": "(will be) surely in bliss,"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "اور یقیناً گناہ گار بلاشبہ دوزخ میں ہوں گے ۔",
+      "eng": "And indeed, the wicked will be in Hellfire.",
+      "words": [
+        {
+          "arabic": "وَاِنَّ",
+          "urdu": "اور بےشک",
+          "english": "And indeed"
+        },
+        {
+          "arabic": "الۡفُجَّارَ",
+          "urdu": "بدکار لوگ",
+          "english": "the wicked"
+        },
+        {
+          "arabic": "لَفِیۡ جَحِیۡمٍ",
+          "urdu": "یقیناً جہنم میں ہوں گے",
+          "english": "(will be) surely in Hell fire"
+        }
+      ]
+    },
+    {
+      "ayat": 3,
+      "ur": "جزا کے دن وہ اُس میں داخل ہوں گے ۔",
+      "eng": "They will [enter to] burn therein on the Day of Recompense,",
+      "words": [
+        {
+          "arabic": "یَّصۡلَوۡنَہَا",
+          "urdu": "وہ جلیں گے اس میں",
+          "english": "They will burn (in) it"
+        },
+        {
+          "arabic": "یَوۡمَ",
+          "urdu": "دن",
+          "english": "(on the) Day"
+        },
+        {
+          "arabic": "الدِّیۡنِ",
+          "urdu": "بدلے کے",
+          "english": "(of) the Judgement,"
+        }
+      ]
+    },
+    {
+      "ayat": 4,
+      "ur": "اور وہ اُس سے ہرگز غائب ہونے والے نہیں ہوں گے ۔",
+      "eng": "And never therefrom will they be absent.",
+      "words": [
+        {
+          "arabic": "وَمَا",
+          "urdu": "اور نہیں",
+          "english": "And not"
+        },
+        {
+          "arabic": "ہُمۡ",
+          "urdu": "وہ",
+          "english": "they"
+        },
+        {
+          "arabic": "عَنۡہَا",
+          "urdu": "اس سے",
+          "english": "from it"
+        },
+        {
+          "arabic": "بِغَآئِبِیۡنَ",
+          "urdu": "کبھی غائب ہونے والے",
+          "english": "(will be) absent."
+        }
+      ]
+    },
+    {
+      "ayat": 5,
+      "ur": "اور تم کیا جانو کہ جزا کا دن کیا ہے ؟",
+      "eng": "And what can make you know what is the Day of Recompense",
+      "words": [
+        {
+          "arabic": "وَمَا",
+          "urdu": "اور کیا چیز",
+          "english": "And what"
+        },
+        {
+          "arabic": "اَدۡرٰىکَ",
+          "urdu": "بتائے آپ کو",
+          "english": "can make you know"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "کیا ہے",
+          "english": "what"
+        },
+        {
+          "arabic": "یَوۡمُ",
+          "urdu": "دن",
+          "english": "(is the) Day"
+        },
+        {
+          "arabic": "الدِّیۡنِ",
+          "urdu": "بدلے کا",
+          "english": "(of) the Judgement"
+        }
+      ]
+    },
+    {
+      "ayat": 6,
+      "ur": "پھر تم کیا جانو کہ وہ جزا کا دن کیا ہے ؟",
+      "eng": "Then, what can make you know what is the Day of Recompense?",
+      "words": [
+        {
+          "arabic": "ثُمَّ",
+          "urdu": "پھر",
+          "english": "Then,"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "کیا چیز",
+          "english": "what"
+        },
+        {
+          "arabic": "اَدۡرٰىکَ",
+          "urdu": "بتائے آپ کو",
+          "english": "can make you know"
+        },
+        {
+          "arabic": "مَا",
+          "urdu": "کیا ہے",
+          "english": "what"
+        },
+        {
+          "arabic": "یَوۡمُ",
+          "urdu": "دن",
+          "english": "(is the) Day"
+        },
+        {
+          "arabic": "الدِّیۡنِ",
+          "urdu": "بدلے کا",
+          "english": "(of) the Judgement"
+        }
+      ]
+    },
+    {
+      "ayat": 8,
+      "ur": "جس دن کسی جان کو کسی جان کے لیے کوئی اختیار نہ ہو گا اور اُس دن حکم صرف اللہ تعالیٰ ہی کا ہو گا ۔",
+      "eng": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah .",
+      "words": [
+        {
+          "arabic": "یَوۡمَ",
+          "urdu": "جس دن",
+          "english": "(The) Day"
+        },
+        {
+          "arabic": "لَاتَمۡلِکُ",
+          "urdu": "نہ مالک ہو گا",
+          "english": "not will have power"
+        },
+        {
+          "arabic": "نَفۡسٌ",
+          "urdu": "کوئی نفس",
+          "english": "a soul"
+        },
+        {
+          "arabic": "لِّنَفۡسٍ",
+          "urdu": "کسی نفس کے لئے",
+          "english": "for a soul"
+        },
+        {
+          "arabic": "شَیۡئًا",
+          "urdu": "کچھ بھی",
+          "english": "anything,"
+        },
+        {
+          "arabic": "وَالۡاَمۡرُ",
+          "urdu": "اور حکم",
+          "english": "and the Command"
+        },
+        {
+          "arabic": "یَوۡمَئِذٍ",
+          "urdu": "اس دن",
+          "english": "that day"
+        },
+        {
+          "arabic": "لِّلّٰہِ",
+          "urdu": "اللہ ہی کا ہو گا",
+          "english": "(will be) with Allah."
+        }
+      ]
+    }
+  ]
+}

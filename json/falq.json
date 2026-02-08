@@ -1,0 +1,129 @@
+{
+    "falq": [
+        {
+            "ayat": 4,
+            "ur": "کہہ دیجیے کہ میں صبح کے رب کی پناہ لیتا ہوں۔",
+            "eng": "Say, \"I seek refuge in the Lord of dawn.",
+            "words": [
+                {
+                    "arabic": "قُلۡ",
+                    "urdu": "کہہ دیجئے",
+                    "english": "Say,"
+                },
+                {
+                    "arabic": "اَعُوۡذُ",
+                    "urdu": "میں پناہ لیتا ہوں",
+                    "english": "I seek refuge"
+                },
+                {
+                    "arabic": "بِرَبِّ",
+                    "urdu": "رب کی",
+                    "english": "in (the) Lord"
+                },
+                {
+                    "arabic": "الۡفَلَقِ",
+                    "urdu": "صبح کے",
+                    "english": "(of) the dawn,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "ہر اس چیز کے شر سے جو اُس نے پیدا کی۔",
+            "eng": "From the evil of that which He created.",
+            "words": [
+                {
+                    "arabic": "مِنۡ شَرِّ",
+                    "urdu": "ہر اس چیز کے شر سے",
+                    "english": "From (the) evil"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "جو",
+                    "english": "(of) what"
+                },
+                {
+                    "arabic": "خَلَقَ",
+                    "urdu": "اس نے پیدا کی",
+                    "english": "He created,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور اندھیری رات کے شر سے جب کہ وہ پھیل جائے۔",
+            "eng": "And from the evil of darkness when it spreads.",
+            "words": [
+                {
+                    "arabic": "وَمِنۡ شَرِّ",
+                    "urdu": "اور شر سے",
+                    "english": "And from (the) evil"
+                },
+                {
+                    "arabic": "غَاسِقٍ",
+                    "urdu": "اندھیری رات کے",
+                    "english": "(of) darkness"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "وَقَبَ",
+                    "urdu": "وہ پھیل جائے",
+                    "english": "it spreads"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور گرہوں میں پھونک مارنے والیوں کے شر سے۔",
+            "eng": "And from the evil of the blowers in knots.",
+            "words": [
+                {
+                    "arabic": "وَمِنۡ شَرِّ",
+                    "urdu": "اور شر سے",
+                    "english": "And from (the) evil"
+                },
+                {
+                    "arabic": "النَّفّٰثٰتِ",
+                    "urdu": "پھونکنے والیوں کے",
+                    "english": "(of) the blowers"
+                },
+                {
+                    "arabic": "فِی الۡعُقَدِ",
+                    "urdu": "گرہوں میں",
+                    "english": "in the knots,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور حاسد کے شر سے جب وہ حسد کرے۔",
+            "eng": "And from the evil of an envier when he envies.",
+            "words": [
+                {
+                    "arabic": "وَمِنۡ شَرِّ",
+                    "urdu": "اور شر سے",
+                    "english": "And from (the) evil"
+                },
+                {
+                    "arabic": "حَاسِدٍ",
+                    "urdu": "حاسد کے",
+                    "english": "(of) an envier"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "حَسَدَ",
+                    "urdu": "وہ حسد کرے",
+                    "english": "he envies."
+                }
+            ]
+        }
+    ]
+}

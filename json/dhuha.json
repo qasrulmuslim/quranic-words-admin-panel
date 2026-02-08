@@ -1,0 +1,271 @@
+{
+    "dhuha": [
+        {
+            "ayat": 1,
+            "ur": "قسم ہے دھوپ نکلنے کے وقت کی !",
+            "eng": "By the morning brightness",
+            "words": [
+                {
+                    "arabic": "وَالضُّحٰی",
+                    "urdu": "قسم ہے چاشت کی",
+                    "english": "By the morning brightness,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور رات کی جب وہ چھا جائے !",
+            "eng": "And [by] the night when it covers with darkness,",
+            "words": [
+                {
+                    "arabic": "وَالَّیۡلِ",
+                    "urdu": "اور رات کی",
+                    "english": "And the night"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "سَجٰی",
+                    "urdu": "وہ چھا جائے",
+                    "english": "it covers with darkness,"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "آپ کے رب نے آپ کو نہ چھوڑا ہے اور نہ وہ ناراض ہوا ہے ۔",
+            "eng": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+            "words": [
+                {
+                    "arabic": "مَا",
+                    "urdu": "نہیں",
+                    "english": "Not"
+                },
+                {
+                    "arabic": "وَدَّعَکَ",
+                    "urdu": "چھوڑا آپ کو",
+                    "english": "has forsaken you"
+                },
+                {
+                    "arabic": "رَبُّکَ",
+                    "urdu": "آپ کے رب نے",
+                    "english": "your Lord"
+                },
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور نہ",
+                    "english": "and not"
+                },
+                {
+                    "arabic": "قَلٰی",
+                    "urdu": "وہ ناراض ہوا",
+                    "english": "He is displeased,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور یقیناً آپ کے لیے آخرت دنیا سے بہت بہتر ہے ۔",
+            "eng": "And the Hereafter is better for you than the first [life].",
+            "words": [
+                {
+                    "arabic": "وَلَلۡاٰخِرَۃُ",
+                    "urdu": "اور یقیناً آخرت",
+                    "english": "And surely the Hereafter"
+                },
+                {
+                    "arabic": "خَیۡرٌ",
+                    "urdu": "بہتر ہے",
+                    "english": "(is) better"
+                },
+                {
+                    "arabic": "لَّکَ",
+                    "urdu": "آپ کے لیے",
+                    "english": "for you"
+                },
+                {
+                    "arabic": "مِنَ الۡاُوۡلٰی",
+                    "urdu": "پہلی(دنیا)سے",
+                    "english": "than the first."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور جلد ہی آپ کا رب آپ کو اتنا دے گا کہ آپ خوش ہو جائیں گے ۔",
+            "eng": "And your Lord is going to give you, and you will be satisfied.",
+            "words": [
+                {
+                    "arabic": "وَلَسَوۡفَ",
+                    "urdu": "اور یقیناً عنقریب",
+                    "english": "And soon"
+                },
+                {
+                    "arabic": "یُعۡطِیۡکَ",
+                    "urdu": "عطا کرے گا آپ کو",
+                    "english": "will give you"
+                },
+                {
+                    "arabic": "رَبُّکَ",
+                    "urdu": "رب آپ کا",
+                    "english": "your Lord"
+                },
+                {
+                    "arabic": "فَتَرۡضٰی",
+                    "urdu": "تو آپ راضی ہو جائیں گے",
+                    "english": "then you will be satisfied."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کیا اُس نے آپ کو یتیم نہیں پایا تو اس نے ٹھکانہ دیا ۔",
+            "eng": "Did He not find you an orphan and give [you] refuge?",
+            "words": [
+                {
+                    "arabic": "اَلَمۡ",
+                    "urdu": "کیا نہیں",
+                    "english": "Did not"
+                },
+                {
+                    "arabic": "یَجِدۡکَ",
+                    "urdu": "اس نے پایا آپ کو",
+                    "english": "He find you"
+                },
+                {
+                    "arabic": "یَتِیۡمًا",
+                    "urdu": "یتیم",
+                    "english": "an orphan"
+                },
+                {
+                    "arabic": "فَاٰوٰی",
+                    "urdu": "پھر اس نے ٹھکانہ فراہم کیا",
+                    "english": "and gave shelter?"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور اس نے آپ کو بے خبر پایا ، تو ہدایت دی ؟",
+            "eng": "And He found you lost and guided [you],",
+            "words": [
+                {
+                    "arabic": "وَوَجَدَکَ",
+                    "urdu": "اور اس  نے پایا آپ کو",
+                    "english": "And He found you"
+                },
+                {
+                    "arabic": "ضَآلًّا",
+                    "urdu": "راہ بھولا",
+                    "english": "lost,"
+                },
+                {
+                    "arabic": "فَہَدٰی",
+                    "urdu": "تو اس نے راہ نمائی کی",
+                    "english": "so He guided,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور آپ کو مال سے محروم پایا تو مال دار کر دیا ؟",
+            "eng": "And He found you poor and made [you] self-sufficient.",
+            "words": [
+                {
+                    "arabic": "وَوَجَدَکَ",
+                    "urdu": "اور اس نے پایا آپ کو",
+                    "english": "And He found you"
+                },
+                {
+                    "arabic": "عَآئِلًا",
+                    "urdu": "تنگ دست",
+                    "english": "in need,"
+                },
+                {
+                    "arabic": "فَاَغۡنٰی",
+                    "urdu": "تو اس نے غنی کردیا",
+                    "english": "so He made self-sufficient."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "چنانچہ تم یتیم پر سختی نہ کرو ۔",
+            "eng": "So as for the orphan, do not oppress [him].",
+            "words": [
+                {
+                    "arabic": "فَاَمَّا",
+                    "urdu": "تو رہا",
+                    "english": "So as for"
+                },
+                {
+                    "arabic": "الۡیَتِیۡمَ",
+                    "urdu": "یتیم",
+                    "english": "the orphan,"
+                },
+                {
+                    "arabic": "فَلَا",
+                    "urdu": "پس نہ",
+                    "english": "then (do) not"
+                },
+                {
+                    "arabic": "تَقۡہَرۡ",
+                    "urdu": "آپ سختی کیجیے(اس پر)",
+                    "english": "oppress,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور سائل کو مت جھڑکو ۔",
+            "eng": "And as for the petitioner, do not repel [him].",
+            "words": [
+                {
+                    "arabic": "وَاَمَّا",
+                    "urdu": "اور رہا",
+                    "english": "And as for"
+                },
+                {
+                    "arabic": "السَّآئِلَ",
+                    "urdu": "سوالی",
+                    "english": "one who asks,"
+                },
+                {
+                    "arabic": "فَلَا",
+                    "urdu": "پس نہ",
+                    "english": "then (do) not"
+                },
+                {
+                    "arabic": "تَنۡہَرۡ",
+                    "urdu": "آپ جھڑکیے(اسے)",
+                    "english": "repel,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور رہی رب کی نعمت تو آپ بیان کیا کرو ۔",
+            "eng": "But as for the favor of your Lord, report [it].",
+            "words": [
+                {
+                    "arabic": "وَاَمَّا",
+                    "urdu": "اور لیکن",
+                    "english": "But as for"
+                },
+                {
+                    "arabic": "بِنِعۡمَۃِ رَبِّکَ",
+                    "urdu": "اپنے رب کی نعمت",
+                    "english": "(the) Favor (of) your Lord"
+                },
+                {
+                    "arabic": "فَحَدِّثۡ",
+                    "urdu": "پس بیان کیجیے",
+                    "english": "narrate."
+                }
+            ]
+        }
+    ]
+}

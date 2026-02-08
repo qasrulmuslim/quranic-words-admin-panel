@@ -1,0 +1,496 @@
+{
+    "layl": [
+        {
+            "ayat": 3,
+            "ur": "قسم ہے رات کی جب وہ چھا جائے !",
+            "eng": "By the night when it covers",
+            "words": [
+                {
+                    "arabic": "وَالَّیۡلِ",
+                    "urdu": "قسم ہے رات کی",
+                    "english": "By the night"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "یَغۡشٰی",
+                    "urdu": "وہ چھا جائے",
+                    "english": "it covers,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اور دن کی جب وہ روشن ہو جائے !",
+            "eng": "And [by] the day when it appears",
+            "words": [
+                {
+                    "arabic": "وَالنَّہَارِ",
+                    "urdu": "اور دن کی",
+                    "english": "And the day"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "تَجَلّٰی",
+                    "urdu": "وہ روشن ہو",
+                    "english": "it shines in brightness,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور اُس ذات کی جس نے نر اور مادہ پیدا کیا !",
+            "eng": "And [by] He who created the male and female,",
+            "words": [
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور اس کی",
+                    "english": "And He"
+                },
+                {
+                    "arabic": "خَلَقَ",
+                    "urdu": "جس نے پیدا کیا",
+                    "english": "Who created"
+                },
+                {
+                    "arabic": "الذَّکَرَ",
+                    "urdu": "نر",
+                    "english": "the male"
+                },
+                {
+                    "arabic": "وَالۡاُنۡثٰۤی",
+                    "urdu": "اور مادہ کو",
+                    "english": "and the female,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یقیناً تمہاری کوششیں بلاشبہ الگ الگ ہیں ۔",
+            "eng": "Indeed, your efforts are diverse.",
+            "words": [
+                {
+                    "arabic": "اِنَّ",
+                    "urdu": "بےشک",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "سَعۡیَکُمۡ",
+                    "urdu": "کوشش تمہاری",
+                    "english": "your efforts"
+                },
+                {
+                    "arabic": "لَشَتّٰی",
+                    "urdu": "البتہ مختلف طرح کی ہے",
+                    "english": "(are) surely diverse."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "چنانچہ جس نے دیا اور اللہ تعالیٰ کی نافرمانی سے بچا ۔",
+            "eng": "As for he who gives and fears Allah",
+            "words": [
+                {
+                    "arabic": "فَاَمَّا",
+                    "urdu": "تو رہا وہ",
+                    "english": "Then as for"
+                },
+                {
+                    "arabic": "مَنۡ",
+                    "urdu": "جس نے",
+                    "english": "(him) who"
+                },
+                {
+                    "arabic": "اَعۡطٰی",
+                    "urdu": "دیا",
+                    "english": "gives"
+                },
+                {
+                    "arabic": "وَاتَّقٰی",
+                    "urdu": "اور اس نے تقوی کیا",
+                    "english": "and fears,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اور بھلائی کو سچ مانا ۔",
+            "eng": "And believes in the best [reward],",
+            "words": [
+                {
+                    "arabic": "وَصَدَّقَ",
+                    "urdu": "اور تصدیق کی",
+                    "english": "And believes"
+                },
+                {
+                    "arabic": "بِالۡحُسۡنٰی",
+                    "urdu": "بھلائی کی",
+                    "english": "in the best,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "تو ہم جلد ہی اُس کو آسان راستے کے لیے سہولت دیں گے ۔",
+            "eng": "We will ease him toward ease.",
+            "words": [
+                {
+                    "arabic": "فَسَنُیَسِّرُہٗ",
+                    "urdu": "پس عنقریب ہم آسانی دیں گے اسے",
+                    "english": "Then We will ease him"
+                },
+                {
+                    "arabic": "لِلۡیُسۡرٰی",
+                    "urdu": "آسان(راستے)کی",
+                    "english": "towards the ease."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور لیکن جس نے بخل کیا اور بے پرواہ ہوا ۔",
+            "eng": "But as for he who withholds and considers himself free of need",
+            "words": [
+                {
+                    "arabic": "وَاَمَّا",
+                    "urdu": "اور رہا وہ",
+                    "english": "But as for"
+                },
+                {
+                    "arabic": "مَنۡۢ",
+                    "urdu": "جس نے",
+                    "english": "(him) who"
+                },
+                {
+                    "arabic": "بَخِلَ",
+                    "urdu": "بخل کیا",
+                    "english": "withholds"
+                },
+                {
+                    "arabic": "وَاسۡتَغۡنٰی",
+                    "urdu": "اور اس نے بے پروائی برتی",
+                    "english": "and considers himself free from need,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اور بھلائی کو جھٹلایا ۔",
+            "eng": "And denies the best [reward],",
+            "words": [
+                {
+                    "arabic": "وَکَذَّبَ",
+                    "urdu": "اور اس نے جھٹلایا",
+                    "english": "And denies"
+                },
+                {
+                    "arabic": "بِالۡحُسۡنٰی",
+                    "urdu": "نیکی کو",
+                    "english": "the best,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "تو ہم جلد ہی اُس کو مشکل راستے کے لیے سہولت دیں گے ۔",
+            "eng": "We will ease him toward difficulty.",
+            "words": [
+                {
+                    "arabic": "فَسَنُیَسِّرُہٗ",
+                    "urdu": "پس عنقریب ہم آسانی دیں گے اسے",
+                    "english": "Then We will ease him"
+                },
+                {
+                    "arabic": "لِلۡعُسۡرٰی",
+                    "urdu": "مشکل(راستے)کی",
+                    "english": "towards the difficulty."
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "اور اُس کا مال اُس کے کام نہ آئے گا جب وہ ( جہنم میں ) گرے گا ۔",
+            "eng": "And what will his wealth avail him when he falls?",
+            "words": [
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور نہیں",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "یُغۡنِیۡ",
+                    "urdu": "کام آئے گا",
+                    "english": "will avail"
+                },
+                {
+                    "arabic": "عَنۡہُ",
+                    "urdu": "اسے",
+                    "english": "him"
+                },
+                {
+                    "arabic": "مَالُہٗۤ",
+                    "urdu": "مال اس کا",
+                    "english": "his wealth"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "تَرَدّٰی",
+                    "urdu": "وہ (جہنم میں) گرے گا",
+                    "english": "he falls."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "بلاشبہ ہدایت دینا یقیناً ہمارے ذمے ہے ۔",
+            "eng": "Indeed, [incumbent] upon Us is guidance.",
+            "words": [
+                {
+                    "arabic": "اِنَّ",
+                    "urdu": "بےشک",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "عَلَیۡنَا",
+                    "urdu": "ہمارے ہی ذمہ ہے",
+                    "english": "upon Us"
+                },
+                {
+                    "arabic": "لَلۡہُدٰی",
+                    "urdu": "یقیناً ہدایت دینا",
+                    "english": "(is) the guidance."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "اور یقیناً آخرت اور دنیا ہمارے اختیار میں ہے ۔",
+            "eng": "And indeed, to Us belongs the Hereafter and the first [life].",
+            "words": [
+                {
+                    "arabic": "وَاِنَّ",
+                    "urdu": "اور بےشک",
+                    "english": "And indeed,"
+                },
+                {
+                    "arabic": "لَنَا",
+                    "urdu": "ہماری ہی اختیا ر میں ہے",
+                    "english": "for Us"
+                },
+                {
+                    "arabic": "لَلۡاٰخِرَۃَ",
+                    "urdu": "یقیناً آخرت",
+                    "english": "(is) the Hereafter"
+                },
+                {
+                    "arabic": "وَالۡاُوۡلٰی",
+                    "urdu": "اور پہلی(دنیا)",
+                    "english": "and the first (life)."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "پس میں نے تمہیں شعلہ مارتی آگ سے ڈرا دیا ہے ۔",
+            "eng": "So I have warned you of a Fire which is blazing.",
+            "words": [
+                {
+                    "arabic": "فَاَنۡذَرۡتُکُمۡ",
+                    "urdu": "تو ڈرا دیا میں نے تمہیں",
+                    "english": "So I warn you"
+                },
+                {
+                    "arabic": "نَارًا",
+                    "urdu": "ایک آگ سے",
+                    "english": "(of) a Fire"
+                },
+                {
+                    "arabic": "تَلَظّٰی",
+                    "urdu": "جو بھڑکتی ہے",
+                    "english": "blazing,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "جس میں اُس بڑے بدبخت کے سوا کوئی داخل نہیں ہو گا ۔",
+            "eng": "None will [enter to] burn therein except the most wretched one.",
+            "words": [
+                {
+                    "arabic": "لَایَصۡلٰىہَاۤ",
+                    "urdu": "نہ جلے گا اس میں",
+                    "english": "Not will burn (in) it"
+                },
+                {
+                    "arabic": "اِلَّا",
+                    "urdu": "مگر",
+                    "english": "except"
+                },
+                {
+                    "arabic": "الۡاَشۡقَی",
+                    "urdu": "نہایت بد بخت",
+                    "english": "the most wretched,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "جس نے جھٹلایا اور منہ موڑا ۔",
+            "eng": "Who had denied and turned away.",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جس نے",
+                    "english": "The one who"
+                },
+                {
+                    "arabic": "کَذَّبَ",
+                    "urdu": "جھٹلایا",
+                    "english": "denied"
+                },
+                {
+                    "arabic": "وَتَوَلّٰی",
+                    "urdu": "اور اس نے منہ موڑ لیا",
+                    "english": "and turned away."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اور عنقریب بڑا پرہیزگار اُس سے دُور ہی رکھا جائے گا ۔",
+            "eng": "But the righteous one will avoid it -",
+            "words": [
+                {
+                    "arabic": "وَسَیُجَنَّبُہَا",
+                    "urdu": "اور عنقریب بچالیا جائے گا اس سے",
+                    "english": "But will be removed from it"
+                },
+                {
+                    "arabic": "الۡاَتۡقَی",
+                    "urdu": "نہایت پرہیز گار",
+                    "english": "the righteous,"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "جو اپنا مال دیتا ہے کہ وہ پاک ہو جائے ۔",
+            "eng": "[He] who gives [from] his wealth to purify himself",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جو",
+                    "english": "The one who"
+                },
+                {
+                    "arabic": "یُؤۡتِیۡ",
+                    "urdu": "دیتا ہے",
+                    "english": "gives"
+                },
+                {
+                    "arabic": "مَالَہٗ",
+                    "urdu": "مال اپنا",
+                    "english": "his wealth"
+                },
+                {
+                    "arabic": "یَتَزَکّٰی",
+                    "urdu": "کہ وہ پاک ہو",
+                    "english": "(to) purify himself,"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اور اُس پر کسی کا احسان نہیں جس کا بدلہ دیا جائے ۔",
+            "eng": "And not [giving] for anyone who has [done him] a favor to be rewarded",
+            "words": [
+                {
+                    "arabic": "وَمَا",
+                    "urdu": "اور نہیں",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "لِاَحَدٍ",
+                    "urdu": "کسی ایک کے لیے",
+                    "english": "for anyone"
+                },
+                {
+                    "arabic": "عِنۡدَہٗ",
+                    "urdu": "اس کے پاس",
+                    "english": "with him"
+                },
+                {
+                    "arabic": "مِنۡ نِّعۡمَۃٍ",
+                    "urdu": "کوئی نعمت(احسان)",
+                    "english": "any favor"
+                },
+                {
+                    "arabic": "تُجۡزٰۤی",
+                    "urdu": "جس کا بدلہ دیا جائے گا",
+                    "english": "to be recompensed"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "مگر صرف اپنے رب کی رضا کی تلاش میں جو سب سے بلند ہے ۔",
+            "eng": "But only seeking the countenance of his Lord, Most High.",
+            "words": [
+                {
+                    "arabic": "اِلَّا",
+                    "urdu": "سوائے",
+                    "english": "Except"
+                },
+                {
+                    "arabic": "ابۡتِغَآءَ",
+                    "urdu": "چاہنے کے لیے",
+                    "english": "seeking"
+                },
+                {
+                    "arabic": "وَجۡہِ",
+                    "urdu": "چہرہ",
+                    "english": "(the) Countenance"
+                },
+                {
+                    "arabic": "رَبِّہِ",
+                    "urdu": "اپنے رب کا",
+                    "english": "(of) his Lord,"
+                },
+                {
+                    "arabic": "الۡاَعۡلٰی",
+                    "urdu": "جو سب سے بلند ہے",
+                    "english": "the Most High."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "اور یقیناً بہت جلد وہ خوش ہو جائے گا ۔",
+            "eng": "And he is going to be satisfied.",
+            "words": [
+                {
+                    "arabic": "وَلَسَوۡفَ",
+                    "urdu": "اور یقیناً عنقریب",
+                    "english": "And soon, surely"
+                },
+                {
+                    "arabic": "یَرۡضٰی",
+                    "urdu": "وہ راضی ہو جائے گا",
+                    "english": "he will be pleased."
+                }
+            ]
+        }
+    ]
+}

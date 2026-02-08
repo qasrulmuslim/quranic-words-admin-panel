@@ -1,0 +1,176 @@
+{
+    "kafiron": [
+        {
+            "ayat": 3,
+            "ur": "آپ کہہ دیں کہ اے کافرو!",
+            "eng": "Say, \"O disbelievers,",
+            "words": [
+                {
+                    "arabic": "قُلۡ",
+                    "urdu": "آپ کہہ دیں",
+                    "english": "Say,"
+                },
+                {
+                    "arabic": "یٰۤاَیُّہَا",
+                    "urdu": "اے",
+                    "english": "O"
+                },
+                {
+                    "arabic": "الۡکٰفِرُوۡنَ",
+                    "urdu": "کافرو",
+                    "english": "disbelievers!"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "میں اُن کی عبادت نہیں کرتا جن کی تم عبادت کرتے ہو",
+            "eng": "I do not worship what you worship.",
+            "words": [
+                {
+                    "arabic": "لَاۤ",
+                    "urdu": "نہیں",
+                    "english": "Not"
+                },
+                {
+                    "arabic": "اَعۡبُدُ",
+                    "urdu": "میں عبادت کر تا",
+                    "english": "I worship"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "جن کی",
+                    "english": "what"
+                },
+                {
+                    "arabic": "تَعۡبُدُوۡنَ",
+                    "urdu": "تم عبادت کر تے ہو",
+                    "english": "you worship."
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔",
+            "eng": "Nor will you be worshippers of what I worship.",
+            "words": [
+                {
+                    "arabic": "وَلَاۤ",
+                    "urdu": "اور نہ",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "اَنۡتُمۡ",
+                    "urdu": "تم",
+                    "english": "you"
+                },
+                {
+                    "arabic": "عٰبِدُوۡنَ",
+                    "urdu": "عبادت کر نے والے ہو",
+                    "english": "(are) worshippers"
+                },
+                {
+                    "arabic": "مَاۤ",
+                    "urdu": "جس کی",
+                    "english": "(of) what"
+                },
+                {
+                    "arabic": "اَعۡبُدُ",
+                    "urdu": "میں عبادت کرتا ہو",
+                    "english": "I worship."
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اور نہ میں اُن کی عبادت کرنے والا ہوں جن کی عبادت تم نے کی ہے۔",
+            "eng": "Nor will I be a worshipper of what you worship.",
+            "words": [
+                {
+                    "arabic": "وَلَاۤ",
+                    "urdu": "اور نہ",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "اَنَا",
+                    "urdu": "میں",
+                    "english": "I am"
+                },
+                {
+                    "arabic": "عَابِدٌ",
+                    "urdu": "عبادت کرنے والا ہوں",
+                    "english": "a worshipper"
+                },
+                {
+                    "arabic": "مَّا",
+                    "urdu": "جن کی",
+                    "english": "(of) what"
+                },
+                {
+                    "arabic": "عَبَدۡتُّمۡ",
+                    "urdu": "تم نے عبادت کی ہے",
+                    "english": "you worship."
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں۔",
+            "eng": "Nor will you be worshippers of what I worship.",
+            "words": [
+                {
+                    "arabic": "وَلَاۤ",
+                    "urdu": "اور نہ",
+                    "english": "And not"
+                },
+                {
+                    "arabic": "اَنۡتُمۡ",
+                    "urdu": "تم",
+                    "english": "you"
+                },
+                {
+                    "arabic": "عٰبِدُوۡنَ",
+                    "urdu": "عبادت کر نے والے ہو",
+                    "english": "(are) worshippers"
+                },
+                {
+                    "arabic": "مَاۤ",
+                    "urdu": "جس کی",
+                    "english": "(of) what"
+                },
+                {
+                    "arabic": "اَعۡبُدُ",
+                    "urdu": "میں عبادت کرتا ہو",
+                    "english": "I worship."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "تمہارے لیے تمہارا دین ہے اور میرے لیے میرا دین ہے۔",
+            "eng": "For you is your religion, and for me is my religion.",
+            "words": [
+                {
+                    "arabic": "لَکُمۡ",
+                    "urdu": "تمہارے لیے",
+                    "english": "For you"
+                },
+                {
+                    "arabic": "دِیۡنُکُمۡ",
+                    "urdu": "تمہارا دین ہے",
+                    "english": "(is) your religion,"
+                },
+                {
+                    "arabic": "وَلِیَ",
+                    "urdu": "اور میرے لیے",
+                    "english": "and for me"
+                },
+                {
+                    "arabic": "دِیۡنِ",
+                    "urdu": "میرا دین",
+                    "english": "(is) my religion."
+                }
+            ]
+        }
+    ]
+}

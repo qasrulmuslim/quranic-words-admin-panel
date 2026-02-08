@@ -1,0 +1,477 @@
+{
+    "alaq": [
+        {
+            "ayat": 5,
+            "ur": "آپ پڑھیں اپنے رب کے نام سے جس نے پیدا کیا ۔",
+            "eng": "Recite in the name of your Lord who created -",
+            "words": [
+                {
+                    "arabic": "اِقۡرَاۡ",
+                    "urdu": "پڑھیے",
+                    "english": "Read"
+                },
+                {
+                    "arabic": "بِاسۡمِ",
+                    "urdu": "نام سے",
+                    "english": "in (the) name"
+                },
+                {
+                    "arabic": "رَبِّکَ",
+                    "urdu": "اپنے رب کے",
+                    "english": "(of) your Lord"
+                },
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جس نے",
+                    "english": "the One Who"
+                },
+                {
+                    "arabic": "خَلَقَ",
+                    "urdu": "پیدا کیا",
+                    "english": "created -"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "اُس نے انسان کو خون کے لوتھڑے سے پیدا کیا ۔",
+            "eng": "Created man from a clinging substance.",
+            "words": [
+                {
+                    "arabic": "خَلَقَ",
+                    "urdu": "اس نے پیدا کیا",
+                    "english": "He created"
+                },
+                {
+                    "arabic": "الۡاِنۡسَانَ",
+                    "urdu": "انسان کو",
+                    "english": "man"
+                },
+                {
+                    "arabic": "مِنۡ عَلَقٍ",
+                    "urdu": "جمے ہوئے خون سے",
+                    "english": "from a clinging substance."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "آپ پڑھیں اور آپ کا رب سب سے زیادہ کریم ہے ۔",
+            "eng": "Recite, and your Lord is the most Generous -",
+            "words": [
+                {
+                    "arabic": "اِقۡرَاۡ",
+                    "urdu": "پڑھیے",
+                    "english": "Read,"
+                },
+                {
+                    "arabic": "وَ رَبُّکَ",
+                    "urdu": "اور رب اپ کا",
+                    "english": "and your Lord"
+                },
+                {
+                    "arabic": "الۡاَکۡرَمُ",
+                    "urdu": "سب سے زیادہ کرم والا ہے",
+                    "english": "(is) the Most Generous,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "وہ ذات جس نے قلم سے علم سکھایا ۔",
+            "eng": "Who taught by the pen -",
+            "words": [
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "وہ جس نے",
+                    "english": "The One Who"
+                },
+                {
+                    "arabic": "عَلَّمَ",
+                    "urdu": "سکھایا",
+                    "english": "taught"
+                },
+                {
+                    "arabic": "بِالۡقَلَمِ",
+                    "urdu": "ساتھ قلم کے",
+                    "english": "by the pen,"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "اس نے انسان کو وہ کچھ سکھایا جو وہ نہیں جانتا تھا ۔",
+            "eng": "Taught man that which he knew not.",
+            "words": [
+                {
+                    "arabic": "عَلَّمَ",
+                    "urdu": "اس نے سکھایا",
+                    "english": "Taught"
+                },
+                {
+                    "arabic": "الۡاِنۡسَانَ",
+                    "urdu": "انسان کو",
+                    "english": "man"
+                },
+                {
+                    "arabic": "مَا",
+                    "urdu": "جو",
+                    "english": "what"
+                },
+                {
+                    "arabic": "لَمۡ",
+                    "urdu": "نہیں",
+                    "english": "not"
+                },
+                {
+                    "arabic": "یَعۡلَمۡ",
+                    "urdu": "وہ جانتا تھا",
+                    "english": "he knew."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "ہرگز نہیں ! بلاشبہ یقیناً انسان سرکش ہو جاتا ہے ۔",
+            "eng": "No! [But] indeed, man transgresses",
+            "words": [
+                {
+                    "arabic": "کَلَّاۤ",
+                    "urdu": "ہرگز نہیں",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "اِنَّ",
+                    "urdu": "بےشک",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "الۡاِنۡسَانَ",
+                    "urdu": "انسان",
+                    "english": "Man"
+                },
+                {
+                    "arabic": "لَیَطۡغٰۤی",
+                    "urdu": "البتہ سرکشی کرتا ہے",
+                    "english": "surely transgresses,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "کہ وہ اپنے آپ کو دیکھتا ہے کہ وہ مستغنی ہو گیا ۔",
+            "eng": "Because he sees himself self-sufficient.",
+            "words": [
+                {
+                    "arabic": "اَنۡ",
+                    "urdu": "کہ",
+                    "english": "That"
+                },
+                {
+                    "arabic": "رَّاٰہُ",
+                    "urdu": "وہ دیکھتا ہے خود کو",
+                    "english": "he sees himself"
+                },
+                {
+                    "arabic": "اسۡتَغۡنٰی",
+                    "urdu": "بےنیاز",
+                    "english": "self-sufficient."
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "یقیناً تیرے رب ہی کی طرف واپسی ہے ۔",
+            "eng": "Indeed, to your Lord is the return.",
+            "words": [
+                {
+                    "arabic": "اِنَّ",
+                    "urdu": "بےشک",
+                    "english": "Indeed,"
+                },
+                {
+                    "arabic": "اِلٰی رَبِّکَ",
+                    "urdu": "طرف آپ کے رب کے",
+                    "english": "to your Lord"
+                },
+                {
+                    "arabic": "الرُّجۡعٰی",
+                    "urdu": "پلٹنا ہے",
+                    "english": "(is) the return,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "کیا تم نے اُس شخص کو دیکھا ہے جو منع کرتا ہے ؟",
+            "eng": "Have you seen the one who forbids",
+            "words": [
+                {
+                    "arabic": "اَرَءَیۡتَ",
+                    "urdu": "کیا دیکھا آپ نے",
+                    "english": "Have you seen"
+                },
+                {
+                    "arabic": "الَّذِیۡ",
+                    "urdu": "اس شخص کو جو",
+                    "english": "the one who"
+                },
+                {
+                    "arabic": "یَنۡہٰی",
+                    "urdu": "روکتا ہے",
+                    "english": "forbids"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "ایک بندے کو جب وہ نماز پڑھتا ہے ۔",
+            "eng": "A servant when he prays?",
+            "words": [
+                {
+                    "arabic": "عَبۡدًا",
+                    "urdu": "ایک بندے کو",
+                    "english": "A slave"
+                },
+                {
+                    "arabic": "اِذَا",
+                    "urdu": "جب",
+                    "english": "when"
+                },
+                {
+                    "arabic": "صَلّٰی",
+                    "urdu": "وہ نماز پڑھتا ہے",
+                    "english": "he prays?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کیا آپ نے دیکھا اگر وہ ہدایت پر ہو ؟",
+            "eng": "Have you seen if he is upon guidance",
+            "words": [
+                {
+                    "arabic": "اَرَءَیۡتَ",
+                    "urdu": "کیا دیکھا آپ نے",
+                    "english": "Have you seen"
+                },
+                {
+                    "arabic": "اِنۡ",
+                    "urdu": "اگر",
+                    "english": "if"
+                },
+                {
+                    "arabic": "کَانَ",
+                    "urdu": "ہو وہ",
+                    "english": "he is"
+                },
+                {
+                    "arabic": "عَلَی الۡہُدٰۤی",
+                    "urdu": "ہدایت پر",
+                    "english": "upon the guidance,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "تقویٰ کا حکم دیتا ہو ۔",
+            "eng": "Or enjoins righteousness?",
+            "words": [
+                {
+                    "arabic": "اَوۡ",
+                    "urdu": "یا",
+                    "english": "Or"
+                },
+                {
+                    "arabic": "اَمَرَ",
+                    "urdu": "وہ حکم دیتا ہو",
+                    "english": "he enjoins"
+                },
+                {
+                    "arabic": "بِالتَّقۡوٰی",
+                    "urdu": "تقویٰ کا",
+                    "english": "of the righteousness?"
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "کیا تم نے دیکھا اگر اس نے جھٹلایا اور منہ موڑا ؟",
+            "eng": "Have you seen if he denies and turns away -",
+            "words": [
+                {
+                    "arabic": "اَرَءَیۡتَ",
+                    "urdu": "کیا دیکھا آپ نے",
+                    "english": "Have you seen"
+                },
+                {
+                    "arabic": "اِنۡ",
+                    "urdu": "اگر",
+                    "english": "if"
+                },
+                {
+                    "arabic": "کَذَّبَ",
+                    "urdu": "اس نے جھٹلایا",
+                    "english": "he denies"
+                },
+                {
+                    "arabic": "وَتَوَلّٰی",
+                    "urdu": "اور اس نے منہ موڑا",
+                    "english": "and turns away?"
+                }
+            ]
+        },
+        {
+            "ayat": 5,
+            "ur": "کیا اُس نے نہیں جانا کہ یقیناً اللہ تعالیٰ دیکھ رہا ہے ۔",
+            "eng": "Does he not know that Allah sees?",
+            "words": [
+                {
+                    "arabic": "اَلَمۡ",
+                    "urdu": "کیا نہیں",
+                    "english": "Does not"
+                },
+                {
+                    "arabic": "یَعۡلَمۡ",
+                    "urdu": "وہ جانتا",
+                    "english": "he know"
+                },
+                {
+                    "arabic": "بِاَنَّ",
+                    "urdu": "کہ بےشک",
+                    "english": "that"
+                },
+                {
+                    "arabic": "اللّٰہَ",
+                    "urdu": "اللہ",
+                    "english": "Allah"
+                },
+                {
+                    "arabic": "یَرٰی",
+                    "urdu": "دیکھ رہا ہے",
+                    "english": "sees?"
+                }
+            ]
+        },
+        {
+            "ayat": 6,
+            "ur": "ہرگز نہیں ! یقیناً اگر وہ باز نہ آیا تو ہم پیشانی کے بالوں سے لازماً کھینچیں گے ۔",
+            "eng": "No! If he does not desist, We will surely drag him by the forelock -",
+            "words": [
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "لَئِنۡ",
+                    "urdu": "البتہ اگر",
+                    "english": "if"
+                },
+                {
+                    "arabic": "لَّمۡ",
+                    "urdu": "نہ",
+                    "english": "not"
+                },
+                {
+                    "arabic": "یَنۡتَہِ",
+                    "urdu": "وہ باز آیا",
+                    "english": "he desists,"
+                },
+                {
+                    "arabic": "لَنَسۡفَعًۢا",
+                    "urdu": "تو ہم ضرور گھسیٹیں گے(اسے)",
+                    "english": "surely We will drag him"
+                },
+                {
+                    "arabic": "بِالنَّاصِیَۃِ",
+                    "urdu": "پیشانی کے(بالوں سے)",
+                    "english": "by the forelock,"
+                }
+            ]
+        },
+        {
+            "ayat": 3,
+            "ur": "جو جھوٹی ، خطاکار پیشانی ہے ۔",
+            "eng": "A lying, sinning forelock.",
+            "words": [
+                {
+                    "arabic": "نَاصِیَۃٍ",
+                    "urdu": "پیشانی",
+                    "english": "A forelock"
+                },
+                {
+                    "arabic": "کَاذِبَۃٍ",
+                    "urdu": "جو جھوٹی ہے",
+                    "english": "lying,"
+                },
+                {
+                    "arabic": "خَاطِئَۃٍ",
+                    "urdu": "خطا کار ہے",
+                    "english": "sinful."
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "پس وہ اپنی مجلس کو بُلا لے ۔",
+            "eng": "Then let him call his associates;",
+            "words": [
+                {
+                    "arabic": "فَلۡیَدۡعُ",
+                    "urdu": "پس چاہیے کہ وہ پکارے",
+                    "english": "Then let him call"
+                },
+                {
+                    "arabic": "نَادِیَہٗ",
+                    "urdu": "اپنی مجلس کو",
+                    "english": "his associates,"
+                }
+            ]
+        },
+        {
+            "ayat": 2,
+            "ur": "جلد ہی ہم دوزخ کے فرشتوں کو بلا لیں گے ۔",
+            "eng": "We will call the angels of Hell.",
+            "words": [
+                {
+                    "arabic": "سَنَدۡعُ",
+                    "urdu": "عنقریب ہم بلائیں گے",
+                    "english": "We will call"
+                },
+                {
+                    "arabic": "الزَّبَانِیَۃَ",
+                    "urdu": "دوزخ کے فرشتوں کو",
+                    "english": "the Angels of Hell."
+                }
+            ]
+        },
+        {
+            "ayat": 4,
+            "ur": "ہرگز نہیں ، آپ اُس کی بات نہ مانو اور سجدہ کرو اور بہت قریب ہو جاؤ ۔",
+            "eng": "No! Do not obey him. But prostrate and draw near [to Allah ].",
+            "words": [
+                {
+                    "arabic": "کَلَّا",
+                    "urdu": "ہرگز نہیں",
+                    "english": "Nay!"
+                },
+                {
+                    "arabic": "لَاتُطِعۡہُ",
+                    "urdu": "نہ آپ اطاعت کیجیے اس کی",
+                    "english": "(Do) not obey him."
+                },
+                {
+                    "arabic": "وَاسۡجُدۡ",
+                    "urdu": "اور سجدہ کیجیے",
+                    "english": "But prostrate"
+                },
+                {
+                    "arabic": "وَاقۡتَرِبۡ",
+                    "urdu": "اور قرب حاصل کیجیے",
+                    "english": "and draw near (to Allah)."
+                }
+            ]
+        }
+    ]
+}
