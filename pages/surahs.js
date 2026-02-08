@@ -11,6 +11,7 @@ export default function SurahsPage() {
   const [showWordModal, setShowWordModal] = useState(false)
   const [selectedSurah, setSelectedSurah] = useState(null)
   const [selectedAyat, setSelectedAyat] = useState(null)
+  const [selectedWord, setSelectedWord] = useState(null)
   const [searchTerm, setSearchTerm] = useState('')
   const [ayatFormData, setAyatFormData] = useState({
     ayat: '',
@@ -84,7 +85,7 @@ export default function SurahsPage() {
             number: num,
             name: surahNames[num],
             surah_key: data.surah_key,
-            ayat: data.verses || []
+            ayat: data.verses || []  // ✅ FIXED: Use 'verses' from Firestore
           })
         }
       }
@@ -101,6 +102,7 @@ export default function SurahsPage() {
   const handleEditAyat = (surah, ayatIndex) => {
     setSelectedSurah(surah)
     setSelectedAyat(ayatIndex)
+    setSelectedWord(null)
     const ayat = surah.ayat[ayatIndex]
     setAyatFormData({
       ayat: ayat.ayat || '',
@@ -113,6 +115,7 @@ export default function SurahsPage() {
   const handleAddAyat = (surah) => {
     setSelectedSurah(surah)
     setSelectedAyat(null)
+    setSelectedWord(null)
     setAyatFormData({
       ayat: '',
       ur: '',
@@ -128,7 +131,7 @@ export default function SurahsPage() {
       
       if (docSnap.exists()) {
         const currentData = docSnap.data()
-        const updatedAyat = [...currentData.ayat]
+        const updatedAyat = [...(currentData.verses || [])]
         
         const newAyat = {
           ayat: parseInt(ayatFormData.ayat),
@@ -145,7 +148,7 @@ export default function SurahsPage() {
         
         await setDoc(docRef, {
           ...currentData,
-          verses: updatedAyat
+          verses: updatedAyat  // ✅ FIXED: Save as 'verses'
         })
         
         setShowAyatModal(false)
@@ -167,11 +170,11 @@ export default function SurahsPage() {
       
       if (docSnap.exists()) {
         const currentData = docSnap.data()
-        const updatedAyat = currentData.ayat.filter((_, i) => i !== ayatIndex)
+        const updatedAyat = (currentData.verses || []).filter((_, i) => i !== ayatIndex)
         
         await setDoc(docRef, {
           ...currentData,
-          verses: updatedAyat
+          verses: updatedAyat  // ✅ FIXED: Save as 'verses'
         })
         
         fetchSurahs()
@@ -183,9 +186,11 @@ export default function SurahsPage() {
     }
   }
 
+  // ✅ NEW: Edit existing word
   const handleEditWord = (surah, ayatIndex, wordIndex) => {
     setSelectedSurah(surah)
     setSelectedAyat(ayatIndex)
+    setSelectedWord(wordIndex)
     const word = surah.ayat[ayatIndex].words[wordIndex]
     setWordFormData({
       arabic: word.arabic || '',
@@ -198,6 +203,7 @@ export default function SurahsPage() {
   const handleAddWord = (surah, ayatIndex) => {
     setSelectedSurah(surah)
     setSelectedAyat(ayatIndex)
+    setSelectedWord(null)
     setWordFormData({
       arabic: '',
       urdu: '',
@@ -213,15 +219,21 @@ export default function SurahsPage() {
       
       if (docSnap.exists()) {
         const currentData = docSnap.data()
-        const updatedAyat = [...currentData.ayat]
+        const updatedAyat = [...(currentData.verses || [])]
         const currentWords = [...(updatedAyat[selectedAyat].words || [])]
         
-        currentWords.push(wordFormData)
+        // ✅ FIXED: Either edit existing word or add new word
+        if (selectedWord !== null) {
+          currentWords[selectedWord] = wordFormData
+        } else {
+          currentWords.push(wordFormData)
+        }
+        
         updatedAyat[selectedAyat].words = currentWords
         
         await setDoc(docRef, {
           ...currentData,
-          verses: updatedAyat
+          verses: updatedAyat  // ✅ FIXED: Save as 'verses'
         })
         
         setShowWordModal(false)
@@ -243,14 +255,14 @@ export default function SurahsPage() {
       
       if (docSnap.exists()) {
         const currentData = docSnap.data()
-        const updatedAyat = [...currentData.ayat]
+        const updatedAyat = [...(currentData.verses || [])]
         const updatedWords = updatedAyat[ayatIndex].words.filter((_, i) => i !== wordIndex)
         
         updatedAyat[ayatIndex].words = updatedWords
         
         await setDoc(docRef, {
           ...currentData,
-          verses: updatedAyat
+          verses: updatedAyat  // ✅ FIXED: Save as 'verses'
         })
         
         fetchSurahs()
@@ -357,12 +369,14 @@ export default function SurahsPage() {
                         <button
                           onClick={() => handleEditAyat(surah, ayatIndex)}
                           className="p-2 text-blue-600 hover:bg-blue-50 rounded-lg transition"
+                          title="Edit Ayat"
                         >
                           <Edit2 size={18} />
                         </button>
                         <button
                           onClick={() => handleDeleteAyat(surah, ayatIndex)}
                           className="p-2 text-red-600 hover:bg-red-50 rounded-lg transition"
+                          title="Delete Ayat"
                         >
                           <Trash2 size={18} />
                         </button>
@@ -401,12 +415,23 @@ export default function SurahsPage() {
                               <span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs font-bold">
                                 Word #{wordIndex + 1}
                               </span>
-                              <button
-                                onClick={() => handleDeleteWord(surah, ayatIndex, wordIndex)}
-                                className="p-1 text-red-600 hover:bg-red-50 rounded transition"
-                              >
-                                <Trash2 size={14} />
-                              </button>
+                              <div className="flex gap-1">
+                                {/* ✅ NEW: Edit button for words */}
+                                <button
+                                  onClick={() => handleEditWord(surah, ayatIndex, wordIndex)}
+                                  className="p-1 text-blue-600 hover:bg-blue-50 rounded transition"
+                                  title="Edit Word"
+                                >
+                                  <Edit2 size={14} />
+                                </button>
+                                <button
+                                  onClick={() => handleDeleteWord(surah, ayatIndex, wordIndex)}
+                                  className="p-1 text-red-600 hover:bg-red-50 rounded transition"
+                                  title="Delete Word"
+                                >
+                                  <Trash2 size={14} />
+                                </button>
+                              </div>
                             </div>
                             <div className="space-y-1">
                               <p className="text-xl text-right font-semibold" dir="rtl">{word.arabic}</p>
@@ -514,7 +539,9 @@ export default function SurahsPage() {
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
           <div className="bg-white rounded-xl shadow-2xl p-8 max-w-xl w-full">
             <div className="flex justify-between items-center mb-6">
-              <h2 className="text-2xl font-bold text-gray-800">Add Word Translation</h2>
+              <h2 className="text-2xl font-bold text-gray-800">
+                {selectedWord !== null ? 'Edit Word' : 'Add Word'}
+              </h2>
               <button
                 onClick={() => setShowWordModal(false)}
                 className="p-2 hover:bg-gray-100 rounded-lg transition"
@@ -571,7 +598,7 @@ export default function SurahsPage() {
                   className="flex-1 flex items-center justify-center gap-2 px-4 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition font-semibold"
                 >
                   <Save size={20} />
-                  Add Word
+                  {selectedWord !== null ? 'Save Changes' : 'Add Word'}
                 </button>
                 <button
                   onClick={() => setShowWordModal(false)}
