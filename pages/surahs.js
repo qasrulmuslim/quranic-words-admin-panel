@@ -84,7 +84,7 @@ export default function SurahsPage() {
             number: num,
             name: surahNames[num],
             surah_key: data.surah_key,
-            ayat: data.ayat || []
+            ayat: data.verses || []
           })
         }
       }
@@ -145,7 +145,7 @@ export default function SurahsPage() {
         
         await setDoc(docRef, {
           ...currentData,
-          ayat: updatedAyat
+          verses: updatedAyat
         })
         
         setShowAyatModal(false)
@@ -171,7 +171,7 @@ export default function SurahsPage() {
         
         await setDoc(docRef, {
           ...currentData,
-          ayat: updatedAyat
+          verses: updatedAyat
         })
         
         fetchSurahs()
@@ -221,7 +221,7 @@ export default function SurahsPage() {
         
         await setDoc(docRef, {
           ...currentData,
-          ayat: updatedAyat
+          verses: updatedAyat
         })
         
         setShowWordModal(false)
@@ -250,7 +250,7 @@ export default function SurahsPage() {
         
         await setDoc(docRef, {
           ...currentData,
-          ayat: updatedAyat
+          verses: updatedAyat
         })
         
         fetchSurahs()
