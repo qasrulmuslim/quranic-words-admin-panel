@@ -75,7 +75,7 @@ export default function SurahsPage() {
       
       // Fetch all surahs (78-114)
       for (let num = 78; num <= 114; num++) {
-        const docRef = doc(db, 'quranic_surahs', num.toString())
+        const docRef = doc(db, 'surahs', num.toString())
         const docSnap = await getDoc(docRef)
         
         if (docSnap.exists()) {
@@ -123,7 +123,7 @@ export default function SurahsPage() {
 
   const handleSaveAyat = async () => {
     try {
-      const docRef = doc(db, 'quranic_surahs', selectedSurah.number.toString())
+      const docRef = doc(db, 'surahs', selectedSurah.number.toString())
       const docSnap = await getDoc(docRef)
       
       if (docSnap.exists()) {
@@ -208,7 +208,7 @@ export default function SurahsPage() {
 
   const handleSaveWord = async () => {
     try {
-      const docRef = doc(db, 'quranic_surahs', selectedSurah.number.toString())
+      const docRef = doc(db, 'surahs', selectedSurah.number.toString())
       const docSnap = await getDoc(docRef)
       
       if (docSnap.exists()) {
@@ -238,7 +238,7 @@ export default function SurahsPage() {
     if (!confirm('Are you sure you want to delete this word?')) return
     
     try {
-      const docRef = doc(db, 'quranic_surahs', surah.number.toString())
+      const docRef = doc(db, 'surahs', surah.number.toString())
       const docSnap = await getDoc(docRef)
       
       if (docSnap.exists()) {
