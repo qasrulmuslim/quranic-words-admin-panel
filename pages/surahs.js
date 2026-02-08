@@ -162,7 +162,7 @@ export default function SurahsPage() {
     if (!confirm('Are you sure you want to delete this ayat?')) return
     
     try {
-      const docRef = doc(db, 'quranic_surahs', surah.number.toString())
+      const docRef = doc(db, 'surahs', surah.number.toString())
       const docSnap = await getDoc(docRef)
       
       if (docSnap.exists()) {
