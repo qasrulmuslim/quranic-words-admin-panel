@@ -14,6 +14,8 @@ export default function QuranicDuasPage() {
     urdu_translation: '',
     surah_number: '',
     id: '',
+    prophet_en: '',
+    prophet_ur: '',
     category: 'rabana' // For new duas
   })
   const router = useRouter()
@@ -41,7 +43,9 @@ export default function QuranicDuasPage() {
             arabic: prayerData.arabic || '',
             urdu_translation: prayerData.urdu_translation || '',
             surah_number: prayerData.surah_number || '',
-            id: prayerData.id || ''
+            id: prayerData.id || '',
+            prophet_en: prayerData.prophet_en || '',
+            prophet_ur: prayerData.prophet_ur || ''
           })
         })
       })
@@ -73,7 +77,9 @@ export default function QuranicDuasPage() {
             arabic: formData.arabic,
             urdu_translation: formData.urdu_translation,
             surah_number: formData.surah_number,
-            id: formData.id
+            id: formData.id,
+            prophet_en: formData.prophet_en,
+            prophet_ur: formData.prophet_ur
           }
         } else {
           // Add new
@@ -82,7 +88,9 @@ export default function QuranicDuasPage() {
             arabic: formData.arabic,
             urdu_translation: formData.urdu_translation,
             surah_number: formData.surah_number,
-            id: formData.id
+            id: formData.id,
+            prophet_en: formData.prophet_en,
+            prophet_ur: formData.prophet_ur
           }
         }
         
@@ -90,7 +98,7 @@ export default function QuranicDuasPage() {
       }
       
       setShowModal(false)
-      setFormData({ arabic: '', urdu_translation: '', surah_number: '', id: '', category: 'rabana' })
+      setFormData({ arabic: '', urdu_translation: '', surah_number: '', id: '', prophet_en: '', prophet_ur: '', category: 'rabana' })
       setEditingItem(null)
       fetchItems()
     } catch (error) {
@@ -105,6 +113,8 @@ export default function QuranicDuasPage() {
       urdu_translation: item.urdu_translation || '',
       surah_number: item.surah_number || '',
       id: item.id || '',
+      prophet_en: item.prophet_en || '',
+      prophet_ur: item.prophet_ur || '',
       category: item.docName
     })
     setShowModal(true)
@@ -112,7 +122,7 @@ export default function QuranicDuasPage() {
 
   const handleAdd = () => {
     setEditingItem(null)
-    setFormData({ arabic: '', urdu_translation: '', surah_number: '', id: '', category: 'rabana' })
+    setFormData({ arabic: '', urdu_translation: '', surah_number: '', id: '', prophet_en: '', prophet_ur: '', category: 'rabana' })
     setShowModal(true)
   }
 
@@ -315,6 +325,34 @@ export default function QuranicDuasPage() {
                     onChange={(e) => setFormData({ ...formData, id: e.target.value })}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none"
                     placeholder="1, 2, 3..."
+                  />
+                </div>
+              </div>
+
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Prophet Name (English)
+                  </label>
+                  <input
+                    type="text"
+                    value={formData.prophet_en}
+                    onChange={(e) => setFormData({ ...formData, prophet_en: e.target.value })}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none"
+                    placeholder="e.g. Prophet Ibrahim (AS)"
+                  />
+                </div>
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Prophet Name (Urdu)
+                  </label>
+                  <input
+                    type="text"
+                    value={formData.prophet_ur}
+                    onChange={(e) => setFormData({ ...formData, prophet_ur: e.target.value })}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none text-right"
+                    placeholder="مثلاً: حضرت ابراہیم ؑ"
+                    dir="rtl"
                   />
                 </div>
               </div>
