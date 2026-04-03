@@ -14,6 +14,7 @@ export default function HadeesPage() {
     hadith_number: '',
     text_arabic: '',
     text_urdu: '',
+    text_english: '',
     surah_id: '',
     surah_name_arabic: '',
     surah_name_english: ''
@@ -42,6 +43,7 @@ export default function HadeesPage() {
             hadith_number: hadithData.hadith_number || '',
             text_arabic: hadithData.text_arabic || '',
             text_urdu: hadithData.text_urdu || '',
+            text_english: hadithData.text_english || '',
             surah_id: docData.surah_id || '',           // FROM DOCUMENT ROOT
             surah_name_arabic: docData.surah_name_arabic || '',  // FROM DOCUMENT ROOT
             surah_name_english: docData.surah_name_english || '' // FROM DOCUMENT ROOT
@@ -75,6 +77,7 @@ export default function HadeesPage() {
             book: formData.book,
             text_arabic: formData.text_arabic,
             text_urdu: formData.text_urdu,
+            text_english: formData.text_english,
             hadith_number: formData.hadith_number
           }
           
@@ -96,6 +99,7 @@ export default function HadeesPage() {
               book: formData.book,
               text_arabic: formData.text_arabic,
               text_urdu: formData.text_urdu,
+              text_english: formData.text_english,
               hadith_number: formData.hadith_number
             }
           }
@@ -103,14 +107,15 @@ export default function HadeesPage() {
       }
       
       setShowModal(false)
-      setFormData({ 
-        surah_id: '', 
-        surah_name_arabic: '', 
-        surah_name_english: '', 
-        book: '', 
-        text_arabic: '', 
-        text_urdu: '', 
-        hadith_number: '' 
+      setFormData({
+        surah_id: '',
+        surah_name_arabic: '',
+        surah_name_english: '',
+        book: '',
+        text_arabic: '',
+        text_urdu: '',
+        text_english: '',
+        hadith_number: ''
       })
       setEditingItem(null)
       fetchItems()
@@ -126,6 +131,7 @@ export default function HadeesPage() {
       hadith_number: item.hadith_number || '',
       text_arabic: item.text_arabic || '',
       text_urdu: item.text_urdu || '',
+      text_english: item.text_english || '',
       surah_id: item.surah_id || '',
       surah_name_arabic: item.surah_name_arabic || '',
       surah_name_english: item.surah_name_english || ''
@@ -160,7 +166,7 @@ export default function HadeesPage() {
 
   const handleAdd = () => {
     setEditingItem(null)
-    setFormData({ book: '', hadith_number: '', text_arabic: '', text_urdu: '', surah_id: '', surah_name_arabic: '', surah_name_english: '' })
+    setFormData({ book: '', hadith_number: '', text_arabic: '', text_urdu: '', text_english: '', surah_id: '', surah_name_arabic: '', surah_name_english: '' })
     setShowModal(true)
   }
 
@@ -296,6 +302,15 @@ export default function HadeesPage() {
                           {item.text_urdu}
                         </p>
                       </div>
+
+                      {item.text_english && (
+                        <div>
+                          <p className="text-sm font-medium text-gray-600 mb-2">English Translation</p>
+                          <p className="text-base leading-relaxed bg-gray-50 p-4 rounded-lg">
+                            {item.text_english}
+                          </p>
+                        </div>
+                      )}
                     </div>
                   </div>
                 ))}
@@ -422,6 +437,19 @@ export default function HadeesPage() {
                   rows="4"
                   dir="rtl"
                   required
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  English Translation
+                </label>
+                <textarea
+                  value={formData.text_english}
+                  onChange={(e) => setFormData({ ...formData, text_english: e.target.value })}
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none text-base leading-relaxed"
+                  rows="4"
+                  placeholder="English translation..."
                 />
               </div>
 
