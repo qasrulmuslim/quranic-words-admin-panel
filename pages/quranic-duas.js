@@ -12,6 +12,7 @@ export default function QuranicDuasPage() {
   const [formData, setFormData] = useState({
     arabic: '',
     urdu_translation: '',
+    english_translation: '',
     surah_number: '',
     id: '',
     prophet_en: '',
@@ -42,6 +43,7 @@ export default function QuranicDuasPage() {
             index: index,
             arabic: prayerData.arabic || '',
             urdu_translation: prayerData.urdu_translation || '',
+            english_translation: prayerData.english_translation || '',
             surah_number: prayerData.surah_number || '',
             id: prayerData.id || '',
             prophet_en: prayerData.prophet_en || '',
@@ -76,6 +78,7 @@ export default function QuranicDuasPage() {
           updatedPrayers[editingItem.index] = {
             arabic: formData.arabic,
             urdu_translation: formData.urdu_translation,
+            english_translation: formData.english_translation,
             surah_number: formData.surah_number,
             id: formData.id,
             prophet_en: formData.prophet_en,
@@ -87,6 +90,7 @@ export default function QuranicDuasPage() {
           updatedPrayers[nextIndex] = {
             arabic: formData.arabic,
             urdu_translation: formData.urdu_translation,
+            english_translation: formData.english_translation,
             surah_number: formData.surah_number,
             id: formData.id,
             prophet_en: formData.prophet_en,
@@ -98,7 +102,7 @@ export default function QuranicDuasPage() {
       }
       
       setShowModal(false)
-      setFormData({ arabic: '', urdu_translation: '', surah_number: '', id: '', prophet_en: '', prophet_ur: '', category: 'rabana' })
+      setFormData({ arabic: '', urdu_translation: '', english_translation: '', surah_number: '', id: '', prophet_en: '', prophet_ur: '', category: 'rabana' })
       setEditingItem(null)
       fetchItems()
     } catch (error) {
@@ -111,6 +115,7 @@ export default function QuranicDuasPage() {
     setFormData({
       arabic: item.arabic || '',
       urdu_translation: item.urdu_translation || '',
+      english_translation: item.english_translation || '',
       surah_number: item.surah_number || '',
       id: item.id || '',
       prophet_en: item.prophet_en || '',
@@ -258,6 +263,15 @@ export default function QuranicDuasPage() {
                           {item.urdu_translation}
                         </p>
                       </div>
+
+                      {item.english_translation && (
+                        <div>
+                          <p className="text-sm font-medium text-gray-600 mb-2">English Translation</p>
+                          <p className="text-base leading-relaxed bg-gray-50 p-4 rounded-lg">
+                            {item.english_translation}
+                          </p>
+                        </div>
+                      )}
                     </div>
                   </div>
                 ))}
@@ -382,6 +396,19 @@ export default function QuranicDuasPage() {
                   rows="3"
                   dir="rtl"
                   required
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  English Translation
+                </label>
+                <textarea
+                  value={formData.english_translation}
+                  onChange={(e) => setFormData({ ...formData, english_translation: e.target.value })}
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent outline-none text-base leading-relaxed"
+                  rows="3"
+                  placeholder="English translation..."
                 />
               </div>
 
