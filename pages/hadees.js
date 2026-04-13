@@ -12,6 +12,7 @@ export default function HadeesPage() {
   const [formData, setFormData] = useState({
     book: '',
     hadith_number: '',
+    page_number: '',
     text_arabic: '',
     text_urdu: '',
     text_english: '',
@@ -33,7 +34,7 @@ export default function HadeesPage() {
       snapshot.docs.forEach(doc => {
         const docData = doc.data()
         const hadithsArray = docData.hadiths || {}
-        
+
         Object.entries(hadithsArray).forEach(([index, hadithData]) => {
           data.push({
             id: `${doc.id}_${index}`,
@@ -41,6 +42,7 @@ export default function HadeesPage() {
             index: index,
             book: hadithData.book || '',
             hadith_number: hadithData.hadith_number || '',
+            page_number: hadithData.page_number || '',
             text_arabic: hadithData.text_arabic || '',
             text_urdu: hadithData.text_urdu || '',
             text_english: hadithData.text_english || '',
@@ -69,7 +71,7 @@ export default function HadeesPage() {
         // Update existing hadith
         const docRef = doc(db, 'hadees_data', editingItem.docId)
         const docSnap = await getDoc(docRef)
-        
+
         if (docSnap.exists()) {
           const currentData = docSnap.data()
           const updatedHadiths = { ...currentData.hadiths }
@@ -78,10 +80,11 @@ export default function HadeesPage() {
             text_arabic: formData.text_arabic,
             text_urdu: formData.text_urdu,
             text_english: formData.text_english,
-            hadith_number: formData.hadith_number
+            hadith_number: formData.hadith_number,
+            page_number: formData.page_number
           }
-          
-          await updateDoc(docRef, { 
+
+          await updateDoc(docRef, {
             hadiths: updatedHadiths,
             surah_id: parseInt(formData.surah_id),
             surah_name_arabic: formData.surah_name_arabic,
@@ -89,21 +92,50 @@ export default function HadeesPage() {
           })
         }
       } else {
-        // ✅ FIX: Use setDoc with surah_id as document ID
-        await setDoc(doc(db, 'hadees_data', surahId), {
-          surah_id: parseInt(formData.surah_id),
-          surah_name_arabic: formData.surah_name_arabic,
-          surah_name_english: formData.surah_name_english,
-          hadiths: {
-            0: {
-              book: formData.book,
-              text_arabic: formData.text_arabic,
-              text_urdu: formData.text_urdu,
-              text_english: formData.text_english,
-              hadith_number: formData.hadith_number
-            }
+        // Add new hadith — check if document for this surah already exists
+        const docRef = doc(db, 'hadees_data', surahId)
+        const docSnap = await getDoc(docRef)
+
+        if (docSnap.exists()) {
+          // Document exists: append the new hadith without overwriting existing ones
+          const currentData = docSnap.data()
+          const existingHadiths = currentData.hadiths || {}
+          const existingKeys = Object.keys(existingHadiths).map(Number)
+          const nextIndex = existingKeys.length > 0 ? Math.max(...existingKeys) + 1 : 0
+
+          const updatedHadiths = { ...existingHadiths }
+          updatedHadiths[nextIndex] = {
+            book: formData.book,
+            text_arabic: formData.text_arabic,
+            text_urdu: formData.text_urdu,
+            text_english: formData.text_english,
+            hadith_number: formData.hadith_number,
+            page_number: formData.page_number
           }
-        })
+
+          await updateDoc(docRef, {
+            hadiths: updatedHadiths,
+            surah_name_arabic: formData.surah_name_arabic,
+            surah_name_english: formData.surah_name_english
+          })
+        } else {
+          // Document doesn't exist yet: create it fresh
+          await setDoc(docRef, {
+            surah_id: parseInt(formData.surah_id),
+            surah_name_arabic: formData.surah_name_arabic,
+            surah_name_english: formData.surah_name_english,
+            hadiths: {
+              0: {
+                book: formData.book,
+                text_arabic: formData.text_arabic,
+                text_urdu: formData.text_urdu,
+                text_english: formData.text_english,
+                hadith_number: formData.hadith_number,
+                page_number: formData.page_number
+              }
+            }
+          })
+        }
       }
       
       setShowModal(false)
@@ -115,7 +147,8 @@ export default function HadeesPage() {
         text_arabic: '',
         text_urdu: '',
         text_english: '',
-        hadith_number: ''
+        hadith_number: '',
+        page_number: ''
       })
       setEditingItem(null)
       fetchItems()
@@ -129,6 +162,7 @@ export default function HadeesPage() {
     setFormData({
       book: item.book || '',
       hadith_number: item.hadith_number || '',
+      page_number: item.page_number || '',
       text_arabic: item.text_arabic || '',
       text_urdu: item.text_urdu || '',
       text_english: item.text_english || '',
@@ -166,7 +200,7 @@ export default function HadeesPage() {
 
   const handleAdd = () => {
     setEditingItem(null)
-    setFormData({ book: '', hadith_number: '', text_arabic: '', text_urdu: '', text_english: '', surah_id: '', surah_name_arabic: '', surah_name_english: '' })
+    setFormData({ book: '', hadith_number: '', page_number: '', text_arabic: '', text_urdu: '', text_english: '', surah_id: '', surah_name_arabic: '', surah_name_english: '' })
     setShowModal(true)
   }
 
@@ -269,7 +303,10 @@ export default function HadeesPage() {
                         </span>
                         <div>
                           <h3 className="text-base font-semibold text-gray-800">{item.book}</h3>
-                          <p className="text-xs text-gray-500">Hadith #{item.hadith_number}</p>
+                          <p className="text-xs text-gray-500">
+                            Hadith #{item.hadith_number}
+                            {item.page_number && <span className="ml-2">· Page {item.page_number}</span>}
+                          </p>
                         </div>
                       </div>
                       <div className="flex gap-2">
@@ -336,7 +373,7 @@ export default function HadeesPage() {
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-4">
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-3 gap-4">
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
                     Book Name *
@@ -363,6 +400,19 @@ export default function HadeesPage() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none"
                     placeholder="4704"
                     required
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Page Number
+                  </label>
+                  <input
+                    type="number"
+                    value={formData.page_number}
+                    onChange={(e) => setFormData({ ...formData, page_number: e.target.value })}
+                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none"
+                    placeholder="42"
                   />
                 </div>
               </div>
